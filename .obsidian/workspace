@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "fc0b8b2afba2ba2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfbd0b55671ef4b7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/en/blog/Why-I-Believe-in-a-God.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "ad60a2db313cdcae",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3a0424f2e100d32",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d4a4f2305dfcbe8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12b837044b81db8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3576bdccd35d3a52",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b0d49e35f313442",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4b6a28a167f1ee9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e832fbd482e4023",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c1ac760df277148",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "248d18bd4088c7e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "251d2306e109448f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3fd764bf45217146",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ad60a2db313cdcae",
+  "lastOpenFiles": [
+    "content/en/blog/Why-I-Believe-in-a-God.md",
+    "content/en/blog/LGBTQ-Apologetics.md",
+    "content/en/home/index.md",
+    "content/en/home/contact.md",
+    "content/en/home/about.md",
+    "content/en/blog/_index.md",
+    "content/en/blog/startup-ipsum.md",
+    "content/en/books/index.md",
+    "content/en/books/_index.md",
+    "themes/introduction/README.md"
+  ]
+}
