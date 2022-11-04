@@ -62,7 +62,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         icon  = "twitter" # icon name without the 'fa-'
         icon_pack = "fab"
     [[params.social]]
-        url   = "https://www.twitch.tv/jezako/"
+        url   = "https://www.twitch.tv/jezako"
         icon  = "twitch" # icon name without the 'fa-'
         icon_pack = "fab"
     [[params.social]]
