@@ -32,6 +32,11 @@ jobs:
     env:
       HUGO_VERSION: 0.102.3
     steps:
+      - name: Fix permission
+        run: |
+          sudo npm i -g postcss-cli
+          sudo npm i -g autoprefixer 
+
       - name: Install Hugo CLI
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.deb \
