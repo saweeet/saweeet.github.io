@@ -4,6 +4,7 @@ title: "Why you should believe in the Christian God"
 date: 2021-12-26T12:04:16-05:00
 tags: ["aethism","agnostic"]
 series: ["theology"]
+draft: true
 resources:
     - src: 20220530163406.png.jpg
 ---
@@ -32,7 +33,7 @@ There are many reasons and arguments for the existence of God.  Some reasons can
 
 - **Jesus Christ was a real person who walked this Earth and claimed to be God**. No other major religion figure has claim to do so. Many other religious figures say they're messengers or alike, none other Jesus Christ say that he is divine himself. Any reputable historian or archaeologist have used the Bible as trustworthy and agreed that he existed and died by crucifixion.
 
-- I would say the biggest hurdle to believe in, is the resurrection. Saint Paul would say, without the resurrection, then our Faith is *useless* and that we Christians are *the most pitiful of people* [1 Corithians 15:12-19]. The evidence for the resurrection is surprisingly very convincing, and it is up to you to put the effort in and seek this out. Many debates are online on this topic, a recent one is by the truly respected Trent Horn and Matt Dillahunty [3].
+- I would say the biggest hurdle to believe in, is the resurrection. Saint Paul would say, without the resurrection, then our Faith is *useless* and that we Christians are *the most pitiful of people* [1 Corithians 15:12-19]. The evidence for the resurrection is surprisingly very convincing, and it is up to you to put the effort in and seek this out. Many debates are online on this topic, a recent one is by the truly respected Trent Horn git Matt Dillahunty [3].
 
 - The Apostles endured horrendous deaths. Many other groups often renounce their faith when attacked with death or horrible torture. This indicates that the Apostles and early Christians really believed that Jesus truly resurrected. How does this differ to other religions who die in the name of their faith
 
