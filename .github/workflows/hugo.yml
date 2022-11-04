@@ -56,6 +56,10 @@ jobs:
         uses: actions/upload-pages-artifact@v1
         with:
           path: ./public
+      - name: Fix permission
+        run: |
+          chmod a+x themes/* 
+          git commit -am "add permission"
 
   # Deployment job
   deploy:
