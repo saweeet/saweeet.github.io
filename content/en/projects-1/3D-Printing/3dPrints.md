@@ -1,5 +1,5 @@
 ---
-title: "Rosary Tool 3D Print"
+title: "3D Prints"
 date: 2022-02-20T12:04:16-05:00
 tags: ["images"]
 series: ["example posts"]
