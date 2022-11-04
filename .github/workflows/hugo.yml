@@ -32,10 +32,10 @@ jobs:
     env:
       HUGO_VERSION: 0.102.3
     steps:
-      #- name: Fix permission
-      #  run: |
-      #    chmod a+x css/* 
-      #    git commit -am "add permission"
+      - name: Fix permission
+        run: |
+          sudo npm i -g postcss-cli
+          sudo npm i -g autoprefixer 
 
       - name: Install Hugo CLI
         run: |
