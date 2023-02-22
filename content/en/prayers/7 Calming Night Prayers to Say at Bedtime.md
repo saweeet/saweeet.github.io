@@ -20,7 +20,6 @@ Instead, release your worries and the pressures of the day by taking them to the
 
 
 ### 1. A Bedtime Prayer for Good Rest (Psalm 4)
-bedtime prayer rest
 God loves to lavish gifts on His children, and He tells us to ask Him for what we need (Matthew 7:7-11). If you are having trouble falling asleep, ask God to help you get the rest your body needs. Trust Him to care for your needs in His perfect timing. 
 
 Father, please give me relief from these sleepless nights. I am so tired. In your mercy, please give me the gift of restful sleep. You have filled my heart with joy, more joy than all the riches in the world could bring. I will lie down and sleep in peace, for You are with me, and I am safe in Your love.
