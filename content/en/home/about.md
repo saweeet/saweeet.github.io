@@ -1,6 +1,5 @@
 ---
 title: "whoami"
-image: "profile-leojerem.jpg"
 weight: 8
 ---
 
