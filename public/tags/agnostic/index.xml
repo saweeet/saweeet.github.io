@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>agnostic on Im Jeremy</title>
-    <link>http://imjeremy.com/tags/agnostic/</link>
-    <description>Recent content in agnostic on Im Jeremy</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Agnostic on imjeremy</title>
+    <link>http://localhost:1313/tags/agnostic/</link>
+    <description>Recent content in Agnostic on imjeremy</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Dec 2021 12:04:16 -0500</lastBuildDate><atom:link href="http://imjeremy.com/tags/agnostic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Dec 2021 12:04:16 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/agnostic/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Why I believe in a God</title>
-      <link>http://imjeremy.com/blog/why-i-believe-in-a-god/</link>
+      <title>Chicken Adobo</title>
+      <link>http://localhost:1313/kitchen/why-i-believe-in-a-god/</link>
       <pubDate>Sun, 26 Dec 2021 12:04:16 -0500</pubDate>
-      
-      <guid>http://imjeremy.com/blog/why-i-believe-in-a-god/</guid>
-      <description>Big question right. My reasonining has changed progressively over the years and evolved in many ways. And so I&amp;rsquo;ve tried to divide my thoughts into two sections, quick thoughts and longer ones.
-Quick Thoughts It is unlikely that there will be a single convincing answer to prove God&amp;rsquo;s exisitence, rather it will be a combination of reasons. God is immaterial, so we need to reach examine this using non-material scientific approaches.</description>
+      <guid>http://localhost:1313/kitchen/why-i-believe-in-a-god/</guid>
+      <description>Um, no need to cook. Just go find a nice filipino family and open their fridge.</description>
     </item>
-    
   </channel>
 </rss>

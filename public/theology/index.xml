@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Theology on Im Jeremy</title>
-    <link>http://imjeremy.com/theology/</link>
-    <description>Recent content in Theology on Im Jeremy</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Theology on imjeremy</title>
+    <link>http://localhost:1313/theology/</link>
+    <description>Recent content in Theology on imjeremy</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Dec 2021 12:04:16 -0500</lastBuildDate><atom:link href="http://imjeremy.com/theology/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Why I believe in a God</title>
-      <link>http://imjeremy.com/theology/why-i-believe-in-a-god/</link>
-      <pubDate>Sun, 26 Dec 2021 12:04:16 -0500</pubDate>
-      
-      <guid>http://imjeremy.com/theology/why-i-believe-in-a-god/</guid>
-      <description>Published by jeremy on December 26, 2021
-Wow, big question right ? My understanding has changed progressively over the years and evolved in many ways.
-There several reasons as to why I believe in a God. In no particular order, here are my reasons:
-Jesus Christ, a real person who walked this Earth and claimed to be God. The evidence that shows he existed, died and resurrected is very convincing</description>
-    </item>
-    
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/theology/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

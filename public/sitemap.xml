@@ -2,60 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://imjeremy.com/books/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2022-02-20T12:04:16-05:00</lastmod>
   </url><url>
-    <loc>http://imjeremy.com/blog/</loc>
+    <loc>http://localhost:1313/kitchen/</loc>
     <lastmod>2021-12-26T12:04:16-05:00</lastmod>
   </url><url>
-    <loc>http://imjeremy.com/theology/</loc>
-    <lastmod>2021-12-26T12:04:16-05:00</lastmod>
+    <loc>http://localhost:1313/theology/</loc>
+    <lastmod>2022-06-26T12:04:16-05:00</lastmod>
   </url><url>
-    <loc>http://imjeremy.com/series/example-posts/</loc>
+    <loc>http://localhost:1313/prayers/</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2022-06-26T12:04:16-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/3d-printing/3dprints/</loc>
     <lastmod>2022-02-20T12:04:16-05:00</lastmod>
   </url><url>
-    <loc>http://imjeremy.com/</loc>
+    <loc>http://localhost:1313/series/example-posts/</loc>
     <lastmod>2022-02-20T12:04:16-05:00</lastmod>
   </url><url>
-    <loc>http://imjeremy.com/tags/images/</loc>
+    <loc>http://localhost:1313/tags/images/</loc>
     <lastmod>2022-02-20T12:04:16-05:00</lastmod>
   </url><url>
-    <loc>http://imjeremy.com/books/</loc>
+    <loc>http://localhost:1313/series/</loc>
     <lastmod>2022-02-20T12:04:16-05:00</lastmod>
   </url><url>
-    <loc>http://imjeremy.com/series/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2022-02-20T12:04:16-05:00</lastmod>
   </url><url>
-    <loc>http://imjeremy.com/tags/</loc>
-    <lastmod>2022-02-20T12:04:16-05:00</lastmod>
-  </url><url>
-    <loc>http://imjeremy.com/tags/aethism/</loc>
+    <loc>http://localhost:1313/tags/aethism/</loc>
     <lastmod>2021-12-26T12:04:16-05:00</lastmod>
   </url><url>
-    <loc>http://imjeremy.com/tags/agnostic/</loc>
+    <loc>http://localhost:1313/tags/agnostic/</loc>
     <lastmod>2021-12-26T12:04:16-05:00</lastmod>
   </url><url>
-    <loc>http://imjeremy.com/series/theology/</loc>
+    <loc>http://localhost:1313/kitchen/why-i-believe-in-a-god/</loc>
     <lastmod>2021-12-26T12:04:16-05:00</lastmod>
   </url><url>
-    <loc>http://imjeremy.com/blog/why-i-believe-in-a-god/</loc>
+    <loc>http://localhost:1313/series/theology/</loc>
     <lastmod>2021-12-26T12:04:16-05:00</lastmod>
   </url><url>
-    <loc>http://imjeremy.com/theology/why-i-believe-in-a-god/</loc>
-    <lastmod>2021-12-26T12:04:16-05:00</lastmod>
+    <loc>http://localhost:1313/prayers/glorious-mysteries-wednesday-_-sunday/</loc>
   </url><url>
-    <loc>http://imjeremy.com/tags/features/</loc>
-    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
+    <loc>http://localhost:1313/prayers/how-to-pray-the-rosary/</loc>
   </url><url>
-    <loc>http://imjeremy.com/tags/markdown/</loc>
-    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
+    <loc>http://localhost:1313/prayers/joyful-mysteries-monday-_-saturday/</loc>
   </url><url>
-    <loc>http://imjeremy.com/blog/startup-ipsum/</loc>
-    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
+    <loc>http://localhost:1313/prayers/luminous-mysteries-thursday/</loc>
   </url><url>
-    <loc>http://imjeremy.com/series/quickstart/</loc>
-    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
+    <loc>http://localhost:1313/prayers/sorrowful-mysteries-tuesday-_-friday/</loc>
   </url><url>
-    <loc>http://imjeremy.com/home/</loc>
+    <loc>http://localhost:1313/prayers/angelus/</loc>
+  </url><url>
+    <loc>http://localhost:1313/prayers/apostles-creed/</loc>
+  </url><url>
+    <loc>http://localhost:1313/prayers/confiteor/</loc>
+  </url><url>
+    <loc>http://localhost:1313/prayers/gloria/</loc>
+  </url><url>
+    <loc>http://localhost:1313/prayers/hail-holy-queen/</loc>
+  </url><url>
+    <loc>http://localhost:1313/home/</loc>
+  </url><url>
+    <loc>http://localhost:1313/prayers/litany-of-humlity/</loc>
+  </url><url>
+    <loc>http://localhost:1313/prayers/memorare/</loc>
+  </url><url>
+    <loc>http://localhost:1313/prayers/7-calming-night-prayers-to-say-at-bedtime/</loc>
+  </url><url>
+    <loc>http://localhost:1313/prayers/prayer-to-the-angels-of-god/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/prayers/</loc>
+  </url><url>
+    <loc>http://localhost:1313/prayers/salve-regina/</loc>
   </url>
 </urlset>

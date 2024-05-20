@@ -1,38 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on Im Jeremy</title>
-    <link>http://imjeremy.com/series/</link>
-    <description>Recent content in Series on Im Jeremy</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Series on imjeremy</title>
+    <link>http://localhost:1313/series/</link>
+    <description>Recent content in Series on imjeremy</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Feb 2022 12:04:16 -0500</lastBuildDate><atom:link href="http://imjeremy.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Feb 2022 12:04:16 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>example posts</title>
-      <link>http://imjeremy.com/series/example-posts/</link>
-      <pubDate>Sun, 20 Feb 2022 12:04:16 -0500</pubDate>
-      
-      <guid>http://imjeremy.com/series/example-posts/</guid>
+      <title>Example Posts</title>
+      <link>http://localhost:1313/series/example-posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/series/example-posts/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>theology</title>
-      <link>http://imjeremy.com/series/theology/</link>
-      <pubDate>Sun, 26 Dec 2021 12:04:16 -0500</pubDate>
-      
-      <guid>http://imjeremy.com/series/theology/</guid>
+      <title>Theology</title>
+      <link>http://localhost:1313/series/theology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/series/theology/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>quickstart</title>
-      <link>http://imjeremy.com/series/quickstart/</link>
-      <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
-      
-      <guid>http://imjeremy.com/series/quickstart/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

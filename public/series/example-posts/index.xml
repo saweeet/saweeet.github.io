@@ -1,35 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>example posts on Im Jeremy</title>
-    <link>http://imjeremy.com/series/example-posts/</link>
-    <description>Recent content in example posts on Im Jeremy</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Example Posts on imjeremy</title>
+    <link>http://localhost:1313/series/example-posts/</link>
+    <description>Recent content in Example Posts on imjeremy</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Feb 2022 12:04:16 -0500</lastBuildDate><atom:link href="http://imjeremy.com/series/example-posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Feb 2022 12:04:16 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/series/example-posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Post with Images Example</title>
-      <link>http://imjeremy.com/books/</link>
+      <title>3D Prints</title>
+      <link>http://localhost:1313/projects/3d-printing/3dprints/</link>
       <pubDate>Sun, 20 Feb 2022 12:04:16 -0500</pubDate>
-      
-      <guid>http://imjeremy.com/books/</guid>
-      <description>Images can be added to posts using Markdown syntax:
-![Sample image](workday.jpg) Which looks like this:
-You can also use Hugo&amp;rsquo;s built-in figure shortcode. This lets you add a caption, and looks like this:
-Black and white work day photo. Posts with images are great at capturing attention and showcasing your work. Why not try it today?</description>
+      <guid>http://localhost:1313/projects/3d-printing/3dprints/</guid>
+      <description>Images can be added to posts using Markdown syntax:&#xA;![Sample image](workday.jpg) Which looks like this:&#xA;You can also use Hugo&amp;rsquo;s built-in figure shortcode. This lets you add a caption, and looks like this:&#xA;Black and white work day photo. Posts with images are great at capturing attention and showcasing your work. Why not try it today?</description>
     </item>
-    
-    <item>
-      <title>Why I believe in a God</title>
-      <link>http://imjeremy.com/theology/why-i-believe-in-a-god/</link>
-      <pubDate>Sun, 26 Dec 2021 12:04:16 -0500</pubDate>
-      
-      <guid>http://imjeremy.com/theology/why-i-believe-in-a-god/</guid>
-      <description>Published by jeremy on December 26, 2021
-Wow, big question right ? My understanding has changed progressively over the years and evolved in many ways.
-There several reasons as to why I believe in a God. In no particular order, here are my reasons:
-Jesus Christ, a real person who walked this Earth and claimed to be God. The evidence that shows he existed, died and resurrected is very convincing</description>
-    </item>
-    
   </channel>
 </rss>
