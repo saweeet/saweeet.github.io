@@ -186,7 +186,7 @@ Imjeremy
             
             
             
-            <a class="navbar-item" href="/projects-1/">
+            <a class="navbar-item" href="/projects/">
                 
                 Projects
                 
@@ -303,6 +303,8 @@ Imjeremy
 
                 </div>
                 
+                <p>My current local time is <span id="time"></span>.</p>
+                
                 
                 <div class="social-icons">
     
@@ -395,6 +397,16 @@ Imjeremy
 <script src="http://localhost:1313/js/bundleOwlCarousel.a1da0d27fc716aeae4fd93be0fc0e4d1f34d3404b8e05b75727466e54f69493e.js" integrity="sha256-odoNJ/xxaurk/ZO&#43;D8Dk0fNNNAS44Ft1cnRm5U9pST4="></script>
 
 
+        
+        <script>
+            function update_localtime() {
+                const time = new Date().toLocaleTimeString('en-US', { timeZone: 'Australia\/Melbourne', timeStyle: 'short' });
+                document.getElementById('time').innerHTML = time;
+            }
+            update_localtime();
+            
+            setInterval(update_localtime, 1000);
+        </script>
         
     </body>
 

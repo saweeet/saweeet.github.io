@@ -6,13 +6,20 @@
     <description>Recent content in Theology on imjeremy</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Dec 2021 12:04:16 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jun 2022 12:04:16 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/series/theology/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Gay Marriage</title>
+      <link>http://localhost:1313/theology/gay-marriage/</link>
+      <pubDate>Sun, 26 Jun 2022 12:04:16 -0500</pubDate>
+      <guid>http://localhost:1313/theology/gay-marriage/</guid>
+      <description>Introduction supports code blocks and syntax highlighting:&#xA;$ complicated techie code git bash ubuntu &amp;gt;&amp;gt;&amp;gt; return value init foo You can easily create tables using Markdown, with rows that support readability:&#xA;this is a table ! this is the 1st row this is the 2nd row this is the 3rd row edgy jo ke lands here this is the 5th row this is the 6th row Unordered lists render with high readabiltiy as well!</description>
+    </item>
+    <item>
       <title>Chicken Adobo</title>
-      <link>http://localhost:1313/kitchen/why-i-believe-in-a-god/</link>
+      <link>http://localhost:1313/kitchen/chicken-adobo/</link>
       <pubDate>Sun, 26 Dec 2021 12:04:16 -0500</pubDate>
-      <guid>http://localhost:1313/kitchen/why-i-believe-in-a-god/</guid>
+      <guid>http://localhost:1313/kitchen/chicken-adobo/</guid>
       <description>Um, no need to cook. Just go find a nice filipino family and open their fridge.</description>
     </item>
     <item>

@@ -17,9 +17,9 @@
     </item>
     <item>
       <title>Chicken Adobo</title>
-      <link>http://localhost:1313/kitchen/why-i-believe-in-a-god/</link>
+      <link>http://localhost:1313/kitchen/chicken-adobo/</link>
       <pubDate>Sun, 26 Dec 2021 12:04:16 -0500</pubDate>
-      <guid>http://localhost:1313/kitchen/why-i-believe-in-a-god/</guid>
+      <guid>http://localhost:1313/kitchen/chicken-adobo/</guid>
       <description>Um, no need to cook. Just go find a nice filipino family and open their fridge.</description>
     </item>
     <item>
@@ -56,6 +56,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/prayers/sorrowful-mysteries-tuesday-_-friday/</guid>
       <description>1. The Agony of Jesus in the Garden&#xD;2. The Scourging at the Pillar&#xD;3. Jesus is Crowned with Thorns&#xD;4. Jesus Carried the Cross&#xD;5. The Crucifixion of our Lord&#xD;1st Sorrowful Mystery: The Agony of Jesus in the Garden&#xD;My Son came with His apostles to the mount of Olives. There was a garden there that He frequently went to pray: He felt a sadness; a deep, deep sadness.</description>
+    </item>
+    <item>
+      <title>{{title}}</title>
+      <link>http://localhost:1313/templates/new-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/templates/new-post/</guid>
+      <description></description>
     </item>
     <item>
       <title>Angelus</title>
@@ -114,6 +121,13 @@
       <description>Remember O Most Gracious Virgin Mary, that never was it known that anyone who fled unto Thy protection, implored Thy help or sought Thine intercession, was left unaided by Thee. Inspired by this confidence I fly onto Thee, O Virgin of virgins, my Mother. To Thee I come, before Thee I stand, sinful and sorrowful. Do not, O Mother of the Word Incarnate, despise my petitions but, in Thy clemency, hear and answer me.</description>
     </item>
     <item>
+      <title>My body, my choice.</title>
+      <link>http://localhost:1313/theology/my-body-my-choice./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theology/my-body-my-choice./</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Night Prayers to Say at Bedtime</title>
       <link>http://localhost:1313/prayers/7-calming-night-prayers-to-say-at-bedtime/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -133,6 +147,27 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/prayers/salve-regina/</guid>
       <description>Latin&#xD;Salve, Regina, mater misericordiae: Vita, dulcedo, et spes nostra, salve. Ad te clamamus, exsules, filii Hevae. Ad te suspiramus, gementes et flentes In hac lacrimarum valle. Eia ergo, Advocata nostra, Illos tuos misericordes oculos Ad nos converte. Et Jesum, benedictum fructum ventris tui, nobis, post hoc exsilium ostende. O clemens! O pia! O dulcis Virgo Maria!&#xA;English&#xD;Hail, holy Queen, mother of mercy, Our life, our sweetness, and our hope.</description>
+    </item>
+    <item>
+      <title>Same-sex Marriage</title>
+      <link>http://localhost:1313/theology/same-sex-marriage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theology/same-sex-marriage/</guid>
+      <description>&#xD;Quick points&#xD;There are different types of love. For example, brotherly love, fatherly love, love of neighbour, love of self. Then there is conjugal love. Conjugal meaning, the comprehensive union, mind and body, of one man and one woman. </description>
+    </item>
+    <item>
+      <title>Why LGBTQ is harmful</title>
+      <link>http://localhost:1313/theology/why-lgbtq-is-harmful/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theology/why-lgbtq-is-harmful/</guid>
+      <description>Introduction supports code blocks and syntax highlighting:&#xA;$ complicated techie code git bash ubuntu &amp;gt;&amp;gt;&amp;gt; return value init foo You can easily create tables using Markdown, with rows that support readability:&#xA;this is a table ! this is the 1st row this is the 2nd row this is the 3rd row edgy jo ke lands here this is the 5th row this is the 6th row Unordered lists render with high readabiltiy as well!</description>
+    </item>
+    <item>
+      <title>Why you should believe in the Christian God</title>
+      <link>http://localhost:1313/theology/why-you-should-believe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theology/why-you-should-believe/</guid>
+      <description>For me, this has got to be one of, if not the most important question someone can ever ask. I mean, we&amp;rsquo;re talking about eternal salvation here. When the time comes when we take our final breaths, we will be basking in enteral paradise with Him, or we will find out there&amp;rsquo;s really nothing out there.&#xA;My personal reasoning as to why I believe has changed progressively over the years and evolved in many ways.</description>
     </item>
   </channel>
 </rss>

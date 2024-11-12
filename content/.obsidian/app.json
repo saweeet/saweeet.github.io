@@ -1,0 +1,9 @@
+{
+  "showLineNumber": true,
+  "showIndentGuide": true,
+  "readableLineLength": false,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "./attachments",
+  "spellcheck": false
+}

@@ -6,15 +6,8 @@
     <description>Recent content in Tags on imjeremy</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Feb 2022 12:04:16 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Images</title>
-      <link>http://localhost:1313/tags/images/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/images/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Aethism</title>
       <link>http://localhost:1313/tags/aethism/</link>
@@ -27,6 +20,20 @@
       <link>http://localhost:1313/tags/agnostic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/agnostic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lgbtq</title>
+      <link>http://localhost:1313/tags/lgbtq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/lgbtq/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Images</title>
+      <link>http://localhost:1313/tags/images/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/images/</guid>
       <description></description>
     </item>
     <item>
