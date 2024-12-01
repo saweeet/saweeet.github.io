@@ -3,12 +3,13 @@
   "showIndentGuide": true,
   "readableLineLength": false,
   "newFileLocation": "current",
-  "newLinkFormat": "relative",
+  "newLinkFormat": "absolute",
   "attachmentFolderPath": "./images",
   "spellcheck": false,
   "spellcheckDictionary": [
     "Debrid",
     "Stremio"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true
 }

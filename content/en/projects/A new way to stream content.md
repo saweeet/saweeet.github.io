@@ -33,6 +33,9 @@ There a few ways to set this up. This guide will take the simplest approach, usi
 
 - Once registered, naviage to `My Devices`, where you should find an **API key**.
 
+![](../images/Pasted%20image%2020241201115128.png)
+
+
 - Copy and paste this API key to your clipboard.
     
 

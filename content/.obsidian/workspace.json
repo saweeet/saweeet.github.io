@@ -47,14 +47,12 @@
             "id": "8252807e8f5aa72a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "en/projects/A new way to stream content.md",
-                "mode": "source",
-                "source": false
+                "file": "en/projects/images/Pasted image 20241201115128.png"
               },
-              "icon": "lucide-file",
-              "title": "A new way to stream content"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241201115128"
             }
           }
         ],
@@ -114,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 485.5
   },
   "right": {
     "id": "0ee95e37adc3ba59",
@@ -176,10 +174,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "en/projects/A new way to stream content.md"
+                "file": "en/projects/images/Pasted image 20241201115128.png"
               },
               "icon": "lucide-list",
-              "title": "Outline of A new way to stream content"
+              "title": "Outline of Pasted image 20241201115128"
             }
           },
           {
@@ -212,25 +210,28 @@
   },
   "active": "8252807e8f5aa72a",
   "lastOpenFiles": [
-    "en/theology/_index.md",
+    "en/projects/images/Pasted image 20241201115346.png",
+    "en/projects/images/Pasted image 20241201115128.png",
     "en/projects/A new way to stream content.md",
-    "en/projects/Inventory Searcher.md",
+    "en/projects/3dPrints.md",
     "en/projects/images/Pasted image 20241201111255.png",
     "en/projects/simpleMarkup.md",
-    "en/projects/web scrapper.md",
-    "en/theology/Sampe Post.md",
+    "en/theology/workday.jpg",
     "en/theology/Why you should believe.md",
     "en/theology/Why LGBTQ is harmful.md",
+    "en/theology/Sampe Post.md",
     "en/theology/Same-sex Marriage.md",
     "en/theology/My body, my choice..md",
-    "en/projects/3dPrints.md",
+    "en/images/20220530163406.png",
+    "en/theology/_index.md",
+    "en/projects/Inventory Searcher.md",
+    "en/projects/web scrapper.md",
     "en/projects/photoprism.md",
     "en/projects/images",
     "attachments/Pasted image 20241201103137.png",
     "en/projects/Inventory Searcher 1.md",
     "en/projects/kristy.md",
     "en/projects/_index.md",
-    "en/theology/workday.jpg",
     "attachments",
     "en/templates/New Post.md",
     "copilot-conversations/hi@20241111_204627.md",
