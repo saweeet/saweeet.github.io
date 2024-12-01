@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "en/projects/This is how I stream.md",
+                "file": "en/home/about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "This is how I stream"
+              "title": "about"
             }
           },
           {
@@ -178,10 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "en/projects/This is how I stream.md"
+                "file": "en/home/about.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of This is how I stream"
+              "title": "Outline of about"
             }
           },
           {
@@ -215,12 +215,13 @@
   },
   "active": "18e3f217e4d26de6",
   "lastOpenFiles": [
+    "en/projects/photoprism.md",
+    "en/projects/simpleMarkup.md",
+    "en/projects/This is how I stream.md",
     "en/projects/images/Pasted image 20241201115128.png",
     "en/projects/images/Pasted image 20241201115346.png",
-    "en/projects/This is how I stream.md",
     "en/projects/3dPrints.md",
     "en/projects/images/Pasted image 20241201111255.png",
-    "en/projects/simpleMarkup.md",
     "en/theology/workday.jpg",
     "en/theology/Why you should believe.md",
     "en/theology/Why LGBTQ is harmful.md",
@@ -231,7 +232,6 @@
     "en/theology/_index.md",
     "en/projects/Inventory Searcher.md",
     "en/projects/web scrapper.md",
-    "en/projects/photoprism.md",
     "en/projects/images",
     "attachments/Pasted image 20241201103137.png",
     "en/projects/Inventory Searcher 1.md",

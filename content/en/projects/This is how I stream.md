@@ -8,7 +8,7 @@ series:
 ---
 # Background 
 
-A friend told me about a new way to stream 4k media content for roughly $3-5 per month, depending on the subscription you choose. I immediately tested, and became amazed how good it was. There are a few technical steps involved, but if you're reading this then, you can probably reach out to me with any queries. 
+A friend told me about a new way to stream 4k media content for roughly $3-5 per month, depending on the subscription you choose. I immediately tested it, and became amazed how good it was. There are a few technical steps involved, but if you're reading this then, you can probably reach out to me with any queries. 
 
 There a few ways to set this up. This guide will take the simplest approach, using three different services:
 
