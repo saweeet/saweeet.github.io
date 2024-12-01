@@ -1,8 +1,11 @@
 ---
-title: "3D Prints"
+title: 3D Prints22
 date: 2022-02-20T12:04:16-05:00
-tags: ["images"]
-series: ["example posts"]
+tags:
+  - images
+series:
+  - example posts
+draft: true
 ---
 
 Images can be added to posts using Markdown syntax:

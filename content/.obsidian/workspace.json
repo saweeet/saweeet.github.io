@@ -22,20 +22,43 @@
             }
           },
           {
+            "id": "044e4fe0cc82804e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
+          },
+          {
             "id": "18e3f217e4d26de6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "8252807e8f5aa72a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "en/theology/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "_index"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -153,18 +176,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "en/theology/My body, my choice..md"
+                "file": "en/theology/_index.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of My body, my choice."
+              "title": "Outline of _index"
+            }
+          },
+          {
+            "id": "bddc2f042847ea10",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 547.5
+    "width": 400.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,21 +206,34 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59a5a661e9392a13",
+  "active": "8252807e8f5aa72a",
   "lastOpenFiles": [
-    "en/theology/workday.jpg",
+    "en/projects/A new way to stream content.md",
+    "en/projects/Inventory Searcher.md",
+    "en/projects/images/Pasted image 20241201111255.png",
+    "en/projects/simpleMarkup.md",
+    "en/projects/web scrapper.md",
+    "en/theology/Sampe Post.md",
     "en/theology/Why you should believe.md",
     "en/theology/Why LGBTQ is harmful.md",
-    "en/theology/Sampe Post.md",
     "en/theology/Same-sex Marriage.md",
     "en/theology/My body, my choice..md",
-    "en/templates/New Post.md",
+    "en/projects/3dPrints.md",
+    "en/projects/photoprism.md",
+    "en/projects/images",
+    "attachments/Pasted image 20241201103137.png",
+    "en/projects/Inventory Searcher 1.md",
+    "en/projects/kristy.md",
+    "en/projects/_index.md",
+    "en/theology/workday.jpg",
+    "attachments",
     "en/theology/_index.md",
+    "en/templates/New Post.md",
     "copilot-conversations/hi@20241111_204627.md",
-    "Untitled.md",
     "copilot-conversations/fix_my_grammar@20241111_204559.md",
     "copilot-conversations/fix_my_grammar@20241111_204010.md",
     "copilot-conversations",

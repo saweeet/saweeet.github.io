@@ -9,11 +9,11 @@
     <lastBuildDate>Sun, 20 Feb 2022 12:04:16 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>3D Prints</title>
-      <link>http://localhost:1313/projects/3d-printing/3dprints/</link>
+      <title>A new way to stream content</title>
+      <link>http://localhost:1313/projects/a-new-way-to-stream-content/</link>
       <pubDate>Sun, 20 Feb 2022 12:04:16 -0500</pubDate>
-      <guid>http://localhost:1313/projects/3d-printing/3dprints/</guid>
-      <description>Images can be added to posts using Markdown syntax:&#xA;![Sample image](workday.jpg) Which looks like this:&#xA;You can also use Hugo&amp;rsquo;s built-in figure shortcode. This lets you add a caption, and looks like this:&#xA;Black and white work day photo. Posts with images are great at capturing attention and showcasing your work. Why not try it today?</description>
+      <guid>http://localhost:1313/projects/a-new-way-to-stream-content/</guid>
+      <description>A friend told me about a new way to stream media content for roughly $3-5 per month, depending on the subscription you choose. There are a few technical steps involved, but if you&amp;rsquo;re reading this then, you can probably reach out to me with any queries.&#xA;We will be using three different services:&#xA;Real-Debrid: An online service that performs file hosting and handles content downloading from other sources, such as magnet URLs (including torrents).</description>
     </item>
     <item>
       <title>Chicken Adobo</title>
@@ -62,7 +62,7 @@
       <link>http://localhost:1313/templates/new-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/templates/new-post/</guid>
-      <description></description>
+      <description>&#xD;Quick thoughts&#xD;Longer ones&#xD;</description>
     </item>
     <item>
       <title>Angelus</title>
@@ -121,13 +121,6 @@
       <description>Remember O Most Gracious Virgin Mary, that never was it known that anyone who fled unto Thy protection, implored Thy help or sought Thine intercession, was left unaided by Thee. Inspired by this confidence I fly onto Thee, O Virgin of virgins, my Mother. To Thee I come, before Thee I stand, sinful and sorrowful. Do not, O Mother of the Word Incarnate, despise my petitions but, in Thy clemency, hear and answer me.</description>
     </item>
     <item>
-      <title>My body, my choice.</title>
-      <link>http://localhost:1313/theology/my-body-my-choice./</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/theology/my-body-my-choice./</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Night Prayers to Say at Bedtime</title>
       <link>http://localhost:1313/prayers/7-calming-night-prayers-to-say-at-bedtime/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -147,27 +140,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/prayers/salve-regina/</guid>
       <description>Latin&#xD;Salve, Regina, mater misericordiae: Vita, dulcedo, et spes nostra, salve. Ad te clamamus, exsules, filii Hevae. Ad te suspiramus, gementes et flentes In hac lacrimarum valle. Eia ergo, Advocata nostra, Illos tuos misericordes oculos Ad nos converte. Et Jesum, benedictum fructum ventris tui, nobis, post hoc exsilium ostende. O clemens! O pia! O dulcis Virgo Maria!&#xA;English&#xD;Hail, holy Queen, mother of mercy, Our life, our sweetness, and our hope.</description>
-    </item>
-    <item>
-      <title>Same-sex Marriage</title>
-      <link>http://localhost:1313/theology/same-sex-marriage/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/theology/same-sex-marriage/</guid>
-      <description>&#xD;Quick points&#xD;There are different types of love. For example, brotherly love, fatherly love, love of neighbour, love of self. Then there is conjugal love. Conjugal meaning, the comprehensive union, mind and body, of one man and one woman. </description>
-    </item>
-    <item>
-      <title>Why LGBTQ is harmful</title>
-      <link>http://localhost:1313/theology/why-lgbtq-is-harmful/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/theology/why-lgbtq-is-harmful/</guid>
-      <description>Introduction supports code blocks and syntax highlighting:&#xA;$ complicated techie code git bash ubuntu &amp;gt;&amp;gt;&amp;gt; return value init foo You can easily create tables using Markdown, with rows that support readability:&#xA;this is a table ! this is the 1st row this is the 2nd row this is the 3rd row edgy jo ke lands here this is the 5th row this is the 6th row Unordered lists render with high readabiltiy as well!</description>
-    </item>
-    <item>
-      <title>Why you should believe in the Christian God</title>
-      <link>http://localhost:1313/theology/why-you-should-believe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/theology/why-you-should-believe/</guid>
-      <description>For me, this has got to be one of, if not the most important question someone can ever ask. I mean, we&amp;rsquo;re talking about eternal salvation here. When the time comes when we take our final breaths, we will be basking in enteral paradise with Him, or we will find out there&amp;rsquo;s really nothing out there.&#xA;My personal reasoning as to why I believe has changed progressively over the years and evolved in many ways.</description>
     </item>
   </channel>
 </rss>
