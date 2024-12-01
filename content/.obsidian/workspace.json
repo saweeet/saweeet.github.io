@@ -37,10 +37,14 @@
             "id": "18e3f217e4d26de6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "en/projects/This is how I stream.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "This is how I stream"
             }
           },
           {
@@ -56,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 485.5
+    "width": 275.5
   },
   "right": {
     "id": "0ee95e37adc3ba59",
@@ -174,10 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "en/projects/images/Pasted image 20241201115128.png"
+                "file": "en/projects/This is how I stream.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20241201115128"
+              "title": "Outline of This is how I stream"
             }
           },
           {
@@ -195,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,11 +213,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8252807e8f5aa72a",
+  "active": "18e3f217e4d26de6",
   "lastOpenFiles": [
-    "en/projects/images/Pasted image 20241201115346.png",
     "en/projects/images/Pasted image 20241201115128.png",
-    "en/projects/A new way to stream content.md",
+    "en/projects/images/Pasted image 20241201115346.png",
+    "en/projects/This is how I stream.md",
     "en/projects/3dPrints.md",
     "en/projects/images/Pasted image 20241201111255.png",
     "en/projects/simpleMarkup.md",
