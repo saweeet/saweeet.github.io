@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "en/theology/_index.md",
+                "file": "en/projects/A new way to stream content.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "A new way to stream content"
             }
           }
         ],
@@ -176,10 +176,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "en/theology/_index.md"
+                "file": "en/projects/A new way to stream content.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of _index"
+              "title": "Outline of A new way to stream content"
             }
           },
           {
@@ -212,6 +212,7 @@
   },
   "active": "8252807e8f5aa72a",
   "lastOpenFiles": [
+    "en/theology/_index.md",
     "en/projects/A new way to stream content.md",
     "en/projects/Inventory Searcher.md",
     "en/projects/images/Pasted image 20241201111255.png",
@@ -231,7 +232,6 @@
     "en/projects/_index.md",
     "en/theology/workday.jpg",
     "attachments",
-    "en/theology/_index.md",
     "en/templates/New Post.md",
     "copilot-conversations/hi@20241111_204627.md",
     "copilot-conversations/fix_my_grammar@20241111_204559.md",

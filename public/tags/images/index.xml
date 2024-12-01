@@ -9,11 +9,11 @@
     <lastBuildDate>Sun, 20 Feb 2022 12:04:16 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/images/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>3D Prints22</title>
-      <link>http://localhost:1313/projects/3dprints/</link>
+      <title>A new way to stream content</title>
+      <link>http://localhost:1313/projects/a-new-way-to-stream-content/</link>
       <pubDate>Sun, 20 Feb 2022 12:04:16 -0500</pubDate>
-      <guid>http://localhost:1313/projects/3dprints/</guid>
-      <description>Images can be added to posts using Markdown syntax:&#xA;![Sample image](workday.jpg) Which looks like this:&#xA;You can also use Hugo&amp;rsquo;s built-in figure shortcode. This lets you add a caption, and looks like this:&#xA;Black and white work day photo. Posts with images are great at capturing attention and showcasing your work. Why not try it today?</description>
+      <guid>http://localhost:1313/projects/a-new-way-to-stream-content/</guid>
+      <description>A friend told me about a new way to stream media content for roughly $3-5 per month, depending on the subscription you choose. There are a few technical steps involved, but if you&amp;rsquo;re reading this then, you can probably reach out to me with any queries.&#xA;We will be using three different services:&#xA;Real-Debrid: An online service that performs file hosting and handles content downloading from other sources, such as magnet URLs (including torrents).</description>
     </item>
   </channel>
 </rss>
