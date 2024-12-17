@@ -1,10 +1,10 @@
 ---
-title: Untitled
-date: 2024-11-11T23:00
+title: Sample Post
+date: 2024-11-12
 tags: 
 series: 
 resources: 
-draft: true
+draft: false
 ---
 
 Introduction supports code blocks and syntax highlighting:
