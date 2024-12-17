@@ -9,11 +9,18 @@
     <lastBuildDate>Sun, 20 Feb 2022 12:04:16 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/images/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How I stream content</title>
-      <link>http://localhost:1313/projects/a-new-way-to-stream-content/</link>
+      <title>My self-hosting Google Photos</title>
+      <link>http://localhost:1313/projects/bye-google-photos-hello-immich/</link>
       <pubDate>Sun, 20 Feb 2022 12:04:16 -0500</pubDate>
-      <guid>http://localhost:1313/projects/a-new-way-to-stream-content/</guid>
-      <description>Background&#xD;A friend told me about a new way to stream media content for roughly $3-5 per month, depending on the subscription you choose. I immediately tested, and became amazed how good it was. There are a few technical steps involved, but if you&amp;rsquo;re reading this then, you can probably reach out to me with any queries.&#xA;There a few ways to set this up. This guide will take the simplest approach, using three different services:</description>
+      <guid>http://localhost:1313/projects/bye-google-photos-hello-immich/</guid>
+      <description>Background&#xD;Hitting the 20GB limit that Google provides for all your email and photos was inevitable. When that time came, I started digging around and found two potential solutions:&#xA;Immich Photoprism I tried both, and honestly, they work really well. However, I decided to go with Immich since so many users were raving about how awesome it is.&#xA;My Current Setup&#xD;Raspberry Pi 4 (Rpi4) with a 512GB SanDisk NAS Docker I won&amp;rsquo;t go into detail about how to set everything up because that&amp;rsquo;s already covered in the Immich installation guide.</description>
+    </item>
+    <item>
+      <title>This is how I stream</title>
+      <link>http://localhost:1313/projects/this-is-how-i-stream/</link>
+      <pubDate>Sun, 20 Feb 2022 12:04:16 -0500</pubDate>
+      <guid>http://localhost:1313/projects/this-is-how-i-stream/</guid>
+      <description>Background&#xD;Important Update&#xA;In a recent X Post, it is seems like Real Debrid (RD) they&amp;rsquo;re slowly their content and service may stop working. However, instead of RD, we can use Torguard directly with Stremio.&#xA;I&amp;rsquo;m planning to continue using RD until my subscription runs out and/or until the service stops working.&#xA;A friend told me about a new way to stream 4k media content for roughly $3-5 per month, depending on the subscription you choose.</description>
     </item>
   </channel>
 </rss>

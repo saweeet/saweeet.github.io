@@ -9,10 +9,10 @@
     <lastBuildDate>Sun, 20 Feb 2022 12:04:16 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Example Posts</title>
-      <link>http://localhost:1313/series/example-posts/</link>
+      <title>Media</title>
+      <link>http://localhost:1313/series/media/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/series/example-posts/</guid>
+      <guid>http://localhost:1313/series/media/</guid>
       <description></description>
     </item>
     <item>

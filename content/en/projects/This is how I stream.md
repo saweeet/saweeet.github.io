@@ -1,12 +1,23 @@
 ---
 title: This is how I stream
-date: 2022-02-20T12:04:16-05:00
+date: 2022-01-01
 tags:
   - images
 series:
   - media
 ---
 # Background 
+
+**Important Update**
+
+In a recent [X post](https://x.com/realdebrid/status/1859673163681960169?s=46&t=v7hlI5j-ie2ub28ChSkAKw), Real-Debrid (RD) announced enhanced anti-piracy measures, which could cause some content to stop working. However, four weeks later, I’m still not experiencing any issues.
+
+As an alternative to Real-Debrid, I’ve heard Torguard is a good option and works natively with Stremio too.
+
+For now, I plan to continue using RD until my subscription runs out or the service stops working, then decide whether to switch to Torguard.
+
+
+---
 
 A friend told me about a new way to stream 4k media content for roughly $3-5 per month, depending on the subscription you choose. I immediately tested it, and became amazed how good it was. There are a few technical steps involved, but if you're reading this then, you can probably reach out to me with any queries. 
 
@@ -16,7 +27,7 @@ There a few ways to set this up. This guide will take the simplest approach, usi
     
 2. **[Stremio](https://www.stremio.com)**: This is the client app you will be using to watch content with. The Stremio app can be downloaded from the Google Play Store or the Apple App Store. You will need to install this app on your TV and/or mobile phone.
     
-3. **Torrentio RD**: A Stremio add-on extension that helps you find movies or TV shows. It scrapes torrent sites to find streaming links for the content you search for in Stremio. Note that it does not download content itself; it simply finds relevant links and sends them to Real Debrid, which then downloads the content for you.
+3. **[Torrentio RD](https://torrentio.strem.fun/)**: A Stremio add-on extension that helps you find movies or TV shows. It scrapes torrent sites to find streaming links for the content you search for in Stremio. Note that it does not download content itself; it simply finds relevant links and sends them to Real Debrid, which then downloads the content for you.
 
 # Instructions
 
@@ -41,11 +52,9 @@ There a few ways to set this up. This guide will take the simplest approach, usi
 
  **3. Install the Torrentio RD Add-on**
 
-- Back on your Stremio app on your mobile phone, go to the **Add-ons** section.
-
-- Search for **Torrentio RD** and install it.
-- Find the Torrentio RD add-on and click `Configure`.
-- Paste the Real-Debrid API key you copied earlier.
+- Make sure you are signed in your Stremio app on your mobile phone
+- Visit https://torrentio.strem.fun/ and under Debrid Provider, click on Real Debrid
+- Paste the RealDebrid API Key under the `RealDebrid API Key` that you copied in Step 2.
 
 At this stage you should now be able to test this. Make sure your mobile phone is connected to your home Wi-Fi. Then, using Stremio, try searching and watching a few movies and TV shows using Stremio. 
 
