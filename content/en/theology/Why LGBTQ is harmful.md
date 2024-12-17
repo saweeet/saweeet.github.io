@@ -5,7 +5,7 @@ tags:
 series:
   - theology
 resources: 
-draft: false
+draft: true
 ---
 # Quick thoughts
 

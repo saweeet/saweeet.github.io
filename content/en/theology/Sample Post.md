@@ -1,6 +1,6 @@
 ---
 title: Sample Post
-date: 2024-11-12
+date: 2024-10-19T00:40:04-07:00
 tags: 
 series: 
 resources: 

@@ -216,6 +216,8 @@ Imjeremy
         
 
         
+            
+        
 
         
         
@@ -292,6 +294,159 @@ Imjeremy
         
         
         
+        
+            
+            
+<div class="section" id="projects">
+    
+    <div class="container">
+        <h2 class="title is-2 has-text-centered">
+            Projects
+        </h2>
+        <div class="section">
+            <div class="columns is-multiline">
+                
+                
+                
+                
+                
+                
+                  
+                  
+                
+                <div class="column is-half">
+                    <div class="card" data-target="#project-0">
+                        
+                        <div class="card-content has-text-centered top-pad">
+                            <h1><a >
+                                This is how I stream
+                            </a></h1>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+    
+    
+    
+    
+    <div class="modal" id="project-0">
+        <div class="modal-background"></div>
+        <div class="modal-card">
+            
+            <header class="modal-card-header bottom-pad">
+                <h1 class="modal-card-title has-text-centered">This is how I stream</h1>
+            </header>
+            
+                     
+            <section class="modal-card-body markdown">
+                
+                
+<h1 id="background" class="anchor-link"><a href="#background">Background</a></h1>
+<p><strong>Important Update</strong></p>
+<p>In a recent <a href="https://x.com/realdebrid/status/1859673163681960169?s=46&amp;t=v7hlI5j-ie2ub28ChSkAKw">X post</a>, Real-Debrid (RD) announced enhanced anti-piracy measures, which could cause some content to stop working. However, four weeks later, I’m still not experiencing any issues.</p>
+<p>As an alternative to Real-Debrid, I’ve heard Torguard is a good option and works natively with Stremio too.</p>
+<p>For now, I plan to continue using RD until my subscription runs out or the service stops working, then decide whether to switch to Torguard.</p>
+<hr>
+<p>A friend told me about a new way to stream 4k media content for roughly $3-5 per month, depending on the subscription you choose. I immediately tested it, and became amazed how good it was. There are a few technical steps involved, but if you&rsquo;re reading this then, you can probably reach out to me with any queries.</p>
+<p>There a few ways to set this up. This guide will take the simplest approach, using three different services:</p>
+<ol>
+<li>
+<p><strong><a href="https://real-debrid.com">Real-Debrid</a></strong>: An online service that performs file hosting and handles content downloading from other sources, such as magnet URLs (including torrents). A magnet URL allows users to download at very high speeds. Real Debrid will host these files on their server.</p>
+</li>
+<li>
+<p><strong><a href="https://www.stremio.com">Stremio</a></strong>: This is the client app you will be using to watch content with. The Stremio app can be downloaded from the Google Play Store or the Apple App Store. You will need to install this app on your TV and/or mobile phone.</p>
+</li>
+<li>
+<p><strong><a href="https://torrentio.strem.fun/">Torrentio RD</a></strong>: A Stremio add-on extension that helps you find movies or TV shows. It scrapes torrent sites to find streaming links for the content you search for in Stremio. Note that it does not download content itself; it simply finds relevant links and sends them to Real Debrid, which then downloads the content for you.</p>
+</li>
+</ol>
+
+<h1 id="instructions" class="anchor-link"><a href="#instructions">Instructions</a></h1>
+<p><strong>1. Install Stremio</strong></p>
+<ul>
+<li>I recommend doing this on your mobile phone first. Download and install Stremio from the Google Play Store, the Apple App Store, or directly from their <a href="https://www.stremio.com/">official website</a>.</li>
+<li>Sign up for the free account.</li>
+</ul>
+<p><strong>2. Sign Up for Real-Debrid</strong></p>
+<ul>
+<li>
+<p>Go to <a href="https://real-debrid.com/">Real-Debrid&rsquo;s website</a> and register an account* [1].</p>
+</li>
+<li>
+<p>Subscribe to a premium plan (I chose the 180-day plan, which costs less than $5 per month).</p>
+</li>
+<li>
+<p>Once registered, navigate to <code>My Devices</code>, where you should find an <strong>API key</strong>.</p>
+</li>
+</ul>
+<p><img src="../images/Pasted%20image%2020241201115128.png" alt=""></p>
+<ul>
+<li>Copy and paste this API key to your clipboard.</li>
+</ul>
+<p><strong>3. Install the Torrentio RD Add-on</strong></p>
+<ul>
+<li>Make sure you are signed in your Stremio app on your mobile phone</li>
+<li>Visit <a href="https://torrentio.strem.fun/">https://torrentio.strem.fun/</a> and under Debrid Provider, click on Real Debrid</li>
+<li>Paste the RealDebrid API Key under the <code>RealDebrid API Key</code> that you copied in Step 2.</li>
+</ul>
+<p>At this stage you should now be able to test this. Make sure your mobile phone is connected to your home Wi-Fi. Then, using Stremio, try searching and watching a few movies and TV shows using Stremio.</p>
+<blockquote>
+<p><strong>Important</strong>:</p>
+<ul>
+<li>If you&rsquo;re watching content at home, do not simultaneously watch content on a different device outside your home.</li>
+<li>You can only watch media content from a single WAN IP address. The WAN IP address is the IP assigned to your modem by your Internet Service Provider. All devices connected to your home Wi-Fi will use the same WAN IP.</li>
+<li>If your mobile phone is not connected to Wi-Fi, it will use a 4G/5G network and a different WAN IP address.</li>
+<li>If Real-Debrid detects multiple IP addresses, it might believe you&rsquo;re abusing the system, that is, sharing your credentials with everyone and block your access.</li>
+</ul>
+</blockquote>
+<p><strong>Step 4: Install the Stremio App on Your TV</strong></p>
+<ul>
+<li>
+<p>Search for the Stremio app on the Google Play Store and download it.</p>
+</li>
+<li>
+<p>After logging into Stremio, you may need to download the Torrentio RD add-on again.</p>
+</li>
+<li>
+<p>After clicking <code>Configure</code>, you should see an QR code displayed on the TV. Use your mobile phone and scan it.</p>
+</li>
+<li>
+<p>Follow the prompts, and the app should automatically configure the API key on your TV.</p>
+</li>
+</ul>
+<p>The Stremio client UI does not have as good as Netflix, Jellyfin, Plex etc. There are free alternatives such as Kodi, but requires a lot further technical dive. For 4K content, you need to have a good internet download speed. I have a 100mbps down and do not have any issues streaming.</p>
+
+<h1 id="notes" class="anchor-link"><a href="#notes">Notes</a></h1>
+<p>[1] Some users choose to use an alias email address and VPN. See <a href="https://www.youtube.com/watch?v=7Ncye_X6wwc">https://www.youtube.com/watch?v=7Ncye_X6wwc</a> However, I was comfortable not doing this. Up to you how you would like to proceed.</p>
+
+            </section>
+        </div>
+        <button class="modal-close is-large" aria-label="close" data-target="#project-0"></button>
+    </div>
+    
+    
+    <div class="container has-text-centered top-pad">
+    <a href="#top">
+        <i class="fa fa-arrow-up"></i>
+    </a>
+</div>
+
+</div>
+
+<div class="container"><hr></div>
+
+
+        
+        
+        
+        
+        
+        
         <div class="section" id="contact">
             <div class="container has-text-centered">
                 <h2 class="title is-2">Contact</h2>
@@ -300,6 +455,10 @@ Imjeremy
 
                 </div>
                 
+                
+                <h3 class="subtitle is-3 has-text-centered top-pad">
+                    <a href="mailto:hello@imjeremy.com">hello@imjeremy.com</a>
+                </h3>
                 
                 <div class="social-icons">
     

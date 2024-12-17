@@ -6,20 +6,20 @@
     <description>Recent content in Series on imjeremy</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Theology</title>
-      <link>http://localhost:1313/series/theology/</link>
-      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/series/theology/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Media</title>
       <link>http://localhost:1313/series/media/</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/series/media/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Theology</title>
+      <link>http://localhost:1313/series/theology/</link>
+      <pubDate>Sun, 26 Dec 2021 12:04:16 -0500</pubDate>
+      <guid>http://localhost:1313/series/theology/</guid>
       <description></description>
     </item>
   </channel>
