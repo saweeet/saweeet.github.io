@@ -231,6 +231,9 @@
   },
   "active": "8252807e8f5aa72a",
   "lastOpenFiles": [
+    "en/theology/Sampe Post.md",
+    "en/templates/New Post.md",
+    "en/templates",
     "en/theology/Why LGBTQ is harmful.md",
     "en/theology/Why you should believe.md",
     "en/theology/Same-sex Marriage.md",
@@ -238,7 +241,6 @@
     "en/theology/My body, my choice..md",
     "en/theology/_index.md",
     "en/projects/This is how I stream.md",
-    "en/templates/New Post.md",
     "en/projects/Bye Google Photos, Hello Immich.md",
     "en/projects/().md",
     "en/projects/simpleMarkup.md",
@@ -263,7 +265,6 @@
     "copilot-conversations/fix_my_grammar@20241111_204010.md",
     "copilot-conversations",
     "en/theology/new test post.md",
-    "en/templates/test.md",
-    "en/templates"
+    "en/templates/test.md"
   ]
 }
