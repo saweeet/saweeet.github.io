@@ -92,12 +92,12 @@ See a typical feeding time here: [Feeding Video](https://drive.google.com/file/d
 
 
 ## Fireplace TV
-**Short Remote:** Use this to navigate the TV menu. The TV will start at volume 0, so you will need to pull the volume toggle button upwards for sound to hear.
+**White Remote:** Use this to navigate the TV menu. The TV will start at volume 0, so you will need to pull the volume toggle button upwards for sound to hear.
 ## Dining Room TV:
-- **Long Remote:** Use this to power the TV on/off and adjust the volume.
+- **Black Remote:** Use this to power the TV on/off and adjust the volume.
 
 ## TV Apps:
-Unfortunately, we don't have Netflix. Instead, use the Steamio or Prime app for movies and TV shows. Feel free to use YouTube as well.
+Use the Streamio or Prime app for movies and TV shows. Feel free to use YouTube as well.
 
 ---
 # Aircon & Fireplace Operation
