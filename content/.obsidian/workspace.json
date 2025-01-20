@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "en/private/Soba.md",
+                "file": "en/Soba/cat-sitting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Soba"
+              "title": "cat-sitting"
             }
           }
         ],
@@ -215,11 +215,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a72994c9702dc99",
+  "active": "712996feff8e77b9",
   "lastOpenFiles": [
     "en/projects/_index.md",
-    "en/private/Soba.md",
-    "en/private",
+    "en/Soba/cat-sitting.md",
+    "en/Soba",
     "en/projects/3dPrints.md",
     "en/theology/_index.md",
     "en/home/contact.md",

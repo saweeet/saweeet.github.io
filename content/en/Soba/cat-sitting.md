@@ -85,12 +85,14 @@ See a typical feeding time here: [Feeding Video](https://drive.google.com/file/d
 ---
 # TV Operation
 
-## Remotes:
+
+## Fireplace TV
+**Short Remote:** Use this to navigate the TV menu. The TV will start at volume 0, so you will need to pull the volume toggle button upwards for sound to hear.
+## Dining Room TV:
 - **Long Remote:** Use this to power the TV on/off and adjust the volume.
-- **Short Remote:** Use this to navigate the TV menu.
 
 ## TV Apps:
-Unfortunately, we don't have Netflix. Instead, use the Steamio or Prime app for movies and TV shows. 
+Unfortunately, we don't have Netflix. Instead, use the Steamio or Prime app for movies and TV shows. Feel free to use YouTube as well.
 
 ---
 # Aircon & Fireplace Operation
@@ -102,3 +104,5 @@ Unfortunately, we don't have Netflix. Instead, use the Steamio or Prime app for 
 # Vet Details
 
 - **Veterinary Clinic:** Hallam Park Animal Hospital - 03 8786 3900
+- https://maps.app.goo.gl/ZtvDbQaDBLorer2N9
+- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3144.0596270351143!2d145.27169881294614!3d-37.99906964453671!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad6172691bbc86f%3A0x2fce07660c349ab6!2sHallam%20Park%20Animal%20Hospital!5e0!3m2!1sen!2sau!4v1737350628677!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
