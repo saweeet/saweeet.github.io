@@ -90,11 +90,10 @@ See a typical feeding time here: [Feeding Video](https://drive.google.com/file/d
 ---
 # TV Operation
 
-
 ## Fireplace TV
-**White Remote:** Use this to navigate the TV menu. The TV will start at volume 0, so you will need to pull the volume toggle button upwards for sound to hear.
+- **Short White Remote:** Use this to navigate the TV menu. The TV will start at volume 0, so you will need to pull the volume toggle button upwards for sound to hear.
 ## Dining Room TV:
-- **Black Remote:** Use this to power the TV on/off and adjust the volume.
+- **Long Black Remote:** Use this to power the TV on/off and adjust the volume.
 
 ## TV Apps:
 Use the Streamio or Prime app for movies and TV shows. Feel free to use YouTube as well.

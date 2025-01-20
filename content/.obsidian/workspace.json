@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "en/Soba/cat-sitting.md",
+                "file": "en/projects/Capcut.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cat-sitting"
+              "title": "Capcut"
             }
           }
         ],
@@ -215,10 +215,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "712996feff8e77b9",
+  "active": "4a72994c9702dc99",
   "lastOpenFiles": [
-    "en/projects/_index.md",
+    "en/projects/Capcut.md",
+    "en/projects/Capcut.md",
+    "en/projects/Bye Google Photos, Hello Immich.md",
     "en/Soba/cat-sitting.md",
+    "en/projects/_index.md",
     "en/Soba",
     "en/projects/3dPrints.md",
     "en/theology/_index.md",
@@ -227,7 +230,6 @@
     "Untitled.md",
     "en/theology/My body, my choice..md",
     "Untitled 1.md",
-    "en/projects/Bye Google Photos, Hello Immich.md",
     "en/theology/Why LGBTQ is harmful.md",
     "en/projects/kristy.md",
     "en/projects/photoprism.md",
@@ -250,7 +252,6 @@
     "en/images/20220530163406.png",
     "en/projects/images",
     "attachments/Pasted image 20241201103137.png",
-    "en/projects/Inventory Searcher 1.md",
     "attachments",
     "copilot-conversations"
   ]
