@@ -8,14 +8,6 @@ series:
 ---
 # Background 
 
-**Important Update**
-
-In a recent [X post](https://x.com/realdebrid/status/1859673163681960169?s=46&t=v7hlI5j-ie2ub28ChSkAKw), Real-Debrid (RD) announced enhanced anti-piracy measures, which could cause some content to stop working. However, four weeks later, I’m still not experiencing any issues.
-
-As an alternative to Real-Debrid, I’ve heard Torguard is a good option and works natively with Stremio too.
-
-For now, I plan to continue using RD until my subscription runs out or the service stops working, then decide whether to switch to Torguard.
-
 
 ---
 
@@ -28,6 +20,10 @@ There a few ways to set this up. This guide will take the simplest approach, usi
 2. **[Stremio](https://www.stremio.com)**: This is the client app you will be using to watch content with. The Stremio app can be downloaded from the Google Play Store or the Apple App Store. You will need to install this app on your TV and/or mobile phone.
     
 3. **[Torrentio RD](https://torrentio.strem.fun/)**: A Stremio add-on extension that helps you find movies or TV shows. It scrapes torrent sites to find streaming links for the content you search for in Stremio. Note that it does not download content itself; it simply finds relevant links and sends them to Real Debrid, which then downloads the content for you.
+
+**Notice Update: 01/12/2024**
+
+In a [X post](https://x.com/realdebrid/status/1859673163681960169?s=46&t=v7hlI5j-ie2ub28ChSkAKw), Real-Debrid (RD) announced enhanced anti-piracy measures, which caused some users from consuming content.  Four weeks later, I am still streaming without any issues. As an backup alternative to Real-Debrid, I hear Torguard is a good option and works natively with Stremio too. For now, I plan to continue using RD until my subscription runs out or the service stops working, then decide whether to switch to Torguard.
 
 # Instructions
 
@@ -58,18 +54,16 @@ There a few ways to set this up. This guide will take the simplest approach, usi
 
 At this stage you should now be able to test this. Make sure your mobile phone is connected to your home Wi-Fi. Then, using Stremio, try searching and watching a few movies and TV shows using Stremio. 
 
-> **Important**: 
-> -  If you're watching content at home, do not simultaneously watch content on a different device outside your home.
-> - You can only watch media content from a single WAN IP address. The WAN IP address is the IP assigned to your modem by your Internet Service Provider. All devices connected to your home Wi-Fi will use the same WAN IP. 
-> - If your mobile phone is not connected to Wi-Fi, it will use a 4G/5G network and a different WAN IP address. 
-> - If Real-Debrid detects multiple IP addresses, it might believe you're abusing the system, that is, sharing your credentials with everyone and block your access.
+ **Note**: 
+-  When watching content at home, do not simultaneously watch content on a different device outside your home.
+- Only watch media content from a single WAN IP address. The WAN IP address is the IP assigned to your modem by your Internet Service Provider. All devices connected to your home Wi-Fi will use the same WAN IP. 
+- If your mobile phone is not connected to Wi-Fi, it will use a 4G/5G network and a different WAN IP address. 
+- If Real-Debrid detects multiple IP addresses, it may believe you're abusing the system by sharing your credentials with everyone.
 
  **Step 4: Install the Stremio App on Your TV**
 
-- Search for the Stremio app on the Google Play Store and download it.
-
-- After logging into Stremio, you may need to download the Torrentio RD add-on again.
-- After clicking `Configure`, you should see an QR code displayed on the TV. Use your mobile phone and scan it.
+- Search for the Stremio app on the Google Play Store and download it. If you're using an Amazon Firestick, then that's another story.
+- After logging into Stremio, you should see an QR code displayed on the TV. Use your mobile phone and scan it.
 - Follow the prompts, and the app should automatically configure the API key on your TV.
 
 The Stremio client UI does not have as good as Netflix, Jellyfin, Plex etc. There are free alternatives such as Kodi, but requires a lot further technical dive. For 4K content, you need to have a good internet download speed. I have a 100mbps down and do not have any issues streaming.

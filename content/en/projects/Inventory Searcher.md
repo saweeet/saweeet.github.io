@@ -21,3 +21,6 @@ You can also use Hugo's built-in [figure shortcode](https://gohugo.io/content-ma
 {{< figure src="workday.jpg" title="Black and white work day photo." >}}
 
 Posts with images are great at capturing attention and showcasing your work. Why not try it today?
+
+
+

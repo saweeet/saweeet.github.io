@@ -139,17 +139,11 @@ This Is How I Stream - imjeremy
 
 
                 
-
-
     <div class="container markdown top-pad">
         <span style="display: block; text-align: right;">Nov 30, 2024</span>
         
         
 <h1 id="background" class="anchor-link"><a href="#background">Background</a></h1>
-<p><strong>Important Update</strong></p>
-<p>In a recent <a href="https://x.com/realdebrid/status/1859673163681960169?s=46&amp;t=v7hlI5j-ie2ub28ChSkAKw">X post</a>, Real-Debrid (RD) announced enhanced anti-piracy measures, which could cause some content to stop working. However, four weeks later, I’m still not experiencing any issues.</p>
-<p>As an alternative to Real-Debrid, I’ve heard Torguard is a good option and works natively with Stremio too.</p>
-<p>For now, I plan to continue using RD until my subscription runs out or the service stops working, then decide whether to switch to Torguard.</p>
 <hr>
 <p>A friend told me about a new way to stream 4k media content for roughly $3-5 per month, depending on the subscription you choose. I immediately tested it, and became amazed how good it was. There are a few technical steps involved, but if you&rsquo;re reading this then, you can probably reach out to me with any queries.</p>
 <p>There a few ways to set this up. This guide will take the simplest approach, using three different services:</p>
@@ -164,6 +158,8 @@ This Is How I Stream - imjeremy
 <p><strong><a href="https://torrentio.strem.fun/">Torrentio RD</a></strong>: A Stremio add-on extension that helps you find movies or TV shows. It scrapes torrent sites to find streaming links for the content you search for in Stremio. Note that it does not download content itself; it simply finds relevant links and sends them to Real Debrid, which then downloads the content for you.</p>
 </li>
 </ol>
+<p><strong>Notice Update: 01/12/2024</strong></p>
+<p>In a <a href="https://x.com/realdebrid/status/1859673163681960169?s=46&amp;t=v7hlI5j-ie2ub28ChSkAKw">X post</a>, Real-Debrid (RD) announced enhanced anti-piracy measures, which caused some users from consuming content.  Four weeks later, I am still streaming without any issues. As an backup alternative to Real-Debrid, I hear Torguard is a good option and works natively with Stremio too. For now, I plan to continue using RD until my subscription runs out or the service stops working, then decide whether to switch to Torguard.</p>
 
 <h1 id="instructions" class="anchor-link"><a href="#instructions">Instructions</a></h1>
 <p><strong>1. Install Stremio</strong></p>
@@ -194,29 +190,18 @@ This Is How I Stream - imjeremy
 <li>Paste the RealDebrid API Key under the <code>RealDebrid API Key</code> that you copied in Step 2.</li>
 </ul>
 <p>At this stage you should now be able to test this. Make sure your mobile phone is connected to your home Wi-Fi. Then, using Stremio, try searching and watching a few movies and TV shows using Stremio.</p>
-<blockquote>
-<p><strong>Important</strong>:</p>
+<p><strong>Note</strong>:</p>
 <ul>
-<li>If you&rsquo;re watching content at home, do not simultaneously watch content on a different device outside your home.</li>
-<li>You can only watch media content from a single WAN IP address. The WAN IP address is the IP assigned to your modem by your Internet Service Provider. All devices connected to your home Wi-Fi will use the same WAN IP.</li>
+<li>When watching content at home, do not simultaneously watch content on a different device outside your home.</li>
+<li>Only watch media content from a single WAN IP address. The WAN IP address is the IP assigned to your modem by your Internet Service Provider. All devices connected to your home Wi-Fi will use the same WAN IP.</li>
 <li>If your mobile phone is not connected to Wi-Fi, it will use a 4G/5G network and a different WAN IP address.</li>
-<li>If Real-Debrid detects multiple IP addresses, it might believe you&rsquo;re abusing the system, that is, sharing your credentials with everyone and block your access.</li>
+<li>If Real-Debrid detects multiple IP addresses, it may believe you&rsquo;re abusing the system by sharing your credentials with everyone.</li>
 </ul>
-</blockquote>
 <p><strong>Step 4: Install the Stremio App on Your TV</strong></p>
 <ul>
-<li>
-<p>Search for the Stremio app on the Google Play Store and download it.</p>
-</li>
-<li>
-<p>After logging into Stremio, you may need to download the Torrentio RD add-on again.</p>
-</li>
-<li>
-<p>After clicking <code>Configure</code>, you should see an QR code displayed on the TV. Use your mobile phone and scan it.</p>
-</li>
-<li>
-<p>Follow the prompts, and the app should automatically configure the API key on your TV.</p>
-</li>
+<li>Search for the Stremio app on the Google Play Store and download it. If you&rsquo;re using an Amazon Firestick, then that&rsquo;s another story.</li>
+<li>After logging into Stremio, you should see an QR code displayed on the TV. Use your mobile phone and scan it.</li>
+<li>Follow the prompts, and the app should automatically configure the API key on your TV.</li>
 </ul>
 <p>The Stremio client UI does not have as good as Netflix, Jellyfin, Plex etc. There are free alternatives such as Kodi, but requires a lot further technical dive. For 4K content, you need to have a good internet download speed. I have a 100mbps down and do not have any issues streaming.</p>
 

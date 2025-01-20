@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "en/projects/This is how I stream.md",
+                "file": "en/projects/Inventory Searcher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "This is how I stream"
+              "title": "Inventory Searcher"
             }
           }
         ],
@@ -217,41 +217,41 @@
   },
   "active": "4a72994c9702dc99",
   "lastOpenFiles": [
-    "en/theology/Sample Post.md",
-    "en/projects/This is how I stream.md",
-    "2021-12-30.md",
+    "Untitled.md",
+    "en/theology/My body, my choice..md",
+    "Untitled 1.md",
+    "en/projects/Inventory Searcher.md",
+    "en/projects/Bye Google Photos, Hello Immich.md",
     "en/theology/Why LGBTQ is harmful.md",
+    "en/projects/kristy.md",
+    "en/projects/photoprism.md",
+    "en/projects/simpleMarkup.md",
+    "en/projects/This is how I stream.md",
+    "en/projects/web scrapper.md",
+    "en/projects/3dPrints.md",
+    "en/projects/_index.md",
+    "en/theology/Sample Post.md",
+    "2021-12-30.md",
     "en/theology/Sampe Post.md",
     "en/templates/New Post.md",
     "en/templates",
     "en/theology/Why you should believe.md",
     "en/theology/Same-sex Marriage.md",
-    "en/theology/My body, my choice..md",
     "en/theology/_index.md",
-    "en/projects/Bye Google Photos, Hello Immich.md",
     "en/projects/().md",
-    "en/projects/simpleMarkup.md",
     "en/home/about.md",
-    "en/projects/photoprism.md",
     "en/projects/images/Pasted image 20241201115128.png",
     "en/projects/images/Pasted image 20241201115346.png",
-    "en/projects/3dPrints.md",
     "en/projects/images/Pasted image 20241201111255.png",
     "en/theology/workday.jpg",
     "en/images/20220530163406.png",
-    "en/projects/Inventory Searcher.md",
-    "en/projects/web scrapper.md",
     "en/projects/images",
     "attachments/Pasted image 20241201103137.png",
     "en/projects/Inventory Searcher 1.md",
-    "en/projects/kristy.md",
-    "en/projects/_index.md",
     "attachments",
     "copilot-conversations/hi@20241111_204627.md",
     "copilot-conversations/fix_my_grammar@20241111_204559.md",
     "copilot-conversations/fix_my_grammar@20241111_204010.md",
-    "copilot-conversations",
-    "en/theology/new test post.md",
-    "en/templates/test.md"
+    "copilot-conversations"
   ]
 }

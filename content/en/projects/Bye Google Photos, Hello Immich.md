@@ -3,8 +3,8 @@ title: My self-hosting Google Photos
 date: 2022-02-20T12:04:16-05:00
 tags:
   - images
-series: []
-draft: true
+series: 
+draft: false
 ---
 # Background
 
@@ -20,8 +20,8 @@ I tried both, and honestly, they work really well. However, I decided to go with
 # My Current Setup
 
 1. **Raspberry Pi 4 (Rpi4)** with a 512GB SanDisk
-2. **NAS**
-3. **Docker**
+2. **NAS** that contains abouit 4TB of storage.
+3. **Docker** running the Immich server.
 
 I won't go into detail about how to set everything up because that's already covered in the [Immich installation guide](https://immich.app/docs/install/docker-compose/). Instead, I'll share my thoughts on using it so far. Right now, I will admit. It's not as smooth sailing as I'd like. But I see a lot of potential, so I’m sticking with it and working on overcoming the obstacles.
 
@@ -48,3 +48,4 @@ One additional factor to consider: I removed the fan from the Rpi4 because it wa
 ```
 0 0 * * * dmesg > /var/log/dmesg-$(date +\%Y-\%m-\%d).log
 ```
+
