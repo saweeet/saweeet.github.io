@@ -2,9 +2,7 @@
 
 /* Base styling for all headings */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Arial', sans-serif; /* Set a clean font */
     color: black !important; /* Force headings to be black */
-    margin: 0.5em 0; /* Add consistent spacing */
 }
 
 /* H2 Styling */

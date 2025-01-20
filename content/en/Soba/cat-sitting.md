@@ -77,10 +77,15 @@ See a typical feeding time here: [Feeding Video](https://drive.google.com/file/d
 - Help yourself to toiletries found in the guest bathroom.
 
 ---
+# Wi-Fi
+- Name: Wi-Fries
+- Pass: fluffyrice123
+
+---
 # Desk and Monitor
 
 - **Desk & Monitor Use:** Feel free to use the desk and monitor in the office.
-- **Connecting Your Laptop:** There is a single black cable from the wide 34" monitor. Plug the USB-C cable from the Monitor directly into your laptop's USB-C port. Wait a few minutes, the screen should automatically display, and the mouse and keyboard should automatically work. 
+- **Connecting Your Laptop:** There is a single black cable from the curved wide 34" monitor. Plug the USB-C cable from the Monitor directly into your laptop's USB-C port. Wait a few minutes, the screen should automatically display, and the mouse and keyboard should automatically work. 
 
 ---
 # TV Operation
