@@ -326,6 +326,24 @@ Imjeremy
                     </div>
                 </div>
                 
+                
+                
+                
+                  
+                  
+                
+                <div class="column is-half">
+                    <div class="card" data-target="#project-1">
+                        
+                        <div class="card-content has-text-centered top-pad">
+                            <h1><a >
+                                My self-hosting Google Photos
+                            </a></h1>
+                            
+                        </div>
+                    </div>
+                </div>
+                
             </div>
         </div>
         
@@ -414,6 +432,56 @@ Imjeremy
             </section>
         </div>
         <button class="modal-close is-large" aria-label="close" data-target="#project-0"></button>
+    </div>
+    
+    
+    
+    <div class="modal" id="project-1">
+        <div class="modal-background"></div>
+        <div class="modal-card">
+            
+            <header class="modal-card-header bottom-pad">
+                <h1 class="modal-card-title has-text-centered">My self-hosting Google Photos</h1>
+            </header>
+            
+                     
+            <section class="modal-card-body markdown">
+                
+                
+<h1 id="background" class="anchor-link"><a href="#background">Background</a></h1>
+<p>Hitting the 20GB limit that Google provides for all your email and photos was inevitable. When that time came, I started digging around and found two potential solutions:</p>
+<ol>
+<li><strong>Immich</strong></li>
+<li><strong>Photoprism</strong></li>
+</ol>
+<p>I tried both, and honestly, they work really well. However, I decided to go with Immich since so many users were raving about how awesome it is.</p>
+<hr>
+
+<h1 id="my-current-setup" class="anchor-link"><a href="#my-current-setup">My Current Setup</a></h1>
+<ol>
+<li><strong>Raspberry Pi 4 (Rpi4)</strong> with a 512GB SanDisk</li>
+<li><strong>NAS</strong> that contains abouit 4TB of storage.</li>
+<li><strong>Docker</strong> running the Immich server.</li>
+</ol>
+<p>I won&rsquo;t go into detail about how to set everything up because that&rsquo;s already covered in the <a href="https://immich.app/docs/install/docker-compose/">Immich installation guide</a>. Instead, I&rsquo;ll share my thoughts on using it so far. Right now, I will admit. It&rsquo;s not as smooth sailing as I&rsquo;d like. But I see a lot of potential, so I’m sticking with it and working on overcoming the obstacles.</p>
+<p>After configuring my Docker files and confirming all the containers were running, I could log into the main interface. I had used a folder from my Google Takeout and began uploading all these photos into immich:</p>
+<div class="highlight"><pre tabindex="0" style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>immich upload --album --recursive directory/
+</span></span></code></pre></div><p>Next, I&rsquo;ll probably use <a href="https://github.com/simulot/immich-go">immich-go</a> to import directly from Google Photos.</p>
+<hr>
+
+<h2 id="hard-symptoms" class="anchor-link"><a href="#hard-symptoms">Hard Symptoms</a></h2>
+<p>After running my Docker containers, my Rpi4 would consistently hang or freeze after 3–4 hours. While I could still ping the device, SSH would stop working. Initially, I suspected an insufficient power supply, so I bought a brand-new Rpi4 power adapter. This seemed to resolve the issue temporarily, but after a fresh reboot and another 5–6 hours, the freezing resumed. I connected a monitor and keyboard to the Pi and found the command line blinking mockingly, with no response to my input—as if it were laughing at me after winning a long, heated battle. I came across a <a href="https://www.reddit.com/r/docker/comments/egrkrx/startingstopping_containers_makes_raspberry_pi/">Reddit post</a> suggesting that the issue could stem from a poor storage drive. However, I’m not entirely convinced, as I’m using a brand-new 512GB SanDisk purchased during a Black Friday sale. While I doubt it’s the culprit, I’m not ruling it out entirely. My real hunch is that the CPU or memory is being throttled due to overuse. When checking Docker stats, I noticed my container was hitting 200% CPU usage, which essentially means two of the four CPU cores were maxed out.</p>
+<p>One additional factor to consider: I removed the fan from the Rpi4 because it was too loud. However, I don’t think the fan was making much of a difference in cooling.</p>
+
+<h2 id="troubleshooting-steps" class="anchor-link"><a href="#troubleshooting-steps">Troubleshooting steps:</a></h2>
+<ul>
+<li>I&rsquo;m running a cron job that will log my dmesg entries each hour so I can look for any errors:</li>
+</ul>
+<pre tabindex="0"><code>0 0 * * * dmesg &gt; /var/log/dmesg-$(date +\%Y-\%m-\%d).log
+</code></pre>
+            </section>
+        </div>
+        <button class="modal-close is-large" aria-label="close" data-target="#project-1"></button>
     </div>
     
     
