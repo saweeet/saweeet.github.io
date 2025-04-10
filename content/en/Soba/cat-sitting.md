@@ -7,13 +7,15 @@ draft: false
 ---
 Hello,
 
-Thank you for agreeing to look after our cat, Soba. Kindly see his care instructions below. Should you have any questions, please feel free to reach out to us via WhatsApp or directly on our contact numbers.
+Thank you for agreeing to look after our cats Soba and Mochi. Kindly see their care instructions below. Should you have any questions, please feel free to reach out to us via WhatsApp or directly on our contact numbers:
+Jeremy- 0409 022 352
+Angelique- 0411 286 777
 
 ---
 # Arrival & Departure 
 
-- **Arrive:** After 2pm, by 5:30 PM on Tuesday 21 January in time for Soba's dinner.
-- **Leave:** Any time after Soba's breakfast on Thursday 23 January. An early breakfast is fine if you need to leave before 7:30 AM.
+- **Arrive:** Before noon on Friday 11 April
+- **Leave:** Any time after the cats' breakfasts on Sunday 13 April. An early breakfast is fine if you need to leave before 7:30 AM. We plan to arrive back home around late afternoon.
 - **Keys:** When leaving on the final day, you can leave the keys on the kitchen benchtop. As you leave from the front door, just pull the front door shut so that the top gold lock clicks shut. The doorknob itself can be left unlocked.
 
 ---
@@ -21,18 +23,22 @@ Thank you for agreeing to look after our cat, Soba. Kindly see his care instruct
 
 - **Feeding Times:** 7:30 AM and 5:30 PM each day.
 - **Playtime:** 5–10 minutes before each meal.
-- **Food:** Wash his bowl and measure 19g of dry food (from the pantry) and 14g of wet food (from the fridge).
-- **Scale:** Turn off the scale by holding the button on the right until it powers down.
+- **Food:** Measure dry food (from the pantry) and wet food (from the fridge). Follow the measurements labelled on each container.
+- **Scale:** Turn off the scale by holding the button on the right until it powers down. If it runs out of battery, you'll find batteries on the bottom drawer (same drawer as cling wrap and foil).
 
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeROeX4F4BKPBuKMjrh-BcXelch6M09yYAnBdJe17x2LIdOLnsL-Kd4cQTW4ngrH_txQjjc4tsW1CjjquRZNfZVdS_BVObXGsjKZhv1f5nYNzTpf1_VlpB-ESYQS_sbzMTUI_V_JWBKLdx9wPNWQacMY2I?key=_6lhS3vg6BtRTelOzHpsrbu0)**
 
 ## Feeding Steps:
 
 1. Say "Sit" to Soba.
-2. Place the bowl on the stand.
-3. Once he is sitting and making eye contact, say "Good boy" to signal he can start eating.
+2. Place the bowl on the stand. 
+3. Hold Mochi back (she's not trained yet) while Soba waits.
+4. If Soba tries to eat before your signal, gently block him with your arm and say "No" firmly.
+5. Once he is sitting and making eye contact, say "Good boy" to signal he can start eating. 
+6. Let Mochi eat too. 
+7. They finish eating around the same time. Stop any attempts to eat from the other's bowl (they usually do this once they finish their own bowl). If all food is eaten, licking each other's empty bowls afterwards is fine.
    **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdRcqSugWpI32-xXZYTTfeyt_2KPJPIBmejhh_5ElK-ULSDIVzQ5Zs2-_vIBdAWnGB2Jkb2oRuVeZdBnGQuNLMMjH6e6rcWci0_ZvAuUo1dcragM5yIrK6TalvXpQ7vSGce_dkjk04NRSWD3iUqufJeQH7Z?key=_6lhS3vg6BtRTelOzHpsrbu0)**
-4. If he tries to eat before your signal, gently block him with your arm and say "No" firmly.
+
 
 See a typical feeding time here: [Feeding Video](https://drive.google.com/file/d/1UHcSNu7qQpUvrl3b-K-Rem_-jjNW2gM2/view?usp=sharing)
 
@@ -40,39 +46,39 @@ See a typical feeding time here: [Feeding Video](https://drive.google.com/file/d
 # Discipline Guidelines
 
 ## No Biting Policy:
-- If Soba bites (even gently), say "No" firmly, then leave him alone and ignore him for a few minutes.
-- If he bites while on you, say "No" firmly, place him down and ignore him.
+- If either cat bites (even gently), say "No" firmly, then leave them alone and ignore them for a few minutes.
+- If a cat bites you while on you, say "No" firmly, place them down and ignore them.
 
 ## Kitchen Counter:
-- If you see Soba on the counter, say "No" firmly. If he doesn't jump down, gently place him on the floor. 
+- If you see either cat on the benchtop or dining table, say "No" firmly. If they don't jump down, gently place them on the floor. Mochi is untrained and will gently need to be picked up and placed on the floor.
 - Make sure no uncovered food or dirty dishes are left out. Place dirty dishes face down in the sink or directly into the dishwasher to avoid tempting him.
+- If you're cooking or eating and Mochi keeps repeatedly jumping up on the benchtop or dining table, you can section her out of the kitchen by closing both sliding doors.
 
 ## Outdoor Safety:
-- Soba is an indoor-only cat.
-- When entering, lead with your foot to prevent him from dashing outside.
-- If returning home after a while, go to the kitchen first to give him a snack.
+- Soba and Mochi are an indoor-only cats.
+- When entering, lead with your foot to prevent them from dashing outside.
+- If returning home after a while, go to the kitchen first to give them a snack. Tell them to sit first before giving a snack to both of them. Mochi is getting better at sitting on command, but it's OK if she doesn't always get it since she's still learning. So long as Soba sits on command.
 - Keep both front and back doors closed at all times.
 
 ---
 # Handling Tips
 
-- Pay attention to Soba's body language to avoid bites (he bites very gently).
-- Soba enjoys face, forehead, neck, and under-chin scratches.
+- Pay attention to Soba and Mochi's body language to avoid bites (they bite very gently).
+- Soba and Mochi enjoy face, forehead, neck, and under-chin scratches.
 - He dislikes tummy and butt scratches.
 - Soba loves being picked up and held.
+- Mochi doesn't mind being picked up outside of her zoomies. She'll purr and usually will sit still, but can be a bit restless.
 
 ---
 # Soba's Automatic Devices
 
-- Soba uses an automatic litter box, there's no need to handle any litter.
+- There's no need to handle the automatic litter box in the laundry room.
+- The manual litter box in the living room will need scooping as usual.
 - We will refill Soba's water fountain so it should be continuously flowing water. But if it's blinking and intermittently spurting out water, you can add more water on top. 
-- In emergencies if you're unable to make it to feed Soba, please contact us. We will activate the automatic feeder. If you're up to an hour late, it's fine to feed him as normal.
 
 ---
 # Bathroom
 
-- You're welcome to use our ensuite bathroom since the guest toilet is currently not installed.
-- The guest bathroom's shower is a little weak, feel free to use our ensuite shower. 
 - Towels are found underneath the guest bathroom sink.
 - Help yourself to toiletries found in the guest bathroom.
 
@@ -99,9 +105,9 @@ See a typical feeding time here: [Feeding Video](https://drive.google.com/file/d
 Use the Streamio or Prime app for movies and TV shows. Feel free to use YouTube as well.
 
 ---
-# Aircon & Fireplace Operation
+# Aircon/heater & Fireplace Operation
 
-- 3 of the 4 bedrooms have aircon with their own remotes. Each white remote is kept on a table in their bedroom. If it's a hot day, you can leave them running on max with the doors open to cool the whole house. Feel free to leave aircon running at night from the study to your guest bedroom to stay cool. There is also a fan in the guest bedroom to help with airflow.
+- All bedrooms have aircon and heaters with their own remotes. Each white remote is kept on a table in their bedroom. If it's a hot day, you can leave them running on max with the doors open to cool the whole house. There is also a fan and air purifier in the music room.
 - If you want to use the fireplace, there's an On/Off switch located on the right-hand side of the facade. 
 
 ---
