@@ -28,6 +28,8 @@ DefaultContentLanguage           = "en"                    # Default language fo
         timeFormat               = "en-AU"                 # Language specific format to use
     [params.projects]
         useTwoColumns            = true                   # Use a layout with two columns instead of three
+    [params.kitchen]
+        useTwoColumns            = false                   # Use a layout with two columns instead of three
 
     # Share buttons on blog post pages
     [params.share]
