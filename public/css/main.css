@@ -243,7 +243,7 @@ pre {
   font-family: monospace; }
 
 body {
-  color: #4a4a4a;
+  color: #ffffff;
   font-size: 1em;
   font-weight: 400;
   line-height: 1.5; }
@@ -255,17 +255,17 @@ a {
   a strong {
     color: currentColor; }
   a:hover {
-    color: #000000; }
+    color: #efefef; }
 
 code {
-  background-color: transparent;
+  background-color: #222222;
   color: #00b8d4;
   font-size: 0.875em;
   font-weight: normal;
   padding: 0.25em 0.5em 0.25em; }
 
 hr {
-  background-color: #ffffff;
+  background-color: #222222;
   border: none;
   display: block;
   height: 2px;
@@ -295,7 +295,7 @@ fieldset {
 
 pre {
   -webkit-overflow-scrolling: touch;
-  background-color: #ffffff;
+  background-color: #222222;
   color: #4a4a4a;
   font-size: 0.875em;
   overflow-x: auto;
@@ -1757,7 +1757,7 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
 .modal-card-head,
 .modal-card-foot {
   align-items: center;
-  background-color: #ffffff;
+  background-color: #222222;
   display: flex;
   flex-shrink: 0;
   justify-content: flex-start;
@@ -1792,7 +1792,7 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
   padding: 20px; }
 
 .navbar {
-  background-color: #ffffff;
+  background-color: #222222;
   min-height: 3.25rem;
   position: relative;
   z-index: 30; }
@@ -2252,7 +2252,7 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
     min-height: 3.25rem;
     width: 100%; }
   .navbar.has-shadow {
-    box-shadow: 0 2px 0 0 #ffffff; }
+    box-shadow: 0 2px 0 0 #222222; }
   .navbar.is-fixed-bottom, .navbar.is-fixed-top {
     left: 0;
     position: fixed;
@@ -2261,7 +2261,7 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
   .navbar.is-fixed-bottom {
     bottom: 0; }
     .navbar.is-fixed-bottom.has-shadow {
-      box-shadow: 0 -2px 0 0 #ffffff; }
+      box-shadow: 0 -2px 0 0 #222222; }
   .navbar.is-fixed-top {
     top: 0; }
 
@@ -2290,7 +2290,7 @@ body.has-navbar-fixed-bottom {
   overflow-y: hidden; }
 
 .navbar-burger {
-  color: #4a4a4a;
+  color: #ffffff;
   cursor: pointer;
   display: block;
   height: 3.25rem;
@@ -2328,7 +2328,7 @@ body.has-navbar-fixed-bottom {
 
 .navbar-item,
 .navbar-link {
-  color: #4a4a4a;
+  color: #ffffff;
   display: block;
   line-height: 1.5;
   padding: 0.5rem 0.75rem;
@@ -2346,8 +2346,8 @@ a.navbar-item,
   .navbar-link:focus-within,
   .navbar-link:hover,
   .navbar-link.is-active {
-    background-color: #ffffff;
-    color: #dbdbdb; }
+    background-color: #222222;
+    color: #efefef; }
 
 .navbar-item {
   flex-grow: 0;
@@ -2394,7 +2394,7 @@ a.navbar-item,
     padding-right: 1.5rem; }
 
 .navbar-divider {
-  background-color: #ffffff;
+  background-color: #222222;
   border: none;
   display: none;
   height: 2px;
@@ -2410,7 +2410,7 @@ a.navbar-item,
   .navbar-link::after {
     display: none; }
   .navbar-menu {
-    background-color: #ffffff;
+    background-color: #222222;
     box-shadow: 0 8px 16px rgba(10, 10, 10, 0.1);
     padding: 0.5rem 0; }
     .navbar-menu.is-active {
@@ -2462,10 +2462,10 @@ a.navbar-item,
     .navbar.is-transparent .navbar-item.has-dropdown.is-active .navbar-link, .navbar.is-transparent .navbar-item.has-dropdown.is-hoverable:focus .navbar-link, .navbar.is-transparent .navbar-item.has-dropdown.is-hoverable:focus-within .navbar-link, .navbar.is-transparent .navbar-item.has-dropdown.is-hoverable:hover .navbar-link {
       background-color: transparent !important; }
     .navbar.is-transparent .navbar-dropdown a.navbar-item:focus, .navbar.is-transparent .navbar-dropdown a.navbar-item:hover {
-      background-color: #ffffff;
+      background-color: #222222;
       color: #0a0a0a; }
     .navbar.is-transparent .navbar-dropdown a.navbar-item.is-active {
-      background-color: #ffffff;
+      background-color: #222222;
       color: #3273dc; }
   .navbar-burger {
     display: none; }
@@ -2518,10 +2518,10 @@ a.navbar-item,
     .navbar-dropdown a.navbar-item {
       padding-right: 3rem; }
       .navbar-dropdown a.navbar-item:focus, .navbar-dropdown a.navbar-item:hover {
-        background-color: #ffffff;
+        background-color: #222222;
         color: #0a0a0a; }
       .navbar-dropdown a.navbar-item.is-active {
-        background-color: #ffffff;
+        background-color: #222222;
         color: #3273dc; }
     .navbar.is-spaced .navbar-dropdown, .navbar-dropdown.is-boxed {
       border-radius: 6px;
@@ -2575,7 +2575,7 @@ a.navbar-item,
   .navbar-link.is-active:not(:focus):not(:hover) {
     background-color: transparent; }
   .navbar-item.has-dropdown:focus .navbar-link, .navbar-item.has-dropdown:hover .navbar-link, .navbar-item.has-dropdown.is-active .navbar-link {
-    background-color: #ffffff; } }
+    background-color: #222222; } }
 
 .hero.is-fullheight-with-navbar {
   min-height: calc(100vh - 3.25rem); }
@@ -13020,7 +13020,7 @@ readers do not read off random characters that represent icons */
   color: #fff; }
 
 html, body {
-  background-color: #ffffff; }
+  background-color: #222222; }
 
 html {
   scroll-behavior: smooth; }
@@ -13049,16 +13049,16 @@ html.modal-open {
 a {
   color: #00b8d4; }
   a:hover {
-    color: #000000;
+    color: #efefef;
     font-style: none; }
   a:active {
     color: #00b8d4; }
 
 h1, h2, .title, .subtitle {
-  color: #222222; }
+  color: #efefef; }
 
 p {
-  color: #4a4a4a; }
+  color: #ffffff; }
 
 .title {
   font-weight: 300; }
@@ -13068,11 +13068,11 @@ ul {
 
 img {
   border-radius: 5px;
-  border: 1px solid #dbdbdb;
+  border: 1px solid #efefef;
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4); }
 
 hr {
-  background-color: #dbdbdb;
+  background-color: #efefef;
   height: 1px; }
 
 details {
@@ -13143,7 +13143,7 @@ details[open] summary {
 .post-data, .blog-share, .footer-text {
   font-size: 1rem;
   line-height: 2rem;
-  color: #4a4a4a; }
+  color: #ffffff; }
 
 .social-icons {
   padding: 0 10px; }
@@ -13165,21 +13165,21 @@ details[open] summary {
   margin: 0 5px; }
 
 .navbar {
-  background-color: #ffffff; }
+  background-color: #222222; }
 
 .navbar-burger {
   margin-right: auto;
   color: #00b8d4; }
 
 .navbar-burger:hover {
-  background-color: #ffffff; }
+  background-color: #222222; }
 
 .navbar-item {
   text-transform: uppercase;
   font-size: 0.875rem;
-  color: #4a4a4a; }
+  color: #ffffff; }
   .navbar-item:hover, .navbar-item:active {
-    background-color: #ffffff !important; }
+    background-color: #222222 !important; }
 
 .owl-nav {
   height: 50px; }
@@ -13193,7 +13193,7 @@ details[open] summary {
 .footer-text {
   font-size: 0.8em; }
   .footer-text a {
-    color: #4a4a4a; }
+    color: #ffffff; }
   .footer-text .fab {
     font-size: 0.8em;
     vertical-align: baseline; }
@@ -13224,7 +13224,7 @@ details[open] summary {
   justify-content: center; }
 
 .markdown {
-  color: #4a4a4a !important; }
+  color: #ffffff !important; }
   .markdown p {
     margin: 1em 0; }
   .markdown h1 {
@@ -13255,7 +13255,7 @@ details[open] summary {
   .markdown h6 {
     font-size: 1rem; }
   .markdown a:hover {
-    color: #dbdbdb; }
+    color: #efefef; }
   .markdown ul {
     margin-bottom: 1.25rem;
     list-style: disc; }
@@ -13282,7 +13282,7 @@ details[open] summary {
     position: relative;
     margin: 1.75rem 0;
     border: 0;
-    border-top: 1px solid #dbdbdb; }
+    border-top: 1px solid #efefef; }
   .markdown abbr {
     font-size: 0.8rem;
     font-weight: bold;
@@ -13317,7 +13317,7 @@ details[open] summary {
   .markdown code, .markdown pre {
     border-radius: 3px; }
   .markdown p > code, .markdown p > a > code {
-    background-color: rgba(219, 219, 219, 0.3) !important; }
+    background-color: rgba(239, 239, 239, 0.3) !important; }
   .markdown img {
     display: block;
     margin: 2rem auto;
@@ -13331,10 +13331,19 @@ details[open] summary {
   .markdown figcaption > h4 {
     font-size: 0.8rem; }
 
+.modal-card-title {
+  color: #00b8d4; }
+
+.modal-card-body {
+  background-color: #222222; }
+
+.markdown strong {
+  color: #ffffff; }
+
 .modal-background {
-  background-color: rgba(255, 255, 255, 0.9); }
+  background-color: rgba(0, 0, 0, 0.8); }
 
 .modal-close {
-  background-color: #000000; }
+  background-color: #00b8d4; }
 
 /*# sourceMappingURL=main.css.map */

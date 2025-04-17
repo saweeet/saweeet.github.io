@@ -2,7 +2,7 @@
 
 /* Base styling for all headings */
 h1, h2, h3, h4, h5, h6 {
-    color: black !important; /* Force headings to be black */
+   /* color: black !important;  Force headings to be black */
 }
 
 /* H2 Styling */
@@ -13,5 +13,5 @@ h2 {
 /* Optional: Anchor link styling */
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
     text-decoration: none !important; /* Remove underlines */
-    color: black !important; /* Ensure links are also black */
+   /*  color: black !important; Ensure links are also black */
 }
