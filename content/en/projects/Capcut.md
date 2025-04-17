@@ -1,9 +1,9 @@
 ---
 title: Capcut for Android
-date: 2024-12-31
+date: 2024-12-24
 tags: 
 series: 
-draft: true
+draft: false
 ---
 **Unlocking Premium Features on CapCut for Free**
 
@@ -11,7 +11,7 @@ A few months ago, I stumbled upon an older version of CapCut that seems to work 
 
 The link from **@luigkilly’s** Google Drive is here: [Download CapCut 7.6 Version](https://drive.google.com/file/d/1Jx03ymWm02KF8llUvPIeKz9oIyn-MeLs/view?usp=drivesdk).
 
-Caution: Use at your own risk. There are  recent comments saying this file contained a virus. 
+> Caution: Use at your own risk. There are  recent comments saying this file contained a virus. 
 ### How to Use It
 
 1. **Download the File:** Use the link above to download the APK file onto your device.
