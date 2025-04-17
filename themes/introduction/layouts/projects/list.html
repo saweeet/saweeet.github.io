@@ -33,6 +33,9 @@
                             <h1><a href="{{ if .Params.external_link }}{{ .Params.external_link }}{{ else }}{{ .Permalink }}{{ end }}">
                                 {{ .Title | markdownify }}
                             </a></h1>
+                            <span class="reading-time">
+                                {{ .ReadingTime }} {{ i18n "blog_readingTime" }}
+                            </span>
                         </div>
                     </div>
                 </div>

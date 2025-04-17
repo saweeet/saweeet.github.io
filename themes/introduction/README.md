@@ -1,4 +1,4 @@
-# Introduction theme for Hugo
+# Pax vobiscum
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/51d09485-c9d1-4a88-90ba-894f09e5a29d/deploy-status)](https://app.netlify.com/sites/hugo-introduction/deploys)
 ![Test Hugo versions](https://github.com/victoriadrake/hugo-theme-introduction/workflows/test-versions/badge.svg)

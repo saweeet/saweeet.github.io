@@ -34,7 +34,7 @@
   border-radius: 2px;
   border-right: 0;
   border-top: 0;
-  content: " ";
+  content: ;
   display: block;
   height: 0.625em;
   margin-top: -0.4375em;
@@ -572,7 +572,7 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
 
 .is-clearfix::after {
   clear: both;
-  content: " ";
+  content: ;
   display: table; }
 
 .is-pulled-left {
@@ -13370,7 +13370,7 @@ details[open] summary {
     border-radius: 2px;
     border-right: 0;
     border-top: 0;
-    content: " ";
+    content: ;
     display: block;
     height: 0.625em;
     margin-top: -0.4375em;
@@ -13793,7 +13793,7 @@ details[open] summary {
     background-color: #fafafa !important; }
   .is-clearfix::after {
     clear: both;
-    content: " ";
+    content: ;
     display: table; }
   .is-pulled-left {
     float: left !important; }
