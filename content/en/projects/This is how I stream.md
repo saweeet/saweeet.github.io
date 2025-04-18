@@ -40,7 +40,7 @@ In a [X post](https://x.com/realdebrid/status/1859673163681960169?s=46&t=v7hlI5j
 
 - Once registered, navigate to `My Devices`, where you should find an **API key**.
 
-![](../images/Pasted%20image%2020241201115128.png)
+![](images/Pasted%20image%2020241201115128.png)
 
 
 - Copy and paste this API key to your clipboard.

@@ -11,7 +11,7 @@ For me, this has to be one of, if not the most important question someone can ev
 My personal reasoning as to why I believe has changed progressively over the years and has evolved in many ways. I started as a cradle Catholic, so I was taught to believe at a very young age. However, like a majority of cradle Catholics, my faith was very watered down. I remember going to an YFC (Youth for Christ) camp and on Day-1, telling everyone that I was just there for the girls. What an embarrassment. However, from that camp I saw that being Christian could be 'cool'. I saw Christians Break dancing, rapping, hip hopping, and also singing to Praise and Worship. Sure, it may have been a bit superficial, but it was a good start in knowing that Christians doesnt need to mean boring. As life progressed, I exposed myself to more Catholic circles. Slowly my faith grew through friendships, music, testimonials, keynote speakers, Catholic radio, and podcasts. I started to connected dots in faith and understanding. I began to understand truths about my faith and how it would influence my everyday life. My life started to feel so free and is constantly filled with joy. My faith has taught me how to love my friends, family, and spouse in ways I would never have found otherwise.
 
 So why should you believe in the Christian God?
-# Quick Thoughts
+# Initial Thoughts
 - Why is God even important to us? Perhaps some of us don't want Him to be real since we may think all the 'fun' will be out of reach. 
 - It is unlikely that there will be a single convincing answer to prove God's existence. Rather, it may very well be a combination of reasons.
 - God is immaterial, so we cannot use standard material science. This doesn't mean Science and Faith contradict; in fact, they should complement each other if both are pointing to the 'truth'.
@@ -45,7 +45,7 @@ There are many reasons and arguments for the existence of God. Some can be deep 
 
 4. **God has answered prayers.** And not just mine, but those of many others as well. There are some prayers I've requested, and God has sometimes chosen not to answer immediately. Sometimes He answers at a later time, and He answers in abundance. Sure, He doesn't always give me exactly what I wanted, but it's always what I needed. Reflecting on my prayer requests, He has always given me more than I could ever ask for. When terrible things happen, I believe all things are permitted to happen so that they can bring a greater good. We may just not understand it and may never will. 
 
-5. **The resurrection.** I would say the biggest hurdle to believe in is the resurrection. Saint Paul says, without the resurrection then our Faith is *useless* and that we Christians are *the most pitiful of people* [1 Corinthians 15:12-19]. There are many debates online on this topic, a recent one is by the truly respected Trent Horn versus Matt Dillahunty [3].  I've started to compile some points that made the resurrection convincing for me, but it is up to you to decide whether you'd like to seek this out further:
+5. **The resurrection.** I would say the biggest hurdle to believe in is the resurrection of Jesus. Saint Paul says, without the resurrection then our Faith is *useless* and that we Christians are *the most pitiful of people* [1 Corinthians 15:12-19]. I love listening to debates on this topic. A recent one is by the truly respected Trent Horn and Matt Dillahunty [3].  I've started to compile some points that made the resurrection convincing for me, but of course it's up to you decide whether you'd like to seek this out further:
 
     - The Apostles endured horrendous deaths. Many other groups often renounce their faith when faced with death or horrible torture. This indicates that the Apostles and early Christians really believed that Jesus truly resurrected.
     
@@ -53,9 +53,9 @@ There are many reasons and arguments for the existence of God. Some can be deep 
 
 ---
 
-- [1] Question 2. The existence of God - https://www.newadvent.org/summa/1002.htm
-- [2] 7 ways Christianity shaped (& saves) Western civilisation - https://timelessquill.wordpress.com/2022/07/22/christianity-west/
-- [3] Is belief in the Resurrection reasonable? Trent Horn Vs Matt Dillahunty Debate - https://www.youtube.com/watch?v=7V6UNSvHVDM
-- [4] 1 Corinthians chapter 15:13-19
-- [5] The Conversion of St. Paul - https://catholicexchange.com/the-conversion-of-st-paul/
+[1] Question 2. The existence of God - https://www.newadvent.org/summa/1002.htm <br />
+[2] 7 ways Christianity shaped (& saves) Western civilisation - https://timelessquill.wordpress.com/2022/07/22/christianity-west/ <br />
+[3] Is belief in the Resurrection reasonable? Trent Horn Vs Matt Dillahunty Debate - https://www.youtube.com/watch?v=7V6UNSvHVDM <br />
+[4] 1 Corinthians chapter 15:13-19 <br />
+[5] The Conversion of St. Paul - https://catholicexchange.com/the-conversion-of-st-paul/
 
