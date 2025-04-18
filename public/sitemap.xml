@@ -79,12 +79,6 @@
     <loc>http://localhost:1313/theology/why-you-should-believe/</loc>
     <lastmod>2024-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/theology/lgbt-discussions/</loc>
-    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/series/theology/</loc>
-    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/projects/bye-google-photos-hello-immich/</loc>
     <lastmod>2022-02-20T12:04:16-05:00</lastmod>
   </url><url>
@@ -121,5 +115,7 @@
     <loc>http://localhost:1313/tags/prayers/</loc>
   </url><url>
     <loc>http://localhost:1313/prayers/salve-regina/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/theology/</loc>
   </url>
 </urlset>
