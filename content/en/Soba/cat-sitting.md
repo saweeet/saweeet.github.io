@@ -7,9 +7,7 @@ draft: false
 ---
 Hello,
 
-Thank you for agreeing to look after our cats Soba and Mochi. Kindly see their care instructions below. Should you have any questions, please feel free to reach out to us via WhatsApp or directly on our contact numbers:
-Jeremy- 0409 022 352
-Angelique- 0411 286 777
+Thank you for agreeing to look after our cats Soba and Mochi. Kindly see their care instructions below. Should you have any questions, please feel free to reach out to us via Whatsapp.
 
 ---
 # Arrival & Departure 

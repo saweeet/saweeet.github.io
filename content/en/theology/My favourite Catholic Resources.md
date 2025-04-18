@@ -1,6 +1,6 @@
 ---
 title: My favourite Catholic Resources
-date: 2025-12-12
+date: 2024-12-12
 tags: 
 series: 
 resources: 
