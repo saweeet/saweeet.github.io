@@ -15,4 +15,4 @@ draft: false
 Mix, oil a piping bag, squeeze out drops from the piping bag into hot oil, cutting at desired size. Shake in caster sugar
 
 
-![[greek-donuts.jpg]]
+![[attachments/greek-donuts.jpg]]
