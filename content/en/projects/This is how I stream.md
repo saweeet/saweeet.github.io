@@ -53,7 +53,7 @@ In a [X post](https://x.com/realdebrid/status/1859673163681960169?s=46&t=v7hlI5j
 - Paste the RealDebrid API Key under the `RealDebrid API Key` that you copied in Step 2.
 - Click on 'Install'.
 
-![[images/Pasted image 20250607161613.png]]
+![[(https://imjeremy.com/projects/images/torrentio.png]]
 
 At this stage you should now be able to test this. Make sure your mobile phone is connected to your home Wi-Fi. Then, using Stremio, try searching and watching a few movies and TV shows using Stremio. 
 
