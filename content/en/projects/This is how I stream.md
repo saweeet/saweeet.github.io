@@ -66,10 +66,11 @@ At this stage you should now be able to test this. Make sure your mobile phone i
 
  **Step 4: Install the Stremio App on Your TV**
 
-- Search for the Stremio app on the Google Play Store and download it. If you're using an Amazon Firestick, then that's another story.
+- Search for the Stremio app on the Google Play Store and download it. If you're using an Amazon Firestick, then that's another story [2].
 - After logging into Stremio, you should see an QR code displayed on the TV. Use your mobile phone and scan it.
 - Follow the prompts, and the app should automatically configure the API key on your TV.
 
 The Stremio client UI does not have as good as Netflix, Jellyfin, Plex etc. There are free alternatives such as Kodi, but requires a lot further technical dive. For 4K content, you need to have a good internet download speed. I have a 100mbps down and do not have any issues streaming.
 # Notes
 [1] Some users choose to use an alias email address and VPN. See https://www.youtube.com/watch?v=7Ncye_X6wwc However, I was comfortable not doing this. Up to you how you would like to proceed.
+[2] Installing Stremio on Firestick - https://www.youtube.com/watch?v=wu0xVwtWv2Q
