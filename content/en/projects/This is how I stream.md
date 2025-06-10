@@ -21,9 +21,8 @@ There a few ways to set this up. This guide will take the simplest approach, usi
     
 3. **[Torrentio RD](https://torrentio.strem.fun/)**: A Stremio add-on extension that helps you find movies or TV shows. It scrapes torrent sites to find streaming links for the content you search for in Stremio. Note that it does not download content itself; it simply finds relevant links and sends them to Real Debrid, which then downloads the content for you.
 
-**Notice Update: 01/12/2024**
+![[Pasted image 20250610192020.png]]
 
-In a [X post](https://x.com/realdebrid/status/1859673163681960169?s=46&t=v7hlI5j-ie2ub28ChSkAKw), Real-Debrid (RD) announced enhanced anti-piracy measures, which caused some users from consuming content.  Four weeks later, I am still streaming without any issues. As an backup alternative to Real-Debrid, I hear Torguard is a good option and works natively with Stremio too. For now, I plan to continue using RD until my subscription runs out or the service stops working, then decide whether to switch to Torguard.
 
 # Instructions
 
@@ -72,5 +71,9 @@ At this stage you should now be able to test this. Make sure your mobile phone i
 
 The Stremio client UI does not have as good as Netflix, Jellyfin, Plex etc. There are free alternatives such as Kodi, but requires a lot further technical dive. For 4K content, you need to have a good internet download speed. I have a 100mbps down and do not have any issues streaming.
 # Notes
-[1] Some users choose to use an alias email address and VPN. See https://www.youtube.com/watch?v=7Ncye_X6wwc However, I was comfortable not doing this. Up to you how you would like to proceed.
-[2] Installing Stremio on Firestick - https://www.youtube.com/watch?v=wu0xVwtWv2Q
+
+**Notice Update: 01/12/2024**: In a [X post](https://x.com/realdebrid/status/1859673163681960169?s=46&t=v7hlI5j-ie2ub28ChSkAKw), Real-Debrid (RD) announced enhanced anti-piracy measures. To this day, I am still streaming without any issues. As an backup alternative to Real-Debrid, I hear Torguard is a good option and works natively with Stremio too. For now, I plan to continue using RD until my subscription runs out or the service stops working, then decide whether to switch to Torguard.
+
+
+- [1] Some users choose to use an alias email address and VPN. See https://www.youtube.com/watch?v=7Ncye_X6wwc However, I was comfortable not doing this. Up to you how you would like to proceed.
+- [2] Installing Stremio on Firestick - https://www.youtube.com/watch?v=wu0xVwtWv2Q
