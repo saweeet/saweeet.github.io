@@ -21,7 +21,7 @@ There a few ways to set this up. This guide will take the simplest approach, usi
     
 3. **[Torrentio RD](https://torrentio.strem.fun/)**: A Stremio add-on extension that helps you find movies or TV shows. It scrapes torrent sites to find streaming links for the content you search for in Stremio. Note that it does not download content itself; it simply finds relevant links and sends them to Real Debrid, which then downloads the content for you.
 
-![[Pasted image 20250610192020.png]]
+![[https://imjeremy.com/projects/images/stremioRd.png]]
 
 
 # Instructions
