@@ -20,8 +20,8 @@ There a few ways to set this up. This guide will take the simplest approach, usi
 2. **[Stremio](https://www.stremio.com)**: This is the client app you will be using to watch content with. The Stremio app can be downloaded from the Google Play Store or the Apple App Store. You will need to install this app on your TV and/or mobile phone.
     
 3. **[Torrentio RD](https://torrentio.strem.fun/)**: A Stremio add-on extension that helps you find movies or TV shows. It scrapes torrent sites to find streaming links for the content you search for in Stremio. Note that it does not download content itself; it simply finds relevant links and sends them to Real Debrid, which then downloads the content for you.
-
-![[https://imjeremy.com/projects/images/stremioRd.png]]
+   
+![](https://imjeremy.com/projects/images/stremioRd.png)
 
 
 # Instructions
