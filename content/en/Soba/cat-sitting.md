@@ -7,7 +7,7 @@ draft: false
 ---
 Hello,
 
-Thank you for agreeing to look after our cats Soba and Mochi. Kindly see their care instructions below. Should you have any questions, please feel free to reach out to us via Whatsapp.
+Thank you for agreeing to look after our cats Soba and Laksa. Kindly see their care instructions below. Should you have any questions, please feel free to reach out to us via Whatsapp.
 
 ---
 # Arrival & Departure 
@@ -30,10 +30,10 @@ Thank you for agreeing to look after our cats Soba and Mochi. Kindly see their c
 
 1. Say "Sit" to Soba.
 2. Place the bowl on the stand. 
-3. Hold Mochi back (she's not trained yet) while Soba waits.
+3. Hold Laksa back (she's not trained yet) while Soba waits.
 4. If Soba tries to eat before your signal, gently block him with your arm and say "No" firmly.
 5. Once he is sitting and making eye contact, say "Good boy" to signal he can start eating. 
-6. Let Mochi eat too. 
+6. Let Laksa eat too. 
 7. They finish eating around the same time. Stop any attempts to eat from the other's bowl (they usually do this once they finish their own bowl). If all food is eaten, licking each other's empty bowls afterwards is fine.
    **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdRcqSugWpI32-xXZYTTfeyt_2KPJPIBmejhh_5ElK-ULSDIVzQ5Zs2-_vIBdAWnGB2Jkb2oRuVeZdBnGQuNLMMjH6e6rcWci0_ZvAuUo1dcragM5yIrK6TalvXpQ7vSGce_dkjk04NRSWD3iUqufJeQH7Z?key=_6lhS3vg6BtRTelOzHpsrbu0)**
 
@@ -48,24 +48,24 @@ See a typical feeding time here: [Feeding Video](https://drive.google.com/file/d
 - If a cat bites you while on you, say "No" firmly, place them down and ignore them.
 
 ## Kitchen Counter:
-- If you see either cat on the benchtop or dining table, say "No" firmly. If they don't jump down, gently place them on the floor. Mochi is untrained and will gently need to be picked up and placed on the floor.
+- If you see either cat on the benchtop or dining table, say "No" firmly. If they don't jump down, gently place them on the floor. Laksa is untrained and will gently need to be picked up and placed on the floor.
 - Make sure no uncovered food or dirty dishes are left out. Place dirty dishes face down in the sink or directly into the dishwasher to avoid tempting him.
-- If you're cooking or eating and Mochi keeps repeatedly jumping up on the benchtop or dining table, you can section her out of the kitchen by closing both sliding doors.
+- If you're cooking or eating and Laksa keeps repeatedly jumping up on the benchtop or dining table, you can section her out of the kitchen by closing both sliding doors.
 
 ## Outdoor Safety:
-- Soba and Mochi are an indoor-only cats.
+- Soba and Laksa are an indoor-only cats.
 - When entering, lead with your foot to prevent them from dashing outside.
-- If returning home after a while, go to the kitchen first to give them a snack. Tell them to sit first before giving a snack to both of them. Mochi is getting better at sitting on command, but it's OK if she doesn't always get it since she's still learning. So long as Soba sits on command.
+- If returning home after a while, go to the kitchen first to give them a snack. Tell them to sit first before giving a snack to both of them. Laksa is getting better at sitting on command, but it's OK if she doesn't always get it since she's still learning. So long as Soba sits on command.
 - Keep both front and back doors closed at all times.
 
 ---
 # Handling Tips
 
-- Pay attention to Soba and Mochi's body language to avoid bites (they bite very gently).
-- Soba and Mochi enjoy face, forehead, neck, and under-chin scratches.
+- Pay attention to Soba and Laksa's body language to avoid bites (they bite very gently).
+- Soba and Laksa enjoy face, forehead, neck, and under-chin scratches.
 - He dislikes tummy and butt scratches.
 - Soba loves being picked up and held.
-- Mochi doesn't mind being picked up outside of her zoomies. She'll purr and usually will sit still, but can be a bit restless.
+- Laksa doesn't mind being picked up outside of her zoomies. She'll purr and usually will sit still, but can be a bit restless.
 
 ---
 # Soba's Automatic Devices
