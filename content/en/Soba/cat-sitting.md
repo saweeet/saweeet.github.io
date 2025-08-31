@@ -1,5 +1,5 @@
 ---
-title: Cat Sitting Instructions for Soba
+title: Cat Sitting Instructions for Soba and Laksa
 date: 2025-01-20
 tags: 
 series: 
@@ -12,9 +12,13 @@ Thank you for agreeing to look after our cats Soba and Laksa. Kindly see their c
 ---
 # Arrival & Departure 
 
-- **Arrive:** Before noon on Friday 11 April
-- **Leave:** Any time after the cats' breakfasts on Sunday 13 April. An early breakfast is fine if you need to leave before 7:30 AM. We plan to arrive back home around late afternoon.
-- **Keys:** When leaving on the final day, you can leave the keys on the kitchen benchtop. As you leave from the front door, just pull the front door shut so that the top gold lock clicks shut. The doorknob itself can be left unlocked.
+- **Deb and Janik**
+Arrive Monday 29 September any time before 5.30pm in time for the cats' dinner.
+Leave Thursday 9 October any time after 5.30pm dinner
+- **Lawrence** 
+Arrive in time for Friday 10 October breakfast at 7.30am
+Leave any time after Tuesday 21 October 5.30pm dinner. We return Wednesday 22 October around 7am, you are welcome to stay longer, after we arrive
+- **Keys:** For the front door, you can leave the screen door unlocked. [Add door lock instructions]
 
 ---
 # Soba's Meal Routine
