@@ -2,241 +2,241 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>imjeremy</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:60721/</link>
     <description>Recent content on imjeremy</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:60721/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cat Sitting Instructions for Soba and Laksa</title>
-      <link>http://localhost:1313/cat-sitting/</link>
+      <link>http://localhost:60721/cat-sitting/</link>
       <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cat-sitting/</guid>
-      <description>&lt;div class=&#34;table-of-contents&#34;&gt;&#xA;  &lt;h3&gt;Table of Contents&lt;/h3&gt;&#xA;  &lt;div class=&#34;toc-content&#34;&gt;&#xA;    &lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#arrival--departure&#34;&gt;Arrival &amp;amp; Departure&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#soba-and-laksas-meal-routine&#34;&gt;Soba and Laksa&amp;rsquo;s Meal Routine&lt;/a&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#feeding-steps&#34;&gt;Feeding Steps:&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#cat-101--discipline-guidelines&#34;&gt;Cat 101 &amp;amp; Discipline Guidelines&lt;/a&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#no-biting-policy&#34;&gt;No Biting Policy:&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#kitchen-counter&#34;&gt;Kitchen Counter:&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#outdoor-safety&#34;&gt;Outdoor Safety:&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#handling-tips&#34;&gt;Handling Tips&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#picking-up-a-cat&#34;&gt;Picking up a cat&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#donts&#34;&gt;Dont&amp;rsquo;s&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#sobas-automatic-devices&#34;&gt;Soba&amp;rsquo;s Automatic Devices&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#home&#34;&gt;Home&lt;/a&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#bathroom&#34;&gt;Bathroom&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#wi-fi&#34;&gt;Wi-Fi&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#desk-and-monitor&#34;&gt;Desk and Monitor&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#tv-operation&#34;&gt;TV Operation&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#casting-from-laptop&#34;&gt;Casting from laptop:&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#coffee-machine-operation&#34;&gt;Coffee Machine Operation&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#airconheater--fireplace-operation&#34;&gt;Aircon/heater &amp;amp; Fireplace Operation&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#having-guests-over&#34;&gt;Having Guests over&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#vet-details&#34;&gt;Vet Details&lt;/a&gt;&lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Hello,&lt;/p&gt;&#xA;&lt;p&gt;Thank you for agreeing to look after our cats Soba and Laksa. Kindly see their care instructions below. Should you have any questions, please feel free to reach out to us via Whatsapp.&lt;/p&gt;</description>
+      <guid>http://localhost:60721/cat-sitting/</guid>
+      <description>&lt;div class=&#34;floating-toc&#34;&gt;&#xA;  &lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#arrival--departure&#34;&gt;Arrival &amp;amp; Departure&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#soba-and-laksas-meal-routine&#34;&gt;Soba and Laksa&amp;rsquo;s Meal Routine&lt;/a&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#feeding-steps&#34;&gt;Feeding Steps:&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#cat-101--discipline-guidelines&#34;&gt;Cat 101 &amp;amp; Discipline Guidelines&lt;/a&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#no-biting-policy&#34;&gt;No Biting Policy:&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#kitchen-counter&#34;&gt;Kitchen Counter:&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#outdoor-safety&#34;&gt;Outdoor Safety:&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#handling-tips&#34;&gt;Handling Tips&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#picking-up-a-cat&#34;&gt;Picking up a cat&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#donts&#34;&gt;Dont&amp;rsquo;s&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#sobas-automatic-devices&#34;&gt;Soba&amp;rsquo;s Automatic Devices&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#home&#34;&gt;Home&lt;/a&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#bathroom&#34;&gt;Bathroom&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#wi-fi&#34;&gt;Wi-Fi&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#desk-and-monitor&#34;&gt;Desk and Monitor&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#tv-operation&#34;&gt;TV Operation&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#casting-from-laptop&#34;&gt;Casting from laptop:&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#coffee-machine-operation&#34;&gt;Coffee Machine Operation&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#airconheater--fireplace-operation&#34;&gt;Aircon/heater &amp;amp; Fireplace Operation&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#having-guests-over&#34;&gt;Having Guests over&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#vet-details&#34;&gt;Vet Details&lt;/a&gt;&lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Hello,&lt;/p&gt;&#xA;&lt;p&gt;Thank you for agreeing to look after our cats Soba and Laksa. Kindly see their care instructions below. Should you have any questions, please feel free to reach out to us via Whatsapp.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Smoking Steak</title>
-      <link>http://localhost:1313/kitchen/smoking-steak/</link>
+      <link>http://localhost:60721/kitchen/smoking-steak/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kitchen/smoking-steak/</guid>
+      <guid>http://localhost:60721/kitchen/smoking-steak/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Z4paeC-hVSA&#34;&gt;https://www.youtube.com/watch?v=Z4paeC-hVSA&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;75-80 degrees for 20 minutes (internal temp should not go past 54)&lt;/li&gt;&#xA;&lt;li&gt;205 degrees, sear for 2-3 minutes then flip, to desire temp.&lt;/li&gt;&#xA;&lt;li&gt;Remove at 54-57 degrees.&lt;/li&gt;&#xA;&lt;li&gt;Medium Rare is at 60-65 degrees&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Capcut for Android</title>
-      <link>http://localhost:1313/projects/capcut/</link>
+      <link>http://localhost:60721/projects/capcut/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/capcut/</guid>
+      <guid>http://localhost:60721/projects/capcut/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Unlocking Premium Features on CapCut for Free&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;A few months ago, I stumbled upon an older version of CapCut that seems to work seamlessly without requiring payment for many premium features. This discovery came from a Reddit post that provided a simple workaround. Here’s the original Reddit post for reference: &lt;a href=&#34;https://www.reddit.com/r/CapCut/comments/1gndiet/capcut_cracked_for_laptop_and_mobile/?share_id=S4oKMWaF_Bxwv7Ok60fD-&amp;amp;utm_content=2&amp;amp;utm_medium=android_app&amp;amp;utm_name=androidcss&amp;amp;utm_source=share&amp;amp;utm_term=1&#34;&gt;CapCut Cracked for Laptop and Mobile&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The link from &lt;strong&gt;@luigkilly’s&lt;/strong&gt; Google Drive is here: &lt;a href=&#34;https://drive.google.com/file/d/1Jx03ymWm02KF8llUvPIeKz9oIyn-MeLs/view?usp=drivesdk&#34;&gt;Download CapCut 7.6 Version&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Caution: Use at your own risk. There are  recent comments saying this file contained a virus.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My favourite Catholic Resources</title>
-      <link>http://localhost:1313/theology/my-favourite-catholic-resources/</link>
+      <link>http://localhost:60721/theology/my-favourite-catholic-resources/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/theology/my-favourite-catholic-resources/</guid>
+      <guid>http://localhost:60721/theology/my-favourite-catholic-resources/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://open.spotify.com/show/1CBXBk2WSTYUbtAtaOBF26?si=CWLx60yfSUO4LqXeKc8Uiw&#34;&gt;Catholic Daily Reflections&lt;/a&gt;  - This is an awesome 5 minute audio, that includes a bible reading, a reflection, a challenge for you and concludes with prayer. So much Gold here.&lt;/li&gt;&#xA;&lt;li&gt;Anything Trent Horn. But&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Pork Crackling</title>
-      <link>http://localhost:1313/kitchen/pork-crackling/</link>
+      <link>http://localhost:60721/kitchen/pork-crackling/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kitchen/pork-crackling/</guid>
+      <guid>http://localhost:60721/kitchen/pork-crackling/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;220, 30mins&lt;/li&gt;&#xA;&lt;li&gt;160 for 1 hr.&lt;/li&gt;&#xA;&lt;li&gt;Paper dry any water&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Salad Dressing</title>
-      <link>http://localhost:1313/kitchen/salad-dressing/</link>
+      <link>http://localhost:60721/kitchen/salad-dressing/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kitchen/salad-dressing/</guid>
+      <guid>http://localhost:60721/kitchen/salad-dressing/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;Half lemon 🍋&lt;/li&gt;&#xA;&lt;li&gt;1 tsp extra virgin olive oil&lt;/li&gt;&#xA;&lt;li&gt;1 tsp balsamic vinegar&lt;/li&gt;&#xA;&lt;li&gt;1-2 pinch of salt&lt;/li&gt;&#xA;&lt;li&gt;1-2 pinch of sugar&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;![[attachments/salad-dressing.jpg|500]]&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sinigang</title>
-      <link>http://localhost:1313/kitchen/sinigang/</link>
+      <link>http://localhost:60721/kitchen/sinigang/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kitchen/sinigang/</guid>
+      <guid>http://localhost:60721/kitchen/sinigang/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;Ocra&lt;/li&gt;&#xA;&lt;li&gt;Taro&lt;/li&gt;&#xA;&lt;li&gt;Eggplant&lt;/li&gt;&#xA;&lt;li&gt;Kankong&lt;/li&gt;&#xA;&lt;li&gt;String beans&lt;/li&gt;&#xA;&lt;li&gt;Reddish&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Afritada</title>
-      <link>http://localhost:1313/kitchen/afritada/</link>
+      <link>http://localhost:60721/kitchen/afritada/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kitchen/afritada/</guid>
+      <guid>http://localhost:60721/kitchen/afritada/</guid>
       <description>&lt;h1 id=&#34;afritada&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#afritada&#34;&gt;Afritada&lt;/a&gt;&lt;/h1&gt;&#xA;&#xA;&lt;h2 id=&#34;ingredients&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#ingredients&#34;&gt;Ingredients &lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Chicken&lt;/li&gt;&#xA;&lt;li&gt;Potatoes&lt;/li&gt;&#xA;&lt;li&gt;x1 Fresh tomato&lt;/li&gt;&#xA;&lt;li&gt;1 Can of Diced tomatoes&lt;/li&gt;&#xA;&lt;li&gt;Soy Sauce optional&lt;/li&gt;&#xA;&lt;li&gt;Oyster Sauce optional&lt;/li&gt;&#xA;&lt;li&gt;x1  Onion  &lt;/li&gt;&#xA;&lt;li&gt;1/2 Garlic &lt;/li&gt;&#xA;&lt;li&gt;Bayleaf&lt;/li&gt;&#xA;&lt;li&gt;pepper&lt;/li&gt;&#xA;&lt;li&gt;Chicken stock or anhivoros preserved lemon or &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h2 id=&#34;instructions&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#instructions&#34;&gt;Instructions&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Dice Onion and Garlic&lt;/li&gt;&#xA;&lt;li&gt;Dice Fresh tomatoes 22&lt;/li&gt;&#xA;&lt;li&gt;Fry chicken in oil&lt;/li&gt;&#xA;&lt;li&gt;Remove chicken&lt;/li&gt;&#xA;&lt;li&gt;Fry onion and garlic,&lt;/li&gt;&#xA;&lt;li&gt;Fry potatoes&lt;/li&gt;&#xA;&lt;li&gt;Leave to simmer and remove once potatoes have nice golden colours&lt;/li&gt;&#xA;&lt;li&gt;Add fish sauce 2 spoons&lt;/li&gt;&#xA;&lt;li&gt;Add soy sauce 1/2 spoon&lt;/li&gt;&#xA;&lt;li&gt;Add 1 can of dice tomatoes sauce&lt;/li&gt;&#xA;&lt;li&gt;Add 1 glass of chicken stock, otherwise use water&lt;/li&gt;&#xA;&lt;li&gt;Add touch of oyster sauce &lt;/li&gt;&#xA;&lt;li&gt;Optional pinch of sugar&lt;/li&gt;&#xA;&lt;li&gt;Add 2 cloves bayleaf &lt;/li&gt;&#xA;&lt;li&gt;Let simmer&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;![[Pasted image 20221007130549.png|500]]&lt;/p&gt;</description>
     </item>
     <item>
       <title>Eroscaldo</title>
-      <link>http://localhost:1313/kitchen/eroscaldo/</link>
+      <link>http://localhost:60721/kitchen/eroscaldo/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kitchen/eroscaldo/</guid>
+      <guid>http://localhost:60721/kitchen/eroscaldo/</guid>
       <description>&lt;h1 id=&#34;eroscaldo&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#eroscaldo&#34;&gt;Eroscaldo&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fish Sauce&lt;/li&gt;&#xA;&lt;li&gt;White wine&lt;/li&gt;&#xA;&lt;li&gt;Onion&lt;/li&gt;&#xA;&lt;li&gt;Ginger&lt;/li&gt;&#xA;&lt;li&gt;Garlic&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;![[eroscaldo-1.jpg|500]]&#xA;Double water&#xA;Add more fish sauce, 1/2 - 1 cup&#xA;Season with salt n pepper when done.&lt;/p&gt;&#xA;&lt;p&gt;![[Pasted image 20221007132352.png|500]]&lt;/p&gt;&#xA;&lt;p&gt;Fry everything, chicken  then put petise.  simmer a little bit.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Greek Donuts</title>
-      <link>http://localhost:1313/kitchen/greek-donuts/</link>
+      <link>http://localhost:60721/kitchen/greek-donuts/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kitchen/greek-donuts/</guid>
+      <guid>http://localhost:60721/kitchen/greek-donuts/</guid>
       <description>&lt;h1 id=&#34;greek-donuts&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#greek-donuts&#34;&gt;Greek Donuts&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;140g self raising flour&lt;/li&gt;&#xA;&lt;li&gt;190g Greek yoghurt&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Mix, oil a piping bag, squeeze out drops from the piping bag into hot oil, cutting at desired size. Shake in caster sugar&lt;/p&gt;&#xA;&lt;p&gt;![[attachments/greek-donuts.jpg]]&lt;/p&gt;</description>
     </item>
     <item>
       <title>Meat Loaf</title>
-      <link>http://localhost:1313/kitchen/meat-loaf/</link>
+      <link>http://localhost:60721/kitchen/meat-loaf/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kitchen/meat-loaf/</guid>
+      <guid>http://localhost:60721/kitchen/meat-loaf/</guid>
       <description>&lt;p&gt;Oyster sauce&#xA;Wrinchisteter&#xA;Soy sauce, not too much&#xA;Pickles&#xA;Raisens&#xA;Olives&#xA;Cranbury&#xA;Bread crumbs&#xA;Carrot&#xA;Flour or corn starch&#xA;Egg&#xA;Pork and chicken mince together&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mongo</title>
-      <link>http://localhost:1313/kitchen/mongo/</link>
+      <link>http://localhost:60721/kitchen/mongo/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kitchen/mongo/</guid>
+      <guid>http://localhost:60721/kitchen/mongo/</guid>
       <description>&lt;h1 id=&#34;instructions&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#instructions&#34;&gt;Instructions&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Rinse beans and throw anything floating&lt;/li&gt;&#xA;&lt;li&gt;Throw away the water&lt;/li&gt;&#xA;&lt;li&gt;Fry Onion and garlic&lt;/li&gt;&#xA;&lt;li&gt;Add Ginger&lt;/li&gt;&#xA;&lt;li&gt;Anchobies or Fish Sauce, not both.&lt;/li&gt;&#xA;&lt;li&gt;Can&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Tips: Put onions in oil,  saute then garlic, then put anchovies and crushed it in pan so you don’t see anchovies onced cooked but it has tasted better.&lt;/p&gt;&#xA;&lt;p&gt;1 cup of mongo : 2 cups of water&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtube.com/shorts/FecR0Pu3QWs?si=WQcWPZtWNIWcvT03&#34;&gt;https://youtube.com/shorts/FecR0Pu3QWs?si=WQcWPZtWNIWcvT03&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nilaga</title>
-      <link>http://localhost:1313/kitchen/nilaga/</link>
+      <link>http://localhost:60721/kitchen/nilaga/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kitchen/nilaga/</guid>
+      <guid>http://localhost:60721/kitchen/nilaga/</guid>
       <description>&lt;h2 id=&#34;ingredients&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#ingredients&#34;&gt;Ingredients&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1-2kg of Beef (anything with bones) below I used Asado beef&lt;/li&gt;&#xA;&lt;li&gt;Onions&lt;/li&gt;&#xA;&lt;li&gt;Potato&lt;/li&gt;&#xA;&lt;li&gt;Salt&lt;/li&gt;&#xA;&lt;li&gt;Petise (Fish Sauce)&lt;/li&gt;&#xA;&lt;li&gt;Chicken Stock&lt;/li&gt;&#xA;&lt;li&gt;Cabbage or any gullay&lt;/li&gt;&#xA;&lt;li&gt;Toyo (soy sauce) as a side&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h2 id=&#34;instructions&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#instructions&#34;&gt;Instructions:&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Boil the meet in a pot until cooked / tender&lt;/li&gt;&#xA;&lt;li&gt;Remove half water or next day remove fat&lt;/li&gt;&#xA;&lt;li&gt;Fry onions and put into pot&lt;/li&gt;&#xA;&lt;li&gt;Chop carrot and potatoes and put into pot&lt;/li&gt;&#xA;&lt;li&gt;Chop small amount of Garlic and put into put&lt;/li&gt;&#xA;&lt;li&gt;Timpla with Petise to liking&lt;/li&gt;&#xA;&lt;li&gt;Add pinch of salt&lt;/li&gt;&#xA;&lt;li&gt;Add any gullay&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;![[nilaga.jpg|500]]&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pasta</title>
-      <link>http://localhost:1313/kitchen/pasta/</link>
+      <link>http://localhost:60721/kitchen/pasta/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kitchen/pasta/</guid>
+      <guid>http://localhost:60721/kitchen/pasta/</guid>
       <description>&lt;h2 id=&#34;dough-mixture&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#dough-mixture&#34;&gt;Dough Mixture&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;270g flour to 3 eggs (70g size eggs)&lt;/li&gt;&#xA;&lt;li&gt;Each egg is approximately 70g&lt;/li&gt;&#xA;&lt;li&gt;Trust the flour-to-egg ratio&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h2 id=&#34;cooking-instructions&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#cooking-instructions&#34;&gt;Cooking Instructions&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Pasta machine setting: Level 6&lt;/li&gt;&#xA;&lt;li&gt;Cooking times:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fettuccine: ~3 minutes&lt;/li&gt;&#xA;&lt;li&gt;Pappardelle: ~6 minutes&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;If dough is too dry: Fold in half and run through machine several times, inserting folded end first&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h2 id=&#34;sauce-recipe&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#sauce-recipe&#34;&gt;Sauce Recipe&lt;/a&gt;&lt;/h2&gt;&#xA;&#xA;&lt;h3 id=&#34;essential-ingredients&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#essential-ingredients&#34;&gt;Essential Ingredients&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Herbs (e.g., basil)&lt;/li&gt;&#xA;&lt;li&gt;1.8kg mince&lt;/li&gt;&#xA;&lt;li&gt;Passata&lt;/li&gt;&#xA;&lt;li&gt;Canned tomatoes&lt;/li&gt;&#xA;&lt;li&gt;Garlic&lt;/li&gt;&#xA;&lt;li&gt;Onion&lt;/li&gt;&#xA;&lt;li&gt;Tomato paste (2×)&lt;/li&gt;&#xA;&lt;li&gt;Bay leaf (add during simmering)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h3 id=&#34;optional&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#optional&#34;&gt;Optional&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Red wine&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>This is how I stream</title>
-      <link>http://localhost:1313/projects/this-is-how-i-stream/</link>
+      <link>http://localhost:60721/projects/this-is-how-i-stream/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/this-is-how-i-stream/</guid>
+      <guid>http://localhost:60721/projects/this-is-how-i-stream/</guid>
       <description>&lt;h1 id=&#34;background&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#background&#34;&gt;Background&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;A friend told me about a new way to stream 4k media content for roughly $3-5 per month, depending on the subscription you choose. I immediately tested it, and became amazed how good it was. There are a few technical steps involved, but if you&amp;rsquo;re reading this then, you can probably reach out to me with any queries.&lt;/p&gt;&#xA;&lt;p&gt;There a few ways to set this up. This guide will take the simplest approach, using three different services.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why you should believe</title>
-      <link>http://localhost:1313/theology/why-you-should-believe/</link>
+      <link>http://localhost:60721/theology/why-you-should-believe/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/theology/why-you-should-believe/</guid>
+      <guid>http://localhost:60721/theology/why-you-should-believe/</guid>
       <description>&lt;p&gt;For me, this has to be one of, if not the most important question someone can ever ask. We&amp;rsquo;re talking not just about how we came to be, but also why we were made and if there&amp;rsquo;s a life after death. For many, this will never be a priority to ponder, not unless death comes knocking on their doors.&lt;/p&gt;&#xA;&lt;p&gt;My personal reasoning as to why I believe has changed progressively over the years and has evolved in many ways. I started as a cradle Catholic, so I was taught to believe at a very young age. However, like a majority of cradle Catholics, my faith was very watered down. I remember going to an YFC (Youth for Christ) camp and on Day-1, telling everyone that I was just there for the girls. What an embarrassment. However, from that camp I saw that being Christian could be &amp;lsquo;cool&amp;rsquo;. I saw Christians Break dancing, rapping, hip hopping, and also singing to Praise and Worship. Sure, it may have been a bit superficial, but it was a good start in knowing that Christians doesnt need to mean boring. As life progressed, I exposed myself to more Catholic circles. Slowly my faith grew through friendships, music, testimonials, keynote speakers, Catholic radio, and podcasts. I started to connected dots in faith and understanding. I began to understand truths about my faith and how it would influence my everyday life. My life started to feel so free and is constantly filled with joy. My faith has taught me how to love my friends, family, and spouse in ways I would never have found otherwise.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My self-hosting Google Photos</title>
-      <link>http://localhost:1313/projects/bye-google-photos-hello-immich/</link>
+      <link>http://localhost:60721/projects/bye-google-photos-hello-immich/</link>
       <pubDate>Sun, 20 Feb 2022 12:04:16 -0500</pubDate>
-      <guid>http://localhost:1313/projects/bye-google-photos-hello-immich/</guid>
+      <guid>http://localhost:60721/projects/bye-google-photos-hello-immich/</guid>
       <description>&lt;h1 id=&#34;background&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#background&#34;&gt;Background&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Hitting the 20GB limit that Google provides for all your email and photos was inevitable. When that time came, I started digging around and found two potential solutions:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Immich&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Photoprism&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;I tried both, and honestly, they work really well. However, I decided to go with Immich since so many users were raving about how awesome it is.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&lt;h1 id=&#34;my-current-setup&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#my-current-setup&#34;&gt;My Current Setup&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Raspberry Pi 4 (Rpi4)&lt;/strong&gt; with a 512GB SanDisk&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;NAS&lt;/strong&gt; that contains abouit 4TB of storage.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Docker&lt;/strong&gt; running the Immich server.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;I won&amp;rsquo;t go into detail about how to set everything up because that&amp;rsquo;s already covered in the &lt;a href=&#34;https://immich.app/docs/install/docker-compose/&#34;&gt;Immich installation guide&lt;/a&gt;. Instead, I&amp;rsquo;ll share my thoughts on using it so far. Right now, I will admit. It&amp;rsquo;s not as smooth sailing as I&amp;rsquo;d like. But I see a lot of potential, so I’m sticking with it and working on overcoming the obstacles.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/prayers/glorious-mysteries-wednesday-_-sunday/</link>
+      <link>http://localhost:60721/prayers/glorious-mysteries-wednesday-_-sunday/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/prayers/glorious-mysteries-wednesday-_-sunday/</guid>
+      <guid>http://localhost:60721/prayers/glorious-mysteries-wednesday-_-sunday/</guid>
       <description>&lt;pre&gt;&lt;code&gt;1. The Resurrection of Jesus Christ&#xA;2. The Ascension of Jesus to Heaven&#xA;3. The Descent of the Holy Ghost&#xA;4. The Assumption of Mary into Heaven&#xA;5. Mary is Crowned as Queen of Heaven and Earth&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&#xA;&lt;h2 id=&#34;1st-glorious-mystery-the-resurrection-of-jesus-christ&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#1st-glorious-mystery-the-resurrection-of-jesus-christ&#34;&gt;1st Glorious Mystery: The Resurrection of Jesus Christ&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;At dawn of the first day of the week, I was with John and Peter. I was in my room alone: John and Peter were in the next room. I woke up. There was a light: it was all over the room. There was my Son: He came forward, He said to me, &amp;ldquo;Come, for you are the one worthy to be the first to see My risen body.&amp;rdquo; The Lord permitted me to kiss His hand and to be embraced. The Lord in His glorified body in which He had the scars of the nail prints in His hands and feet and the scar of the lance in His side, was no longer the bleeding Son I saw on the way to Calvary: His body was full of light, a light that was emanating from His body. Jesus then said to me , &amp;ldquo;Do not, My mother, tell My disciples until I have sent Mary Magdelene because it is all in the plan of the Father. They will come to faith by seeing and touching. I have come to you because you have faith. Pray that My disciples will accept Me risen from the dead.&amp;rdquo; Then He went away to appear to Mary Magdelene, to the women, and then to His disciples.&#xA;My children, the most precious gift you have is your faith. Your faith must not be hidden: your faith must be your main motivation in your life. Cast away all doubt by prayer: give yourselves totally to Jesus Who will illuminate your mind and heart through the power of the resurrection.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/prayers/how-to-pray-the-rosary/</link>
+      <link>http://localhost:60721/prayers/how-to-pray-the-rosary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/prayers/how-to-pray-the-rosary/</guid>
+      <guid>http://localhost:60721/prayers/how-to-pray-the-rosary/</guid>
       <description>&lt;h1 id=&#34;how-to-pray-the-rosary&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#how-to-pray-the-rosary&#34;&gt;How to pray the Rosary&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Begin by holding the crucifix, saying &amp;ldquo;In the Name of the Father and of the Son and of the Holy Spirit,&amp;rdquo; (making the sign of the Cross while doing that), then say the Apostles Creed.&lt;/li&gt;&#xA;&lt;/ol&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;In the name of the Father of the Son and of the Holy Spirit. Amen&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;The Apostles&amp;rsquo; Creed:&lt;/strong&gt; I believe in God the Father Almighty, Creator of heaven and earth; and in Jesus Christ, His only Son, our Lord; Who was conceived by the Holy Ghost, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died and was buried. He descended into hell. On the third day He arose again; He ascended into heaven,and sitteth at the right hand of God, the Father Almighty; from thence He shall come to judge the living and the dead. I believe in the Holy Ghost, the Holy Catholic Church, the communion of saints, the forgivness of sins, the resurrection of the body, and life everlasting. Amen&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/prayers/joyful-mysteries-monday-_-saturday/</link>
+      <link>http://localhost:60721/prayers/joyful-mysteries-monday-_-saturday/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/prayers/joyful-mysteries-monday-_-saturday/</guid>
+      <guid>http://localhost:60721/prayers/joyful-mysteries-monday-_-saturday/</guid>
       <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;1.  The Annunciation of the Lord to Mary&#xA;2.  The Visitation of Mary to Elizabeth&#xA;3.  The Nativity of our Lord Jesus Christ&#xA;4.  The Presentation of our Lord&#xA;5.  Finding Jesus in the Temple at age 12&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;h2 id=&#34;1st-joyful-mystery-the-annunciation-of-the-lord-to-mary&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#1st-joyful-mystery-the-annunciation-of-the-lord-to-mary&#34;&gt;1st Joyful Mystery: The Annunciation of the Lord to Mary&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;I was in prayer: it was evening. I was praying towards Jerusalem because my people prayed three times a day, morning, noon, and evening facing Jerusalem. I was praying for the Liberation of my people. I was praying that soon the Messiah would come to take away all hatred: to take away all sins from my people. As I was praying, there suddenly appeared an angel. At first I was afraid because it was the first time an angel had ever come to me. When I heard him say &amp;ldquo;Hail, full of grace, the Lord is with you&amp;rdquo; I was very confused at this greeting and yet I was very humbled that an angel would call me full of grace: that I had gained favor from God: that I was called to bear His Son. I asked the angel how this could happen? I am a virgin: I had intended to be a virgin the rest of my life even though I agreed to live with Joseph. The angel assured me, &amp;ldquo;The Holy Spirit will come upon you: the shadow of the Most High will enwrap you and the child to be born of you will be called Son of God.&amp;rdquo; At that instance, I remembered the prophesy of Isaiah. The prophesy of the Messiah. The prophesy that He would be a suffering servant. A servant rejected by His own people and yet raised by God. Knowing that, I said, &amp;ldquo;Behold the handmaid, the servant of the Lord: be it done to me according to Your word.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/prayers/luminous-mysteries-thursday/</link>
+      <link>http://localhost:60721/prayers/luminous-mysteries-thursday/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/prayers/luminous-mysteries-thursday/</guid>
+      <guid>http://localhost:60721/prayers/luminous-mysteries-thursday/</guid>
       <description>&lt;pre&gt;&lt;code&gt;1. The Baptism in the Jordan&#xA;2. The Wedding at Cana&#xA;3. The Proclamation of the Kingdom&#xA;4. The Transfiguration&#xA;5. The Institution of the Eucharist&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&#xA;&lt;h2 id=&#34;1-the-baptism-in-the-jordan&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#1-the-baptism-in-the-jordan&#34;&gt;1. The Baptism in the Jordan&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;John is baptizing in the Jordan proclaiming a baptism of repentance.&#xA;&amp;ldquo;I am the voice of one crying in the desert, make straight the way of the Lord.&amp;rdquo;&#xA;&amp;ldquo;One mightier than I is coming after me.&amp;rdquo;&#xA;&amp;ldquo;I have baptized you with water, He will baptize you with the Holy Spirit.&amp;rdquo;&#xA;Seeing Jesus, John exclaims: &amp;ldquo;Behold the Lamb of God.&amp;rdquo;&#xA;After Jesus&amp;rsquo; baptism a voice from Heaven: &amp;ldquo;This is my beloved Son in whom I am well pleased.&amp;rdquo;&#xA;The Spirit descends upon Jesus in the form of a dove.&#xA;In this heavenly manifestation is instituted the sacrament of baptism.&#xA;The divine Trinity is manifested: the voice of the Father is heard as the Spirit descends upon the Son.&#xA;Filled with the Holy Spirit, Jesus was led by the Spirit into the desert for 40 days.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/prayers/sorrowful-mysteries-tuesday-_-friday/</link>
+      <link>http://localhost:60721/prayers/sorrowful-mysteries-tuesday-_-friday/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/prayers/sorrowful-mysteries-tuesday-_-friday/</guid>
+      <guid>http://localhost:60721/prayers/sorrowful-mysteries-tuesday-_-friday/</guid>
       <description>&lt;pre&gt;&lt;code&gt;1. The Agony of Jesus in the Garden&#xA;2. The Scourging at the Pillar&#xA;3. Jesus is Crowned with Thorns&#xA;4. Jesus Carried the Cross&#xA;5. The Crucifixion of our Lord&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&#xA;&lt;h2 id=&#34;1st-sorrowful-mystery-the-agony-of-jesus-in-the-garden&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#1st-sorrowful-mystery-the-agony-of-jesus-in-the-garden&#34;&gt;1st Sorrowful Mystery: The Agony of Jesus in the Garden&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;My Son came with His apostles to the mount of Olives. There was a garden there that He frequently went to pray: He felt a sadness; a deep, deep sadness. He felt lonely: my Son in His humanity felt a deeper sadness than anyone could ever feel because He was pure of heart: He was sinless. He took His closest friends, Peter whom He was to give charge of the Church, James, and John. John was the one who was going to take care of me after Jesus had risen from the dead. Jesus said to them: My heart is sorrowful to the point of death: stay here and pray and keep watch while I go and pray by Myself.&amp;quot; Jesus went over further to pray: He wanted to pray by Himself. He wanted to pour out His heart to His Father as I often have seen Him do with His prayer. My Son always prayed continuously to His Father: He always looked to the Father for His consolation. During the time He prayed, He saw all the agony He was going to suffer: and the agony was not so much the pain of the crucifixion as the pains of the sins of the world. Every sin, every injustice, every infidelity He saw and felt at that very moment, caused Him to sweat blood. His agony, His sorrow, and so much sinfulness caused the blood to burst from His forehead. It was just another anticipation of when His Precious Blood would be shed on the cross. That Blood that was sweat on Gethsemane blessed that very spot into Jesus&amp;rsquo; sacred place of prayer.&#xA;My children, never seek your comfort in anyone but God. In your times of loneliness, in your times of depression, in your times of doubt, have recourse to prayer. When you go to the Father, offer this mystery for those who are in doubt: those who do not know where to turn to: those who are depressed: the mentally ill: the emotionally ill. Pray that as the Father sent an angel to comfort my Son, the Lord in His mercy will comfort them and enlighten them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Angelus</title>
-      <link>http://localhost:1313/prayers/angelus/</link>
+      <link>http://localhost:60721/prayers/angelus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/prayers/angelus/</guid>
+      <guid>http://localhost:60721/prayers/angelus/</guid>
       <description>&lt;p&gt;The Angelus has been traditionally said three times daily, at 6 am, noon and 6 pm&lt;/p&gt;&#xA;&lt;p&gt;V. The Angel of the Lord declared unto Mary,&#xA;&lt;em&gt;R. And she conceived of the Holy Spirit.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hail Mary, etc&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;V. Behold the handmaid of the Lord.&#xA;&lt;em&gt;R. Be it done unto me according to Your Word.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hail Mary, etc&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;V. And the Word was made flesh,&#xA;(all bow or genuflect as these words are spoken)&#xA;&lt;em&gt;R. And dwelt among us.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Apostles Creed</title>
-      <link>http://localhost:1313/prayers/apostles-creed/</link>
+      <link>http://localhost:60721/prayers/apostles-creed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/prayers/apostles-creed/</guid>
+      <guid>http://localhost:60721/prayers/apostles-creed/</guid>
       <description>&lt;p&gt;I believe in God, the Father Almighty, Creator of Heaven and earth; and in Jesus Christ, His only Son, Our Lord, Who was conceived by the Holy Ghost, born of the Virgin Mary, suffered under Pontius Pilate, was crucified; died, and was buried.&#xA;He descended into Hell; the third day He arose again from the dead;&#xA;He ascended into Heaven, sitteth at the right hand of God, the Father Almighty;&#xA;from thence He shall come to judge the living and the dead.&#xA;I believe in the Holy Spirit, the holy Catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting. Amen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Confiteor</title>
-      <link>http://localhost:1313/prayers/confiteor/</link>
+      <link>http://localhost:60721/prayers/confiteor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/prayers/confiteor/</guid>
+      <guid>http://localhost:60721/prayers/confiteor/</guid>
       <description>&lt;p&gt;I confess to almighty God&#xA;and to you, my brothers and sisters,&#xA;that I have greatly sinned&#xA;in my thoughts and in my words,&#xA;in what I have done,&#xA;and in what I have failed to do;&#xA;through my fault, through my fault,&#xA;through my most grievous fault;&#xA;therefore I ask blessed Mary ever-Virgin,&#xA;all the Angels and Saints,&#xA;and you, my brothers and sisters,&#xA;to pray for me to the Lord our God.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gloria</title>
-      <link>http://localhost:1313/prayers/gloria/</link>
+      <link>http://localhost:60721/prayers/gloria/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/prayers/gloria/</guid>
+      <guid>http://localhost:60721/prayers/gloria/</guid>
       <description>&lt;p&gt;Glory to God in the highest,&#xA;and peace to God&amp;rsquo;s people on earth.&#xA;Lord God, heavenly King,&#xA;almighty God and Father,&#xA;we worship you, we give you thanks;&#xA;we praise you for your glory.&#xA;Lord Jesus Christ, only Son of the Father,&#xA;Lord God, Lamb of God,&#xA;you take away the sin of the world:&#xA;have mercy on us;&#xA;you are seated at the right hand of the Father:&#xA;receive our prayer.&#xA;For you alone are the Holy One,&#xA;you alone are the Lord,&#xA;you alone are the Most High,&#xA;Jesus Christ,&#xA;with the Holy Spirit,&#xA;in the glory of God the Father. Amen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hail Holy Queen</title>
-      <link>http://localhost:1313/prayers/hail-holy-queen/</link>
+      <link>http://localhost:60721/prayers/hail-holy-queen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/prayers/hail-holy-queen/</guid>
+      <guid>http://localhost:60721/prayers/hail-holy-queen/</guid>
       <description>&lt;p&gt;Hail, holy Queen, Mother of Mercy! our life, our sweetness, and our hope! To thee do we cry, poor banished children of Eve; to thee do we send up our sighs, mourning and weeping in this valley, of tears. Turn, then, most gracious Advocate, thine eyes of mercy toward us; and after this our exile show unto us the blessed fruit of thy womb, Jesus; O clement, O loving, O sweet Virgin Mary.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hi, I&#39;m Jeremy</title>
-      <link>http://localhost:1313/home/</link>
+      <link>http://localhost:60721/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/</guid>
+      <guid>http://localhost:60721/home/</guid>
       <description>&lt;p&gt;&lt;em&gt;Pax vobiscum&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Litany of Humlity</title>
-      <link>http://localhost:1313/prayers/litany-of-humlity/</link>
+      <link>http://localhost:60721/prayers/litany-of-humlity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/prayers/litany-of-humlity/</guid>
+      <guid>http://localhost:60721/prayers/litany-of-humlity/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The first set of petitions in the Litany of Humility requests our deliverance from desiring validation from man instead of God.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;O Jesus! meek and humble of heart, Hear me.&lt;/li&gt;&#xA;&lt;li&gt;Response for the following: Deliver me, Jesus.&lt;/li&gt;&#xA;&lt;li&gt;From the desire of being esteemed …&lt;/li&gt;&#xA;&lt;li&gt;From the desire of being loved …&lt;/li&gt;&#xA;&lt;li&gt;From the desire of being extolled …&lt;/li&gt;&#xA;&lt;li&gt;From the desire of being honored …&lt;/li&gt;&#xA;&lt;li&gt;From the desire of being praised …&lt;/li&gt;&#xA;&lt;li&gt;From the desire of being preferred to others…&lt;/li&gt;&#xA;&lt;li&gt;From the desire of being consulted …&lt;/li&gt;&#xA;&lt;li&gt;From the desire of being approved …&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;The second set of petitions address our fears that are related to pride.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Memorare</title>
-      <link>http://localhost:1313/prayers/memorare/</link>
+      <link>http://localhost:60721/prayers/memorare/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/prayers/memorare/</guid>
+      <guid>http://localhost:60721/prayers/memorare/</guid>
       <description>&lt;p&gt;Remember O Most Gracious Virgin Mary, that never was it known that anyone who fled unto Thy protection, implored Thy help or sought Thine intercession, was left unaided by Thee. Inspired by this confidence I fly onto Thee, O Virgin of virgins, my Mother. To Thee I come, before Thee I stand, sinful and sorrowful. Do not, O Mother of the Word Incarnate, despise my petitions but, in Thy clemency, hear and answer me.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Night Prayers to Say at Bedtime</title>
-      <link>http://localhost:1313/prayers/7-calming-night-prayers-to-say-at-bedtime/</link>
+      <link>http://localhost:60721/prayers/7-calming-night-prayers-to-say-at-bedtime/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/prayers/7-calming-night-prayers-to-say-at-bedtime/</guid>
+      <guid>http://localhost:60721/prayers/7-calming-night-prayers-to-say-at-bedtime/</guid>
       <description>&lt;p&gt;Taken directly from Jeannie Myers - &lt;a href=&#34;https://www.biblestudytools.com/bible-study/topical-studies/calming-prayers-to-say-before-bed.html&#34;&gt;https://www.biblestudytools.com/bible-study/topical-studies/calming-prayers-to-say-before-bed.html&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Bedtime prayer can be a meaningful way to spend time with God every evening, talking over your day, sharing your concerns with Him, and thanking Him for His love and care. But why should we take time to pray before bed each night?&lt;/p&gt;&#xA;&lt;p&gt;Praying as you fall asleep gives you the chance to look back over the day and thank God for His help and His blessings. We often miss the hand of God in our lives as we run from one activity to another. We lose sight of the good gifts our heavenly Father is giving us (James 1:17) and focus instead on our troubles and worries.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Prayer to the Angels of God</title>
-      <link>http://localhost:1313/prayers/prayer-to-the-angels-of-god/</link>
+      <link>http://localhost:60721/prayers/prayer-to-the-angels-of-god/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/prayers/prayer-to-the-angels-of-god/</guid>
+      <guid>http://localhost:60721/prayers/prayer-to-the-angels-of-god/</guid>
       <description>&lt;h2 id=&#34;guardian-angel&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#guardian-angel&#34;&gt;Guardian Angel&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Angel of God, my Guardian dear, to whom His love commits me here, ever this day (or night) be at my side, to light and guard, to rule and guide. Amen.&#xA;A Mother&amp;rsquo;s Prayer to the Guardian Angels of her children&#xA;I humbly salute you, O you faithful, heavenly Friends of my children! I give you heartfelt thanks for all the love and goodness you show them. At some future day I shall, with thanks more worthy than I can now give, repay your care for them, and before the whole heavenly court acknowledge their indebtedness to your guidance and protection. Continue to watch over them. Provide for all their needs of body and soul. Pray, likewise, for me, for my husband, and my whole family, that we may all one day rejoice in your blessed company.&#xA;Amen&lt;/p&gt;</description>
     </item>
     <item>
       <title>Salve Regina</title>
-      <link>http://localhost:1313/prayers/salve-regina/</link>
+      <link>http://localhost:60721/prayers/salve-regina/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/prayers/salve-regina/</guid>
+      <guid>http://localhost:60721/prayers/salve-regina/</guid>
       <description>&lt;h2 id=&#34;latin&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#latin&#34;&gt;Latin&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Salve, Regina, mater misericordiae:&#xA;Vita, dulcedo, et spes nostra, salve.&#xA;Ad te clamamus, exsules, filii Hevae.&#xA;Ad te suspiramus, gementes et flentes&#xA;In hac lacrimarum valle.&#xA;Eia ergo, Advocata nostra,&#xA;Illos tuos misericordes oculos&#xA;Ad nos converte.&#xA;Et Jesum, benedictum fructum ventris tui,&#xA;nobis, post hoc exsilium ostende.&#xA;O clemens! O pia!&#xA;O dulcis Virgo Maria!&lt;/p&gt;&#xA;&#xA;&lt;h2 id=&#34;english&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#english&#34;&gt;English&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Hail, holy Queen, mother of mercy,&#xA;Our life, our sweetness, and our hope.&#xA;To thee do we cry, poor banished children of Eve.&#xA;To thee do we send up our sighs,&#xA;Mourning and weeping in this vale of tears.&#xA;Turn then, O most gracious Advocate,&#xA;Thine eyes of mercy towards us.&#xA;And after this, our exile,&#xA;Show unto us the blessed fruit of thy womb, Jesus.&lt;/p&gt;</description>
     </item>
   </channel>
