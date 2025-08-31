@@ -53,7 +53,7 @@ This Is How I Stream - imjeremy
 
 
 
-<link rel="stylesheet" href="http://localhost:1313/styles/owlCarousel.min.fb3b2db7ac73c4ba8d021450bcf5556ff7385dfd0c1ee5fb4a69c75f41f2fd29.css" integrity="sha256-&#43;zstt6xzxLqNAhRQvPVVb/c4Xf0MHuX7SmnHX0Hy/Sk=" crossorigin="anonymous" media="screen">
+<link rel="stylesheet" href="http://localhost:1313/styles/owlCarousel.min.b1f26e29c43c61fe8b5a6f225b4ee7c5f969a7b33cfe512706271e07246d93d1.css" integrity="sha256-sfJuKcQ8Yf6LWm8iW07nxflpp7M8/lEnBiceByRtk9E=" crossorigin="anonymous" media="screen">
 
 
     </head>
@@ -147,7 +147,7 @@ This Is How I Stream - imjeremy
 <h1 id="background" class="anchor-link"><a href="#background">Background</a></h1>
 <hr>
 <p>A friend told me about a new way to stream 4k media content for roughly $3-5 per month, depending on the subscription you choose. I immediately tested it, and became amazed how good it was. There are a few technical steps involved, but if you&rsquo;re reading this then, you can probably reach out to me with any queries.</p>
-<p>There a few ways to set this up. This guide will take the simplest approach, using three different services:</p>
+<p>There a few ways to set this up. This guide will take the simplest approach, using three different services.</p>
 <ol>
 <li>
 <p><strong><a href="https://real-debrid.com">Real-Debrid</a></strong>: An online service that performs file hosting and handles content downloading from other sources, such as magnet URLs (including torrents). A magnet URL allows users to download at very high speeds. Real Debrid will host these files on their server.</p>
@@ -159,8 +159,7 @@ This Is How I Stream - imjeremy
 <p><strong><a href="https://torrentio.strem.fun/">Torrentio RD</a></strong>: A Stremio add-on extension that helps you find movies or TV shows. It scrapes torrent sites to find streaming links for the content you search for in Stremio. Note that it does not download content itself; it simply finds relevant links and sends them to Real Debrid, which then downloads the content for you.</p>
 </li>
 </ol>
-<p><strong>Notice Update: 01/12/2024</strong></p>
-<p>In a <a href="https://x.com/realdebrid/status/1859673163681960169?s=46&amp;t=v7hlI5j-ie2ub28ChSkAKw">X post</a>, Real-Debrid (RD) announced enhanced anti-piracy measures, which caused some users from consuming content.  Four weeks later, I am still streaming without any issues. As an backup alternative to Real-Debrid, I hear Torguard is a good option and works natively with Stremio too. For now, I plan to continue using RD until my subscription runs out or the service stops working, then decide whether to switch to Torguard.</p>
+<p>I&rsquo;ve created a basic diagram to give you an idea how the whole system would look like <a href="https://imjeremy.com/projects/images/stremioRd.png">here</a>.</p>
 
 <h1 id="instructions" class="anchor-link"><a href="#instructions">Instructions</a></h1>
 <p><strong>1. Install Stremio</strong></p>
@@ -187,12 +186,12 @@ This Is How I Stream - imjeremy
 <p><strong>3. Install the Torrentio RD Add-on</strong></p>
 <ul>
 <li>Make sure you are signed in your Stremio app on your mobile phone</li>
-<li>Visit <a href="https://torrentio.strem.fun/">https://torrentio.strem.fun/</a> and under Debrid Provider, click on Real Debrid</li>
+<li>Visit <a href="https://torrentio.strem.fun/">https://torrentio.strem.fun/</a> and under Debrid Provider, select RealDebrid</li>
 <li>Paste the RealDebrid API Key under the <code>RealDebrid API Key</code> that you copied in Step 2.</li>
 <li>Click on the Install button.</li>
 </ul>
 <p><img src="https://imjeremy.com/projects/images/torrentio.png" alt=""></p>
-<p>At this stage you should now be able to test this. Make sure your mobile phone is connected to your home Wi-Fi. Then, using Stremio, try searching and watching a few movies and TV shows using Stremio.</p>
+<p>After clicking the Install button, this should automatically try to open with your Stremio app. After proceeding, at this stage you should now be able to test this. Make sure your mobile phone is connected to your home Wi-Fi. Then, using Stremio, try searching and watching a few movies and TV shows using Stremio.</p>
 <p><strong>Note</strong>:</p>
 <ul>
 <li>When watching content at home, do not simultaneously watch content on a different device outside your home.</li>
@@ -209,6 +208,7 @@ This Is How I Stream - imjeremy
 <p>The Stremio client UI does not have as good as Netflix, Jellyfin, Plex etc. There are free alternatives such as Kodi, but requires a lot further technical dive. For 4K content, you need to have a good internet download speed. I have a 100mbps down and do not have any issues streaming.</p>
 
 <h1 id="notes" class="anchor-link"><a href="#notes">Notes</a></h1>
+<p><strong>Notice Update: 01/12/2024</strong>: In a <a href="https://x.com/realdebrid/status/1859673163681960169?s=46&amp;t=v7hlI5j-ie2ub28ChSkAKw">X post</a>, Real-Debrid (RD) announced enhanced anti-piracy measures. To this day, I am still streaming without any issues. As an backup alternative to Real-Debrid, I hear Torguard is a good option and works natively with Stremio too. For now, I plan to continue using RD until my subscription runs out or the service stops working, then decide whether to switch to Torguard.</p>
 <ul>
 <li>[1] Some users choose to use an alias email address and VPN. See <a href="https://www.youtube.com/watch?v=7Ncye_X6wwc">https://www.youtube.com/watch?v=7Ncye_X6wwc</a> However, I was comfortable not doing this. Up to you how you would like to proceed.</li>
 <li>[2] Installing Stremio on Firestick - <a href="https://www.youtube.com/watch?v=wu0xVwtWv2Q">https://www.youtube.com/watch?v=wu0xVwtWv2Q</a></li>
@@ -251,7 +251,7 @@ This Is How I Stream - imjeremy
         
 
 
-<script src="http://localhost:1313/js/bundle.a930c39d78409614838fcdf3d9c43a226556708d8667f1ca78e2188d438c9922.js" integrity="sha256-qTDDnXhAlhSDj83z2cQ6ImVWcI2GZ/HKeOIYjUOMmSI="></script>
+<script src="http://localhost:1313/js/bundle.5c23c0437f001a469ca373a465a6f7487203d18e10cdff76d86a60af66d5ee28.js" integrity="sha256-XCPAQ38AGkaco3OkZab3SHID0Y4Qzf922Gpgr2bV7ig="></script>
 
 
 
@@ -262,7 +262,7 @@ This Is How I Stream - imjeremy
 
 
 
-<script src="http://localhost:1313/js/bundleOwlCarousel.a1da0d27fc716aeae4fd93be0fc0e4d1f34d3404b8e05b75727466e54f69493e.js" integrity="sha256-odoNJ/xxaurk/ZO&#43;D8Dk0fNNNAS44Ft1cnRm5U9pST4="></script>
+<script src="http://localhost:1313/js/bundleOwlCarousel.bc6b73f0a36bf19c70c5df8fc352d322988ca2bc40743fb836ee7371d555c28a.js" integrity="sha256-vGtz8KNr8Zxwxd&#43;Pw1LTIpiMorxAdD&#43;4Nu5zcdVVwoo="></script>
 
 
     </body>

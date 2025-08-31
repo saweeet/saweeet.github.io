@@ -1,0 +1,16 @@
+{{ $headings := findRE "<h[1-6][^>]*>.*?</h[1-6]>" .Page.Content }}
+{{ if $headings }}
+<div class="table-of-contents">
+  <h3>Table of Contents</h3>
+  <ul>
+    {{ range $headings }}
+      {{ $level := substr . 2 1 | int }}
+      {{ $text := . | replaceRE "<h[1-6][^>]*>(.*?)</h[1-6]>" "$1" | plainify }}
+      {{ $id := $text | urlize }}
+      <li class="toc-level-{{ $level }}">
+        <a href="#{{ $id }}">{{ $text }}</a>
+      </li>
+    {{ end }}
+  </ul>
+</div>
+{{ end }}
