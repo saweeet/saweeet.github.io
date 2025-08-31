@@ -116,6 +116,10 @@ DefaultContentLanguage           = "en"                    # Default language fo
   [markup.goldmark]
   [markup.goldmark.renderer]
     unsafe = true
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 6
+    ordered = false
   [markup.highlight]
     codeFences = true
     guessSyntax = false

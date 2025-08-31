@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theology on imjeremy</title>
-    <link>http://localhost:63444/series/theology/</link>
+    <link>http://localhost:1313/series/theology/</link>
     <description>Recent content in Theology on imjeremy</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:63444/series/theology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/theology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Angelus</title>
-      <link>http://localhost:63444/prayers/angelus/</link>
+      <link>http://localhost:1313/prayers/angelus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63444/prayers/angelus/</guid>
+      <guid>http://localhost:1313/prayers/angelus/</guid>
       <description>&lt;p&gt;The Angelus has been traditionally said three times daily, at 6 am, noon and 6 pm&lt;/p&gt;&#xA;&lt;p&gt;V. The Angel of the Lord declared unto Mary,&#xA;&lt;em&gt;R. And she conceived of the Holy Spirit.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hail Mary, etc&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;V. Behold the handmaid of the Lord.&#xA;&lt;em&gt;R. Be it done unto me according to Your Word.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hail Mary, etc&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;V. And the Word was made flesh,&#xA;(all bow or genuflect as these words are spoken)&#xA;&lt;em&gt;R. And dwelt among us.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Apostles Creed</title>
-      <link>http://localhost:63444/prayers/apostles-creed/</link>
+      <link>http://localhost:1313/prayers/apostles-creed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63444/prayers/apostles-creed/</guid>
+      <guid>http://localhost:1313/prayers/apostles-creed/</guid>
       <description>&lt;p&gt;I believe in God, the Father Almighty, Creator of Heaven and earth; and in Jesus Christ, His only Son, Our Lord, Who was conceived by the Holy Ghost, born of the Virgin Mary, suffered under Pontius Pilate, was crucified; died, and was buried.&#xA;He descended into Hell; the third day He arose again from the dead;&#xA;He ascended into Heaven, sitteth at the right hand of God, the Father Almighty;&#xA;from thence He shall come to judge the living and the dead.&#xA;I believe in the Holy Spirit, the holy Catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting. Amen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Confiteor</title>
-      <link>http://localhost:63444/prayers/confiteor/</link>
+      <link>http://localhost:1313/prayers/confiteor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63444/prayers/confiteor/</guid>
+      <guid>http://localhost:1313/prayers/confiteor/</guid>
       <description>&lt;p&gt;I confess to almighty God&#xA;and to you, my brothers and sisters,&#xA;that I have greatly sinned&#xA;in my thoughts and in my words,&#xA;in what I have done,&#xA;and in what I have failed to do;&#xA;through my fault, through my fault,&#xA;through my most grievous fault;&#xA;therefore I ask blessed Mary ever-Virgin,&#xA;all the Angels and Saints,&#xA;and you, my brothers and sisters,&#xA;to pray for me to the Lord our God.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gloria</title>
-      <link>http://localhost:63444/prayers/gloria/</link>
+      <link>http://localhost:1313/prayers/gloria/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63444/prayers/gloria/</guid>
+      <guid>http://localhost:1313/prayers/gloria/</guid>
       <description>&lt;p&gt;Glory to God in the highest,&#xA;and peace to God&amp;rsquo;s people on earth.&#xA;Lord God, heavenly King,&#xA;almighty God and Father,&#xA;we worship you, we give you thanks;&#xA;we praise you for your glory.&#xA;Lord Jesus Christ, only Son of the Father,&#xA;Lord God, Lamb of God,&#xA;you take away the sin of the world:&#xA;have mercy on us;&#xA;you are seated at the right hand of the Father:&#xA;receive our prayer.&#xA;For you alone are the Holy One,&#xA;you alone are the Lord,&#xA;you alone are the Most High,&#xA;Jesus Christ,&#xA;with the Holy Spirit,&#xA;in the glory of God the Father. Amen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hail Holy Queen</title>
-      <link>http://localhost:63444/prayers/hail-holy-queen/</link>
+      <link>http://localhost:1313/prayers/hail-holy-queen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63444/prayers/hail-holy-queen/</guid>
+      <guid>http://localhost:1313/prayers/hail-holy-queen/</guid>
       <description>&lt;p&gt;Hail, holy Queen, Mother of Mercy! our life, our sweetness, and our hope! To thee do we cry, poor banished children of Eve; to thee do we send up our sighs, mourning and weeping in this valley, of tears. Turn, then, most gracious Advocate, thine eyes of mercy toward us; and after this our exile show unto us the blessed fruit of thy womb, Jesus; O clement, O loving, O sweet Virgin Mary.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Litany of Humlity</title>
-      <link>http://localhost:63444/prayers/litany-of-humlity/</link>
+      <link>http://localhost:1313/prayers/litany-of-humlity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63444/prayers/litany-of-humlity/</guid>
+      <guid>http://localhost:1313/prayers/litany-of-humlity/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The first set of petitions in the Litany of Humility requests our deliverance from desiring validation from man instead of God.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;O Jesus! meek and humble of heart, Hear me.&lt;/li&gt;&#xA;&lt;li&gt;Response for the following: Deliver me, Jesus.&lt;/li&gt;&#xA;&lt;li&gt;From the desire of being esteemed …&lt;/li&gt;&#xA;&lt;li&gt;From the desire of being loved …&lt;/li&gt;&#xA;&lt;li&gt;From the desire of being extolled …&lt;/li&gt;&#xA;&lt;li&gt;From the desire of being honored …&lt;/li&gt;&#xA;&lt;li&gt;From the desire of being praised …&lt;/li&gt;&#xA;&lt;li&gt;From the desire of being preferred to others…&lt;/li&gt;&#xA;&lt;li&gt;From the desire of being consulted …&lt;/li&gt;&#xA;&lt;li&gt;From the desire of being approved …&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;The second set of petitions address our fears that are related to pride.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Memorare</title>
-      <link>http://localhost:63444/prayers/memorare/</link>
+      <link>http://localhost:1313/prayers/memorare/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63444/prayers/memorare/</guid>
+      <guid>http://localhost:1313/prayers/memorare/</guid>
       <description>&lt;p&gt;Remember O Most Gracious Virgin Mary, that never was it known that anyone who fled unto Thy protection, implored Thy help or sought Thine intercession, was left unaided by Thee. Inspired by this confidence I fly onto Thee, O Virgin of virgins, my Mother. To Thee I come, before Thee I stand, sinful and sorrowful. Do not, O Mother of the Word Incarnate, despise my petitions but, in Thy clemency, hear and answer me.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Night Prayers to Say at Bedtime</title>
-      <link>http://localhost:63444/prayers/7-calming-night-prayers-to-say-at-bedtime/</link>
+      <link>http://localhost:1313/prayers/7-calming-night-prayers-to-say-at-bedtime/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63444/prayers/7-calming-night-prayers-to-say-at-bedtime/</guid>
+      <guid>http://localhost:1313/prayers/7-calming-night-prayers-to-say-at-bedtime/</guid>
       <description>&lt;p&gt;Taken directly from Jeannie Myers - &lt;a href=&#34;https://www.biblestudytools.com/bible-study/topical-studies/calming-prayers-to-say-before-bed.html&#34;&gt;https://www.biblestudytools.com/bible-study/topical-studies/calming-prayers-to-say-before-bed.html&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Bedtime prayer can be a meaningful way to spend time with God every evening, talking over your day, sharing your concerns with Him, and thanking Him for His love and care. But why should we take time to pray before bed each night?&lt;/p&gt;&#xA;&lt;p&gt;Praying as you fall asleep gives you the chance to look back over the day and thank God for His help and His blessings. We often miss the hand of God in our lives as we run from one activity to another. We lose sight of the good gifts our heavenly Father is giving us (James 1:17) and focus instead on our troubles and worries.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Prayer to the Angels of God</title>
-      <link>http://localhost:63444/prayers/prayer-to-the-angels-of-god/</link>
+      <link>http://localhost:1313/prayers/prayer-to-the-angels-of-god/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63444/prayers/prayer-to-the-angels-of-god/</guid>
+      <guid>http://localhost:1313/prayers/prayer-to-the-angels-of-god/</guid>
       <description>&lt;h2 id=&#34;guardian-angel&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#guardian-angel&#34;&gt;Guardian Angel&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Angel of God, my Guardian dear, to whom His love commits me here, ever this day (or night) be at my side, to light and guard, to rule and guide. Amen.&#xA;A Mother&amp;rsquo;s Prayer to the Guardian Angels of her children&#xA;I humbly salute you, O you faithful, heavenly Friends of my children! I give you heartfelt thanks for all the love and goodness you show them. At some future day I shall, with thanks more worthy than I can now give, repay your care for them, and before the whole heavenly court acknowledge their indebtedness to your guidance and protection. Continue to watch over them. Provide for all their needs of body and soul. Pray, likewise, for me, for my husband, and my whole family, that we may all one day rejoice in your blessed company.&#xA;Amen&lt;/p&gt;</description>
     </item>
     <item>
       <title>Salve Regina</title>
-      <link>http://localhost:63444/prayers/salve-regina/</link>
+      <link>http://localhost:1313/prayers/salve-regina/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63444/prayers/salve-regina/</guid>
+      <guid>http://localhost:1313/prayers/salve-regina/</guid>
       <description>&lt;h2 id=&#34;latin&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#latin&#34;&gt;Latin&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Salve, Regina, mater misericordiae:&#xA;Vita, dulcedo, et spes nostra, salve.&#xA;Ad te clamamus, exsules, filii Hevae.&#xA;Ad te suspiramus, gementes et flentes&#xA;In hac lacrimarum valle.&#xA;Eia ergo, Advocata nostra,&#xA;Illos tuos misericordes oculos&#xA;Ad nos converte.&#xA;Et Jesum, benedictum fructum ventris tui,&#xA;nobis, post hoc exsilium ostende.&#xA;O clemens! O pia!&#xA;O dulcis Virgo Maria!&lt;/p&gt;&#xA;&#xA;&lt;h2 id=&#34;english&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#english&#34;&gt;English&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Hail, holy Queen, mother of mercy,&#xA;Our life, our sweetness, and our hope.&#xA;To thee do we cry, poor banished children of Eve.&#xA;To thee do we send up our sighs,&#xA;Mourning and weeping in this vale of tears.&#xA;Turn then, O most gracious Advocate,&#xA;Thine eyes of mercy towards us.&#xA;And after this, our exile,&#xA;Show unto us the blessed fruit of thy womb, Jesus.&lt;/p&gt;</description>
     </item>
   </channel>

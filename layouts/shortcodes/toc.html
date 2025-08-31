@@ -1,16 +1,21 @@
-{{ $headings := findRE "<h[1-6][^>]*>.*?</h[1-6]>" .Page.Content }}
-{{ if $headings }}
+{{ if .Page.TableOfContents }}
 <div class="table-of-contents">
-  <h3>Table of Contents</h3>
-  <ul>
-    {{ range $headings }}
-      {{ $level := substr . 2 1 | int }}
-      {{ $text := . | replaceRE "<h[1-6][^>]*>(.*?)</h[1-6]>" "$1" | plainify }}
-      {{ $id := $text | urlize }}
-      <li class="toc-level-{{ $level }}">
-        <a href="#{{ $id }}">{{ $text }}</a>
-      </li>
-    {{ end }}
-  </ul>
+  <h3 class="toc-toggle" onclick="toggleTOC()">Table of Contents <span id="toc-arrow">▼</span></h3>
+  <div class="toc-content" id="toc-content" style="display: none;">
+    {{ .Page.TableOfContents }}
+  </div>
 </div>
+<script>
+function toggleTOC() {
+  const content = document.getElementById('toc-content');
+  const arrow = document.getElementById('toc-arrow');
+  if (content.style.display === 'none') {
+    content.style.display = 'block';
+    arrow.textContent = '▲';
+  } else {
+    content.style.display = 'none';
+    arrow.textContent = '▼';
+  }
+}
+</script>
 {{ end }}

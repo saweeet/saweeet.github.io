@@ -6,6 +6,7 @@ series:
 draft: false
 ---
 
+{{< toc >}}
 
 Hello,
 

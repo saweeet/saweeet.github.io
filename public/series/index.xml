@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on imjeremy</title>
-    <link>http://localhost:63444/series/</link>
+    <link>http://localhost:1313/series/</link>
     <description>Recent content in Series on imjeremy</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:63444/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Media</title>
-      <link>http://localhost:63444/series/media/</link>
+      <link>http://localhost:1313/series/media/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63444/series/media/</guid>
+      <guid>http://localhost:1313/series/media/</guid>
       <description></description>
     </item>
     <item>
       <title>Theology</title>
-      <link>http://localhost:63444/series/theology/</link>
+      <link>http://localhost:1313/series/theology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63444/series/theology/</guid>
+      <guid>http://localhost:1313/series/theology/</guid>
       <description></description>
     </item>
   </channel>
