@@ -1,5 +1,26 @@
 {{ if .Page.TableOfContents }}
+<!-- Desktop floating TOC -->
 <div class="floating-toc">
   {{ .Page.TableOfContents }}
 </div>
+<!-- Mobile TOC -->
+<div class="mobile-toc">
+  <h3 class="mobile-toc-toggle" onclick="toggleMobileTOC()">Table of Contents <span id="mobile-toc-arrow">▼</span></h3>
+  <div class="mobile-toc-content" id="mobile-toc-content" style="display: none;">
+    {{ .Page.TableOfContents }}
+  </div>
+</div>
+<script>
+function toggleMobileTOC() {
+  const content = document.getElementById('mobile-toc-content');
+  const arrow = document.getElementById('mobile-toc-arrow');
+  if (content.style.display === 'none') {
+    content.style.display = 'block';
+    arrow.textContent = '▲';
+  } else {
+    content.style.display = 'none';
+    arrow.textContent = '▼';
+  }
+}
+</script>
 {{ end }}
