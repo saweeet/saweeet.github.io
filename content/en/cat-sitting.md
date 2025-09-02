@@ -136,6 +136,11 @@ See https://www.youtube.com/shorts/N2oAwgx5mCg to see how this is done.
 - Help yourself to toiletries found in the guest bathroom.
 
 ## Wi-Fi
+
+Kindly scan the following with your mobile phone:
+
+![wifi QR code](https://github.com/saweeet/saweeet.github.io/blob/main/content/en/images/guestwifi.png?raw=true)
+
 - Name: Wi-Fries
 - Pass: fluffyrice123
 
