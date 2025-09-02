@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/cat-sitting.md",
+                "file": "content/en/theology/Why you should believe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cat-sitting"
+              "title": "Why you should believe"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cf6a7a09629d49dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ff2b8df6dce4968",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
             }
           }
         ]
@@ -95,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/cat-sitting.md",
+                "file": "content/en/theology/Why you should believe.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cat-sitting"
+              "title": "Backlinks for Why you should believe"
             }
           },
           {
@@ -143,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/cat-sitting.md",
+                "file": "content/en/theology/Why you should believe.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cat-sitting"
+              "title": "Outline of Why you should believe"
             }
           }
         ],
@@ -172,6 +192,8 @@
   },
   "active": "03a1d1a195dc1cae",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "content/en/theology/Why you should believe.md",
     "Untitled.md",
     "content/en/cat-sitting.md",
     "content/en/projects/3dPrints.md",
@@ -214,7 +236,6 @@
     "content/en/projects/kristy.md",
     "content/en/projects/photoprism.md",
     "content/en/projects/Bye Google Photos, Hello Immich.md",
-    "content/en/theology/Why you should believe.md",
     "content/en/home/about.md",
     "themes/introduction/README.md"
   ]
