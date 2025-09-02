@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on imjeremy</title>
-    <link>http://localhost:60721/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on imjeremy</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:60721/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Capcut for Android</title>
-      <link>http://localhost:60721/projects/capcut/</link>
+      <link>http://localhost:1313/projects/capcut/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60721/projects/capcut/</guid>
+      <guid>http://localhost:1313/projects/capcut/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Unlocking Premium Features on CapCut for Free&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;A few months ago, I stumbled upon an older version of CapCut that seems to work seamlessly without requiring payment for many premium features. This discovery came from a Reddit post that provided a simple workaround. Here’s the original Reddit post for reference: &lt;a href=&#34;https://www.reddit.com/r/CapCut/comments/1gndiet/capcut_cracked_for_laptop_and_mobile/?share_id=S4oKMWaF_Bxwv7Ok60fD-&amp;amp;utm_content=2&amp;amp;utm_medium=android_app&amp;amp;utm_name=androidcss&amp;amp;utm_source=share&amp;amp;utm_term=1&#34;&gt;CapCut Cracked for Laptop and Mobile&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The link from &lt;strong&gt;@luigkilly’s&lt;/strong&gt; Google Drive is here: &lt;a href=&#34;https://drive.google.com/file/d/1Jx03ymWm02KF8llUvPIeKz9oIyn-MeLs/view?usp=drivesdk&#34;&gt;Download CapCut 7.6 Version&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Caution: Use at your own risk. There are  recent comments saying this file contained a virus.&lt;/p&gt;</description>
     </item>
     <item>
       <title>This is how I stream</title>
-      <link>http://localhost:60721/projects/this-is-how-i-stream/</link>
+      <link>http://localhost:1313/projects/this-is-how-i-stream/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60721/projects/this-is-how-i-stream/</guid>
+      <guid>http://localhost:1313/projects/this-is-how-i-stream/</guid>
       <description>&lt;h1 id=&#34;background&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#background&#34;&gt;Background&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;A friend told me about a new way to stream 4k media content for roughly $3-5 per month, depending on the subscription you choose. I immediately tested it, and became amazed how good it was. There are a few technical steps involved, but if you&amp;rsquo;re reading this then, you can probably reach out to me with any queries.&lt;/p&gt;&#xA;&lt;p&gt;There a few ways to set this up. This guide will take the simplest approach, using three different services.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My self-hosting Google Photos</title>
-      <link>http://localhost:60721/projects/bye-google-photos-hello-immich/</link>
+      <link>http://localhost:1313/projects/bye-google-photos-hello-immich/</link>
       <pubDate>Sun, 20 Feb 2022 12:04:16 -0500</pubDate>
-      <guid>http://localhost:60721/projects/bye-google-photos-hello-immich/</guid>
+      <guid>http://localhost:1313/projects/bye-google-photos-hello-immich/</guid>
       <description>&lt;h1 id=&#34;background&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#background&#34;&gt;Background&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Hitting the 20GB limit that Google provides for all your email and photos was inevitable. When that time came, I started digging around and found two potential solutions:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Immich&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Photoprism&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;I tried both, and honestly, they work really well. However, I decided to go with Immich since so many users were raving about how awesome it is.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&lt;h1 id=&#34;my-current-setup&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#my-current-setup&#34;&gt;My Current Setup&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Raspberry Pi 4 (Rpi4)&lt;/strong&gt; with a 512GB SanDisk&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;NAS&lt;/strong&gt; that contains abouit 4TB of storage.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Docker&lt;/strong&gt; running the Immich server.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;I won&amp;rsquo;t go into detail about how to set everything up because that&amp;rsquo;s already covered in the &lt;a href=&#34;https://immich.app/docs/install/docker-compose/&#34;&gt;Immich installation guide&lt;/a&gt;. Instead, I&amp;rsquo;ll share my thoughts on using it so far. Right now, I will admit. It&amp;rsquo;s not as smooth sailing as I&amp;rsquo;d like. But I see a lot of potential, so I’m sticking with it and working on overcoming the obstacles.&lt;/p&gt;</description>
     </item>
   </channel>
