@@ -115,6 +115,7 @@ See https://www.youtube.com/shorts/N2oAwgx5mCg to see how this is done.
 ## Don'ts
 - Don't play with your hands or fingers. Use a wand or toy instead. The reason behind this is that we don't want to encourage biting, even playful or gentle bites.
 - Do not continue to give them attention (petting or playing with them) if they do something incorrect (going on top of a benchtop, any kind of bites, etc.).
+- Follow them around if cats try to escape. Always make sure they have a place to escape and are not cornered in. 
 
 ## Do's
 - Please do send some videos of them each day, even they're just lazying around.
@@ -162,6 +163,7 @@ The TV is on a different network so you will need to connect to a different Wi-F
 
 ## Having Guests Over
 - Kindly request guests to be mindful of the cats when entering and leaving the house. Remind them to avoid leaving the front door open for long periods of time. See *[Outdoor Safety](./cat-sitting/#outdoor-safety)* section.
+- Kindly educate guests if they are violating any of the points in the *[Don'ts](./cat-sitting/#donts)* section
 - Feel free to move furniture around to accommodate additional seating.
 - There are about 12 additional foldable black seats in the outside shed. 
 - There are also 2 foldable tables in the outside shed.
