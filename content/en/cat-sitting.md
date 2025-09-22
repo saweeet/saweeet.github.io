@@ -130,7 +130,7 @@ See https://www.youtube.com/shorts/N2oAwgx5mCg to see how this is done.
 # Automatic Devices
 
 ## Automatic litter box
-- The bin needs replacing once a week. Bin collection night (Monday) is a great time to do this. Bin bags are found in cabinet to the left of the litter box, top shelf in the red bag. 
+- The cat litter box bin needs replacing once a week. Bin collection night (Monday) is a great time to do this. Bin bags are found in cabinet to the left of the litter box, top shelf in the red bag. 
 - The litter sand sometimes needs topping up (about once a fortnight). Add sand to how much you think would flatten to the guiding line. Then click ‘cycle’. Litter sand is found in the left cabinet, at the bottom.
 - The litter box light appears blue when ready to use, red when it’s detected that it’s been used (will cycle in 7 minutes to allow time for sand to clump) and moving white dots when cycling. Any other lights may indicate an issue. You can let us know, we should also get notification on our phones to find the issue.
 - You may leave the air purifier on speed 1
@@ -143,13 +143,19 @@ See https://www.youtube.com/shorts/N2oAwgx5mCg to see how this is done.
 ---
 # Home
 
+## Bin collections
+Take bins out on Monday nights for a Tuesday collection.
+- September 29 - we will take the bins out, you just need to roll them back in after Tuesday collection.
+- October 6 - red waste + green 
+- October 13 - red waste + yellow recycling
+- October 20. red waste + green
+
 ## Kitchen maintenance
 - Wipe all spills immediately with a damp cloth. Simple water will do for cabinets and benchtops. There is also a stone friendly spray found under the sink if you wish, to use on the natural stone.
 - Do not put hot objects directly onto the stone bench. Use corks, chopping boards or place onto the induction stove instead.
 - Be careful to avoid cabinet damage: for example, close doors immediately to avoid banging or bumping.
 - Rinse staining liquids and foods off the sink as soon as possible to avoid staining (e.g. coffee, red sauces, wine, soy sauce). You may scrub the sink with the dishwashing stick (not the harsh metal scrub) for stubborn stains.
 - Sit on bar stools properly to avoid toppling. 
-
 
 ## Couches
 - Our cats (mostly Laksa) love to scratch the sofa and velvet armchairs. To protect them from damage, please:
