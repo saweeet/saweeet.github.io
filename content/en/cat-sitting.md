@@ -20,7 +20,7 @@ Thank you for agreeing to look after our cats Soba and Laksa. Kindly see their c
 - Leave Thursday, 9 October any time after 5:30pm dinner.
 
 **Lawrence**
-- Arrive in time for Friday, 10 October breakfast at 7:30am.
+- Arrive in time for Monday, 13 October breakfast at 7:30am.
 - Leave any time after Tuesday, 21 October 5:30pm dinner. We return Wednesday, 22 October around 7am.
 
 **Front door entering/leaving**
@@ -90,6 +90,12 @@ See a typical feeding time here: [Feeding Video](https://drive.google.com/file/d
 - Pay attention to Laksa's body language to avoid bites. See the [cat language cheatsheet](./cat-sitting/#cat-language-cheatsheet) section to help understand.
 - She can be a bit restless when being picked up. If she is wriggling to get out of your arms, slowly place her down. Avoid letting Laksa jump out of your arms by holding her firmly. This will teach Laksa to wait for you to place her down.
 
+## Cat play/fights
+
+Soba and Laksa like to play fight each day. Sometimes they annoy each other while play fighting but most fights are self-resolving and you can usually leave them be. 
+Occasionally Soba won’t leave Laksa alone after she’s had enough and he can get a little rough. If you hear Laksa screeching for more than 15s because Soba is pinning her down and she can’t escape, a loud clap or a stern ‘No’ will snap Soba out of it and give Laksa a chance to escape. We hardly have to do this since they’re getting along better but just in case they’re not taking our absence well. If you find they are doing this often, play time can help release their energy and get them tired.
+Feel free to take a video and send it to us on WhatsApp if you’re unsure.
+
 ## Picking up a cat
 
 There are two ways to pick up a cat. Whichever way, key is that the cat feels supported. Support the chest and back legs. 
@@ -118,6 +124,7 @@ See https://www.youtube.com/shorts/N2oAwgx5mCg to see how this is done.
 
 ## Do's
 - Please do send some videos of them each day, even if they're just lazying around.
+- You are free to give the cats treats to reward good behaviour like sitting or cuddling with you. It’s great for bonding. You can use Greenies found in their shelf in the pantry. We recommend the final treat for the day to be Greenies (e.g. just before you go to bed), it ‘brushes’ their teeth. If you give them a lot that day (e.g. >10 Greenies), consider reducing their dry dinner down from 20g to 15g.
 
 ---
 # Automatic Devices
@@ -135,6 +142,20 @@ See https://www.youtube.com/shorts/N2oAwgx5mCg to see how this is done.
 
 ---
 # Home
+
+## Kitchen maintenance
+- Wipe all spills immediately with a damp cloth. Simple water will do for cabinets and benchtops. There is also a stone friendly spray found under the sink if you wish, to use on the natural stone.
+- Do not put hot objects directly onto the stone bench. Use corks, chopping boards or place onto the induction stove instead.
+- Be careful to avoid cabinet damage: for example, close doors immediately to avoid banging or bumping.
+- Rinse staining liquids and foods off the sink as soon as possible to avoid staining (e.g. coffee, red sauces, wine, soy sauce). You may scrub the sink with the dishwashing stick (not the harsh metal scrub) for stubborn stains.
+- Sit on bar stools properly to avoid toppling. 
+
+
+## Couches
+- Our cats (mostly Laksa) love to scratch the sofa and velvet armchairs. To protect them from damage, please:
+	- Keep the blankets covering the tops of the sofa. 
+	- Keep the cat tree and cat scratchers next to the main exposed parts of the velvet armchairs (usually the back and side)
+- Recliners: tuck the leg recliners back in to its original position before getting on and off the chair. This is because focusing your bodyweight onto the extended leg area of the recliner causes toppling and can damage the joints.
 
 ## Vacuum
 
@@ -169,6 +190,8 @@ The TV is on a different network so you will need to connect to a different Wi-F
 
 ## Coffee Machine Operation
 - Shorts link: [https://www.youtube.com/shorts/BqlXmq-OdXk](https://www.youtube.com/shorts/BqlXmq-OdXk)
+- Use filtered water to refill the water tank. Do not exceed the max line. Do not run the machine on empty water.
+- The red flag will appear when the tray is full of water. Bring the tray to the sink and tip water into the sink. Briefly rinse the sink afterwards to avoid coffee stains.
 
 ## Aircon/heater & Fireplace Operation
 - All bedrooms have aircon and heaters with their own remotes. Each white remote is kept on a table in their bedroom. If it's a hot day, you can leave them running on max with the doors open to cool the whole house. There is also a fan and air purifier in the music room.
