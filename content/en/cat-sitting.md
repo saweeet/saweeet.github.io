@@ -148,7 +148,7 @@ Take bins out on Monday nights for a Tuesday collection.
 - September 29 - we will take the bins out, you just need to roll them back in after Tuesday collection.
 - October 6 - red waste + green 
 - October 13 - red waste + yellow recycling
-- October 20. red waste + green
+- October 20 - red waste + green
 
 ## Kitchen maintenance
 - Wipe all spills immediately with a damp cloth. Simple water will do for cabinets and benchtops. There is also a stone friendly spray found under the sink if you wish, to use on the natural stone.
