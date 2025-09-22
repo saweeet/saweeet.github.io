@@ -21,12 +21,12 @@ Thank you for agreeing to look after our cats Soba and Laksa. Kindly see their c
 
 **Lawrence**
 - Arrive in time for Friday, 10 October breakfast at 7:30am.
-- Leave any time after Tuesday, 21 October 5:30pm dinner. We return Wednesday, 22 October around 7am—you are welcome to stay longer after we arrive.
+- Leave any time after Tuesday, 21 October 5:30pm dinner. We return Wednesday, 22 October around 7am.
 
 **Front door entering/leaving**
-- When entering, lead with a front foot to deter cats from being tempted to go outside. Once inside, close the door behind you and head directly to the kitchen area to provide them a snack (Greenies). This teaches the cats to expect a treat as soon as someone arrives (and also deters them from squeezing out the front door).
+- When entering, lead with your foot as you open the door to block any cats from sneaking out the front door. Once inside, close the door behind you and head straight to the kitchen area to give them both a treat (Greenies). This teaches the cats to follow you straight to the kitchen for a treat instead of running out the front door. Say ‘Sit’ and when both are sitting, say ‘Good job’ and immediately place a treat on the floor in front of each cat.
 - Keep external doors closed as we want to discourage cats from running outside. If having guests over, see our [Having Guests over](./cat-sitting/#having-guests-over) section below.
-- If you need to leave the front door open for long periods, place the cats in the kitchen area with both sliding doors closed. For example, until all guests have arrived or when you need to bring in lots of shopping/groceries.
+- If you need to leave the front door open for long periods, place the cats in the kitchen area with both sliding doors closed. For example, until all guests have arrived or when you need to bring in lots of shopping/groceries. 
 - For the front screen door, you may leave it unlocked.
 
 **Keys and security:**
@@ -37,7 +37,7 @@ Thank you for agreeing to look after our cats Soba and Laksa. Kindly see their c
 ---
 # Soba and Laksa's Meal Routine
 
-- **Feeding Times:** 7:30am and 5:30pm each day.
+- **Feeding Times:** 7:30am and 5:30pm each day. It’s ok to occasionally be off by about an hour depending on your schedule.
 - **Playtime** (optional): 5–10 minutes before each meal.
 - **Food:** Measure dry food (from the pantry) and wet food (from the fridge). Follow the measurements labeled on the dry container.
 - **Scale:** Turn off the scale by pressing **tare** (the button to make it zero) twice. If it runs out of battery, you'll find batteries in the bottom drawer (same drawer as cling wrap and foil).
@@ -47,13 +47,12 @@ Thank you for agreeing to look after our cats Soba and Laksa. Kindly see their c
 ## Feeding Steps
 1. Bring both bowls of food to the feeding area.
 2. Say "Sit" once. Avoid repeating the command.
-3. Look at Soba and wait for him to sit. Look at Laksa and wait for her to sit (or stand).
-4. As soon as they both sit at the same time, place the bowls down. Laksa eats from the left bowl, Soba eats from the right bowl.
-5. Block Laksa (she's not trained yet) while Soba sits and waits.
-6. If Soba tries to eat before your signal, gently block him with your arm and say "No" firmly.
-7. Once he is sitting and making eye contact, say "Good boy/job" to signal he can start eating.  **Hint:** I use my left hand to block Laksa while I look at Soba and wait for him to make eye contact.
-8. Let Laksa eat too.
-9. Stop any attempts to eat from each other's bowl (Soba may do this). If all food is eaten, licking each other's empty bowls afterward is fine.
+3. Once both are sitting, place bowls down. 
+4. Hold Laksa back (she doesn’t know ‘stay’ yet) using one or both of your arms to block her from her bowl.
+5. If Soba tries to eat before your signal, gently block him with your arm and say "No" firmly.
+6. Once Soba is sitting and making eye contact with you, say "Good job" to signal that he and Laksa can start eating. **Hint:** I use my left hand to block Laksa while I look at Soba and wait for him to make eye contact.
+7. Laksa eats from the left bowl, Soba eats from the right bowl.
+8. Stop any attempts to eat from each other's bowl (Soba may do this when he’s finished his bowl). If all food is eaten, licking each other's empty bowls afterward is fine.
    **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdRcqSugWpI32-xXZYTTfeyt_2KPJPIBmejhh_5ElK-ULSDIVzQ5Zs2-_vIBdAWnGB2Jkb2oRuVeZdBnGQuNLMMjH6e6rcWci0_ZvAuUo1dcragM5yIrK6TalvXpQ7vSGce_dkjk04NRSWD3iUqufJeQH7Z?key=_6lhS3vg6BtRTelOzHpsrbu0)**
 
 
@@ -82,14 +81,14 @@ See a typical feeding time here: [Feeding Video](https://drive.google.com/file/d
 **Soba**
 - Soba enjoys face, forehead, neck, and under-chin scratches.
 - Soba loves being picked up and held.
-- He dislikes tummy scratches.
+- He dislikes tummy scratches and scratches on his lower back near his tail.
 - Pay attention to body language to avoid bites. See the [cat language cheatsheet](./cat-sitting/#cat-language-cheatsheet) section to help understand.
 
 **Laksa**
 - Laksa loves to play, especially with wand toys.
-- Laksa likes butt scratches (the arch between her tail and back).
+- Laksa likes butt scratches (her lower back above her tail).
 - Pay attention to Laksa's body language to avoid bites. See the [cat language cheatsheet](./cat-sitting/#cat-language-cheatsheet) section to help understand.
-- She can be a bit restless when being picked up. If she is wriggling to get out of your arms, slowly place her down. Avoid letting Laksa jump out of your arms. This will teach Laksa to wait to be put down.
+- She can be a bit restless when being picked up. If she is wriggling to get out of your arms, slowly place her down. Avoid letting Laksa jump out of your arms by holding her firmly. This will teach Laksa to wait for you to place her down.
 
 ## Picking up a cat
 
@@ -113,22 +112,31 @@ See https://www.youtube.com/shorts/N2oAwgx5mCg to see how this is done.
 ![1](https://images.theconversation.com/files/312083/original/file-20200127-81362-g6phtu.jpg)
 
 ## Don'ts
-- Don't play with your hands or fingers. Use a wand or toy instead. The reason behind this is that we don't want to encourage biting, even playful or gentle bites.
+- Don't play with your hands or fingers. Always use a wand or toy instead. This is so cats will not view human hands as toys, greatly reducing the chance of biting and scratching. 
 - Do not continue to give them attention (petting or playing with them) if they do something incorrect (going on top of a benchtop, any kind of bites, etc.).
-- Follow them around if cats try to escape. Always make sure they have a place to escape and are not cornered in. 
+- Do not follow them around if cats try to escape. Always make sure they have a place to escape and are not cornered in. 
 
 ## Do's
-- Please do send some videos of them each day, even they're just lazying around.
+- Please do send some videos of them each day, even if they're just lazying around.
 
 ---
 # Automatic Devices
 
-- There's no need to handle the automatic litter box in the laundry room.
-- The manual litter box in the living room will need scooping as usual.
-- There are two water fountain, located in the living room and the office. If blinking or intermittently spurting out water, kindly add more water.
+## Automatic litter box
+- The bin needs replacing once a week. Bin collection night (Monday) is a great time to do this. Bin bags are found in cabinet to the left of the litter box, top shelf in the red bag. 
+- The litter sand sometimes needs topping up (about once a fortnight). Add sand to how much you think would flatten to the guiding line. Then click ‘cycle’. Litter sand is found in the left cabinet, at the bottom.
+- The litter box light appears blue when ready to use, red when it’s detected that it’s been used (will cycle in 7 minutes to allow time for sand to clump) and moving white dots when cycling. Any other lights may indicate an issue. You can let us know, we should also get notification on our phones to find the issue.
+- You may leave the air purifier on speed 1
+- If there are any messes outside of the box (rare), you can use disinfectant spray and wipes to clean.
+
+## Water fountains
+- There are two water fountains, located in the living room and the office. If blinking or intermittently spurting out water, kindly add more water.
+- Make sure at least one is operating so that cats always have access to water.
 
 ---
 # Home
+
+## Vacuum
 
 ## Bathroom
 
