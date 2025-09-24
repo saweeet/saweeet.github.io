@@ -13,7 +13,7 @@ Hello,
 Thank you for agreeing to look after our cats Soba and Laksa. Kindly see their care instructions below. Should you have any questions, please feel free to reach out to us via Whatsapp.
 
 ---
-# Sitter Arrivals & Departures 
+# Arrivals & Departures 
 
 **Deb and Janik**
 - Arrive Monday, 29 September for breakfast (arriving around 8am)
@@ -45,7 +45,7 @@ Ate Johanna/Raul meal times:
 - If you need to leave the front door open for long periods, place the cats in the kitchen area with both sliding doors closed. For example, until all guests have arrived or when you need to bring in lots of shopping/groceries. 
 - For the front screen door, you may leave it unlocked.
 
-**Keys and security:**
+## Keys and security
 1. Wake the keypad by touching it.
 2. Enter your PIN: type the 4–12 digit PIN when all buttons are visible.
 3. Press the [*] button to complete—the door will unlock if the PIN is correct.
