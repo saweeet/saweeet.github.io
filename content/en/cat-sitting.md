@@ -113,7 +113,9 @@ See a typical feeding time here: [Feeding Video](https://drive.google.com/file/d
 ## Cat play/fights
 
 Soba and Laksa like to play fight each day - this is healthy. Sometimes they annoy each other while play fighting and that's ok. Most fights are self-resolving and you don't need to do anything. 
+
 Occasionally, Soba won’t leave Laksa alone after she’s had enough and he tends to play rough. If you hear Laksa screeching for more than about 15s because Soba is pinning her down and she can’t escape, a loud clap or a stern ‘No’ will snap Soba out of it and give Laksa a chance to escape. We hardly have to do this since they’re getting along better but they might act differently in our absence. If you find they are doing this often, play time can help release their energy and get them tired. For example, if this tends to happen after you go to bed then play time before bed can help.
+
 Feel free to take a video and send it to us on WhatsApp if you’re unsure.
 
 ## Picking up a cat
