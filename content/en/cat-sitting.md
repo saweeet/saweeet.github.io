@@ -15,6 +15,8 @@ Thank you for agreeing to look after our cats Soba and Laksa. Kindly see their c
 ---
 # Arrivals & Departures 
 
+## Cat sitters
+
 **Deb and Janik**
 - Arrive Monday, 29 September for breakfast (arriving around 8am)
 - Leave Thursday, 9 October any time after 5:30pm dinner.
