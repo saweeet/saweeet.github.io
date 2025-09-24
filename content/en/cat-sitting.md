@@ -54,7 +54,7 @@ Ate Johanna/Raul meal times:
 You may leave the screen door unlocked.
 
 ---
-# Quick responsibilities check lists
+# Housesitter Responsibilities: Quick Checklists
 
 **Daily responsibilities**
 - Feed breakfast and dinner
