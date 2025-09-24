@@ -182,7 +182,7 @@ Occasionally Laksa or Soba might vomit out a hairball. This is healthy and norma
 
 ## Automatic litter box
 - The cat litter box bin needs replacing once a week. Bin collection night (Monday) is a great time to do this. Bin bags are found in cabinet to the left of the litter box, top shelf in the red bag. 
-- The litter sand sometimes needs topping up (about once a fortnight). Add sand to how much you think would flatten to the guiding line. Then click ‘cycle’. Litter sand is found in the left cabinet, at the bottom.
+- The litter sand sometimes needs topping up (about once a fortnight). Consider topping up if it's 2 inches below the guiding line. Add sand to how much you think would flatten to the line. Then click ‘cycle’. Litter sand is found in the left cabinet, at the bottom.
 - The litter box light appears blue when ready to use, red when it’s detected that it’s been used (will cycle in 7 minutes to allow time for sand to clump) and moving white dots when cycling. Any other lights may indicate an issue. You can let us know, we should also get notification on our phones to find the issue.
 - You may leave the air purifier on speed 1
 - If there are any messes outside of the box (rare), you can use disinfectant spray and wipes to clean.
