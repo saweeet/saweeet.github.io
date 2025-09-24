@@ -54,6 +54,20 @@ Ate Johanna/Raul meal times:
 You may leave the screen door unlocked.
 
 ---
+# Quick responsibilities check lists
+
+**Daily responsibilities**
+- Feed breakfast and dinner
+- Check water fountains are working
+
+**Weekly responsibilities**
+- Roll out bins on Monday nights
+- Replace cat litter bin bags
+- Top up litter bag if needed
+- Water plants
+- For Deb/Janik: run a cleaning cycle for the coffee machine with the silicone disc (20s x 5)
+
+---
 # Soba and Laksa's Meal Routine
 
 - **Feeding Times:** 7:30am and 5:30pm each day. It’s ok to occasionally be off by about an hour depending on your schedule.
