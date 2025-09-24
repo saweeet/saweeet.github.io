@@ -49,7 +49,7 @@ Ate Johanna/Raul meal times:
 2. Enter your PIN: type the 4–12 digit PIN when all buttons are visible.
 3. Press the [*] button to complete—the door will unlock if the PIN is correct.
 
-Leave the screen door unlocked.
+You may leave the screen door unlocked.
 
 ---
 # Soba and Laksa's Meal Routine
