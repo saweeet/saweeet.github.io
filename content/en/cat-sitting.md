@@ -188,7 +188,7 @@ Always keep medicines out of reach - e.g. return tablets to their boxes immediat
 
 Avoid giving cats human food. This also prevents them from begging or stealing our food.
 
-Occasionally Laksa or Soba might vomit out a hairball. This is healthy and normal. You'll hear them before they do it. You can quickly move them to the floor if possible, for easier cleaning.
+Occasionally Laksa or Soba might vomit out a bunch of fur (hairball). This is healthy and normal. You'll hear them before they do it. You can quickly move them to the floor if possible, for easier cleaning.
 
 ---
 # Automatic devices
