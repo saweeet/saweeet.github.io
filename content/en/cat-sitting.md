@@ -140,6 +140,7 @@ See https://www.youtube.com/shorts/N2oAwgx5mCg to see how this is done.
 ![1](https://images.theconversation.com/files/312083/original/file-20200127-81362-g6phtu.jpg)
 
 **Signs of irritation or bite-mode**
+
 These quick signs indicate a higher risk of biting due to irritation or hunting/playfulness. It's best to avoid patting during this time:
 - diluted/big black eyes
 - airplane/flattened ears
