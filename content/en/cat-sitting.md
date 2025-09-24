@@ -92,8 +92,8 @@ See a typical feeding time here: [Feeding Video](https://drive.google.com/file/d
 
 ## Cat play/fights
 
-Soba and Laksa like to play fight each day. Sometimes they annoy each other while play fighting but most fights are self-resolving and you can usually leave them be. 
-Occasionally Soba won’t leave Laksa alone after she’s had enough and he can get a little rough. If you hear Laksa screeching for more than 15s because Soba is pinning her down and she can’t escape, a loud clap or a stern ‘No’ will snap Soba out of it and give Laksa a chance to escape. We hardly have to do this since they’re getting along better but just in case they’re not taking our absence well. If you find they are doing this often, play time can help release their energy and get them tired.
+Soba and Laksa like to play fight each day - this is healthy. Sometimes they annoy each other while play fighting and that's ok. Most fights are self-resolving and you don't need to do anything. 
+Occasionally, Soba won’t leave Laksa alone after she’s had enough and he tends to play rough. If you hear Laksa screeching for more than about 15s because Soba is pinning her down and she can’t escape, a loud clap or a stern ‘No’ will snap Soba out of it and give Laksa a chance to escape. We hardly have to do this since they’re getting along better but they might act differently in our absence. If you find they are doing this often, play time can help release their energy and get them tired. For example, if this tends to happen after you go to bed then play time before bed can help.
 Feel free to take a video and send it to us on WhatsApp if you’re unsure.
 
 ## Picking up a cat
@@ -126,6 +126,24 @@ See https://www.youtube.com/shorts/N2oAwgx5mCg to see how this is done.
 - Please do send some videos of them each day, even if they're just lazying around.
 - You are free to give the cats treats to reward good behaviour like sitting or cuddling with you. It’s great for bonding. You can use Greenies found in their shelf in the pantry. We recommend the final treat for the day to be Greenies (e.g. just before you go to bed), it ‘brushes’ their teeth. If you give them a lot that day (e.g. >10 Greenies), consider reducing their dry dinner down from 20g to 15g.
 
+## Cat safety
+
+The following common items are toxic or fatal to cats:
+- garlic and onion
+- chives, leeks and shallots
+- lillies and tulips
+- chocolate
+- coffee
+- ibuprofen (NSAIDs), panadol and other medicines
+- rubber bands and hairties
+- essential oils
+
+Always keep medicines out of reach - e.g. return tablets to their boxes immediately after use.
+
+Avoid giving cats human food. This also prevents them from begging or stealing our food.
+
+Occasionally Laksa or Soba might vomit out a hairball. This is healthy and normal. You'll hear them before they do it. You can quickly move them to the floor if possible, for easier cleaning.
+
 ---
 # Automatic Devices
 
@@ -152,8 +170,8 @@ Take bins out on Monday nights for a Tuesday collection.
 
 ## Kitchen maintenance
 - Wipe all spills immediately with a damp cloth. Simple water will do for cabinets and benchtops. There is also a stone friendly spray found under the sink if you wish, to use on the natural stone.
-- Do not put hot objects directly onto the stone bench. Use corks, chopping boards or place onto the induction stove instead.
-- Be careful to avoid cabinet damage: for example, close doors immediately to avoid banging or bumping.
+- Do not put hot objects directly onto the stone bench. Use corks or chopping boards, or place onto the induction stove instead.
+- Be careful to avoid cabinet damage - for example, close doors immediately to avoid banging or bumping.
 - Rinse staining liquids and foods off the sink as soon as possible to avoid staining (e.g. coffee, red sauces, wine, soy sauce). You may scrub the sink with the dishwashing stick (not the harsh metal scrub) for stubborn stains.
 - Sit on bar stools properly to avoid toppling. 
 
