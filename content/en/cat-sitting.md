@@ -91,19 +91,19 @@ You may leave the screen door unlocked.
 See a typical feeding time here: [Feeding Video](https://drive.google.com/file/d/1UHcSNu7qQpUvrl3b-K-Rem_-jjNW2gM2/view?usp=sharing)
 
 ---
-# Cat 101 & Discipline Guidelines
+# Cat 101 & discipline guidelines
 
-## No Biting Policy
+## No biting policy
 - If either cat bites (even gently), say "No" firmly, then leave them alone and ignore them for a few minutes.
 - If a cat bites you while on you, say "No" firmly, place them down, and ignore them.
 
-## Kitchen Counter
+## Kitchen counter
 - If you see either cat on the benchtop or dining table, say "No" firmly. If they don't jump down, gently place them on the floor. Laksa is untrained and will need to be gently picked up and placed on the floor.
 - Make sure no uncovered food or dirty dishes are left out. Place dirty dishes face down in the sink or directly into the dishwasher to avoid them getting sick or tempted.
 - If you're cooking or eating and either Soba or Laksa keeps repeatedly jumping up on the benchtop or dining table, you may move them out of the kitchen by closing both sliding doors.
 - Soba might want to sit on your lap while you're eating at the dining table. This is fine, if you don't mind it. Ensure Soba does not place his paws on the table or eat your food - say 'No' firmly and remove his paws if he tries. If he keeps trying, place him back down.
 
-## Handling Tips
+## Handling tips
 
 **Soba**
 - Soba enjoys forehead, cheek, chin, neck and ear scratches (basically his whole head and neck).
@@ -147,7 +147,7 @@ See https://www.youtube.com/shorts/N2oAwgx5mCg to see how this is done.
 2. Other hand under belly
 3. Lift cat and put their front legs over your shoulder/upper arm
 
-## Cat Language cheatsheet
+## Cat language cheatsheet
  
 
 ![1](https://images.theconversation.com/files/312083/original/file-20200127-81362-g6phtu.jpg)
@@ -191,7 +191,7 @@ Avoid giving cats human food. This also prevents them from begging or stealing o
 Occasionally Laksa or Soba might vomit out a hairball. This is healthy and normal. You'll hear them before they do it. You can quickly move them to the floor if possible, for easier cleaning.
 
 ---
-# Automatic Devices
+# Automatic devices
 
 ## Automatic litter box
 - The cat litter box bin needs replacing once a week. Bin collection night (Monday) is a great time to do this. Bin bags are found in cabinet to the left of the litter box, top shelf in the red bag. 
@@ -248,30 +248,30 @@ Kindly scan the following with your mobile phone:
 - Name: Wi-Fries
 - Pass: fluffyrice123
 
-## Desk and Monitor
+## Desk and monitor
 
-- **Desk & Monitor Use:** Feel free to use the desk and monitor in the office.
-- **Connecting Your Laptop:** There is a single black cable from the curved wide 34" monitor. Plug the USB-C cable from the Monitor directly into your laptop's USB-C port. Wait a few minutes, the screen should automatically display, and the mouse and keyboard should automatically work.
+- **Desk & monitor Use:** Feel free to use the desk and monitor in the office.
+- **Connecting your laptop:** There is a single black cable from the curved wide 34" monitor. Plug the USB-C cable from the Monitor directly into your laptop's USB-C port. Wait a few minutes, the screen should automatically display, and the mouse and keyboard should automatically work.
 - **Gaming:** You are welcome to use our gaming accounts or log into your own.
 
-## TV Operation
+## TV operation
 **Fireplace TV**
 Use the small white remote to navigate the TV menu. The TV will start at volume 0, so you will need to pull the volume toggle button upwards to hear sound.
 
-**TV Apps:**
+**TV apps:**
 Use the Stremio or Prime app for movies and TV shows. Feel free to use YouTube as well.
 
 **Casting to the TV from your laptop**
 The TV is on a different network so you will need to connect to a different Wi-Fi network if you would like to cast anything. Ask Jeremy for details.
 
-## Coffee Machine Operation
+## Coffee machine operation
 - Shorts link: [https://www.youtube.com/shorts/BqlXmq-OdXk](https://www.youtube.com/shorts/BqlXmq-OdXk)
 - Use filtered water to refill the water tank. Do not exceed the max line. Do not run the machine on empty water.
 - The red flag will appear when the tray is full of water. Bring the tray to the sink and tip water into the sink. Briefly rinse the sink afterwards to avoid coffee stains.
 - For hot water, you can use either the coffee machine or the kettle found in the bottom drawer below the stove.
 - For Deb/Janik: please run a clean once a week using the grey silicone cleaning disc. I do 20 seconds x 5 times.
 
-## Aircon/heater & Fireplace Operation
+## Aircon/heater & fireplace operation
 - All bedrooms have aircon and heaters with their own remotes. Each white remote is kept on a table in their bedroom. If it's a hot day, you can leave them running on max with the doors open to cool the whole house. There is also a fan in the music room.
 - If you want to use the fireplace, there's an On/Off switch located on the right-hand side of the facade.
 
@@ -279,7 +279,7 @@ The TV is on a different network so you will need to connect to a different Wi-F
 
 Some window winders hit the metal screen. Press the metal screen forward to use the winders.
 
-## Having Guests Over
+## Having guests over
 - Kindly request guests to be mindful of the cats when entering and leaving the house. Remind them to avoid leaving the front door open for long periods of time. See *[Outdoor Safety](./cat-sitting/#outdoor-safety)* section.
 - Kindly educate guests if they are violating any of the points in the *[Don'ts](./cat-sitting/#donts)* section
 - Feel free to move furniture around to accommodate additional seating.
@@ -287,9 +287,9 @@ Some window winders hit the metal screen. Press the metal screen forward to use 
 - There are also 2 foldable tables in the outside shed.
 
 ---
-# Vet Details
+# Vet details
 
-**Veterinary Clinic**
+**Veterinary clinic**
 Hallam Park Animal Hospital - 03 8786 3900
 https://maps.app.goo.gl/ZtvDbQaDBLorer2N9
  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3144.0596270351143!2d145.27169881294614!3d-37.99906964453671!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad6172691bbc86f%3A0x2fce07660c349ab6!2sHallam%20Park%20Animal%20Hospital!5e0!3m2!1sen!2sau!4v1737350628677!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
