@@ -130,14 +130,20 @@ There are two ways to pick up a cat. Whichever way, key is that the cat feels su
 See https://www.youtube.com/shorts/N2oAwgx5mCg to see how this is done. 
 
 **Method 2:**
-1. Hand under armpit
+1. One hand under armpit
 2. Other hand under belly
-3. Armpit side put over shoulder
+3. Lift cat and put their front legs over your shoulder/upper arm
 
 ## Cat Language cheatsheet
  
 
 ![1](https://images.theconversation.com/files/312083/original/file-20200127-81362-g6phtu.jpg)
+
+**Signs of irritation or bite-mode**
+These quick signs indicate a higher risk of biting due to irritation or hunting/playfulness. It's best to avoid patting during this time:
+- diluted/big black eyes
+- airplane/flattened ears
+- whipping tail
 
 ## Don'ts
 - Don't play with your hands or fingers. Always use a wand or toy instead. This is so cats will not view human hands as toys, greatly reducing the chance of biting and scratching. 
