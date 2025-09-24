@@ -255,12 +255,16 @@ The TV is on a different network so you will need to connect to a different Wi-F
 - Shorts link: [https://www.youtube.com/shorts/BqlXmq-OdXk](https://www.youtube.com/shorts/BqlXmq-OdXk)
 - Use filtered water to refill the water tank. Do not exceed the max line. Do not run the machine on empty water.
 - The red flag will appear when the tray is full of water. Bring the tray to the sink and tip water into the sink. Briefly rinse the sink afterwards to avoid coffee stains.
+- For hot water, you can use either the coffee machine or the kettle found in the bottom drawer below the stove.
 - For Deb/Janik: please run a clean once a week using the grey silicone cleaning disc. I do 20 seconds x 5 times.
-- For Lawrence: for hot water, you can use either the coffee machine or the kettle found in the bottom drawer below the stove.
 
 ## Aircon/heater & Fireplace Operation
-- All bedrooms have aircon and heaters with their own remotes. Each white remote is kept on a table in their bedroom. If it's a hot day, you can leave them running on max with the doors open to cool the whole house. There is also a fan and air purifier in the music room.
+- All bedrooms have aircon and heaters with their own remotes. Each white remote is kept on a table in their bedroom. If it's a hot day, you can leave them running on max with the doors open to cool the whole house. There is also a fan in the music room.
 - If you want to use the fireplace, there's an On/Off switch located on the right-hand side of the facade.
+
+## Windows
+
+Some window winders hit the metal screen. Press the metal screen forward to use the winders.
 
 ## Having Guests Over
 - Kindly request guests to be mindful of the cats when entering and leaving the house. Remind them to avoid leaving the front door open for long periods of time. See *[Outdoor Safety](./cat-sitting/#outdoor-safety)* section.
