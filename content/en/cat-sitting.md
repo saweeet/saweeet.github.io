@@ -16,7 +16,7 @@ Thank you for agreeing to look after our cats Soba and Laksa. Kindly see their c
 # Arrival & Departure 
 
 **Deb and Janik**
-- Arrive Monday, 29 September any time before 5:30pm in time for the cats' dinner.
+- Arrive Monday, 29 September for breakfast (arriving around 8am)
 - Leave Thursday, 9 October any time after 5:30pm dinner.
 
 **Lawrence**
@@ -38,8 +38,8 @@ Ate Johanna/Raul meal times:
 - 	Sunday, 12 October dinner 5.30pm
 
 **Front door entering/leaving**
-- When entering, lead with your foot as you open the door to block any cats from sneaking out the front door. Once inside, close the door behind you and head straight to the kitchen area to give them both a treat (Greenies). This teaches the cats to follow you straight to the kitchen for a treat instead of running out the front door. Say ‘Sit’ and when both are sitting, say ‘Good job’ and immediately place a treat on the floor in front of each cat.
-- Keep external doors closed as we want to discourage cats from running outside. If having guests over, see our [Having Guests over](./cat-sitting/#having-guests-over) section below.
+- When entering, lead with your foot as you open the door to block any cats from sneaking out. Once inside, close the door behind you and head straight to the kitchen to give them both a treat (Greenies). This teaches the cats to follow you to the kitchen instead of running out the front door. Say ‘Sit’ and when both are sitting, say ‘Good job’ and immediately place a treat on the floor in front of each cat.
+- Keep external doors closed to prevent cats from running outside. If having guests over, see our [Having Guests over](./cat-sitting/#having-guests-over) section below.
 - If you need to leave the front door open for long periods, place the cats in the kitchen area with both sliding doors closed. For example, until all guests have arrived or when you need to bring in lots of shopping/groceries. 
 - For the front screen door, you may leave it unlocked.
 
@@ -52,7 +52,7 @@ Ate Johanna/Raul meal times:
 # Soba and Laksa's Meal Routine
 
 - **Feeding Times:** 7:30am and 5:30pm each day. It’s ok to occasionally be off by about an hour depending on your schedule.
-- **Playtime** (optional): 5–10 minutes before each meal.
+- **Playtime** (optional): 5–10 minutes before each meal with a wand toy(s).
 - **Food:** Measure dry food (from the pantry) and wet food (from the fridge). Follow the measurements labeled on the dry container.
 - **Scale:** Turn off the scale by pressing **tare** (the button to make it zero) twice. If it runs out of battery, you'll find batteries in the bottom drawer (same drawer as cling wrap and foil).
 
@@ -64,7 +64,7 @@ Ate Johanna/Raul meal times:
 3. Once both are sitting, place bowls down. 
 4. Hold Laksa back (she doesn’t know ‘stay’ yet) using one or both of your arms to block her from her bowl.
 5. If Soba tries to eat before your signal, gently block him with your arm and say "No" firmly.
-6. Once Soba is sitting and making eye contact with you, say "Good job" to signal that he and Laksa can start eating. **Hint:** I use my left hand to block Laksa while I look at Soba and wait for him to make eye contact.
+6. Wait for Soba to sit and make eye contact with you. Then say "Good job" to signal that he and Laksa can start eating. **Hint:** I use my left hand to block Laksa while I look at Soba and wait for him to make eye contact.
 7. Laksa eats from the left bowl, Soba eats from the right bowl.
 8. Stop any attempts to eat from each other's bowl (Soba may do this when he’s finished his bowl). If all food is eaten, licking each other's empty bowls afterward is fine.
    **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdRcqSugWpI32-xXZYTTfeyt_2KPJPIBmejhh_5ElK-ULSDIVzQ5Zs2-_vIBdAWnGB2Jkb2oRuVeZdBnGQuNLMMjH6e6rcWci0_ZvAuUo1dcragM5yIrK6TalvXpQ7vSGce_dkjk04NRSWD3iUqufJeQH7Z?key=_6lhS3vg6BtRTelOzHpsrbu0)**
