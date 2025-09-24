@@ -214,7 +214,7 @@ Take bins out on Monday nights for a Tuesday collection.
 - Laksa loves to scratch the sofa and velvet armchairs. To protect them from damage, please:
 	- Keep the blankets covering the tops of the sofa. 
 	- Keep the cat tree and cat scratchers next to the main exposed parts of the velvet armchairs (usually the back and side)
-- Recliners: tuck the leg recliners back in to its original position before getting on and off the chair. This is because focusing your bodyweight onto the extended leg area of the recliner causes toppling and damages the hinges.
+- **Recliners**: tuck the leg recliners back in to its original position before getting on and off the chair. This is because focusing your bodyweight onto the extended leg area of the recliner causes toppling and damages the hinges.
 
 ## Vacuum
 - Vacuum is found in the laundry.
@@ -239,7 +239,7 @@ Kindly scan the following with your mobile phone:
 
 - **Desk & Monitor Use:** Feel free to use the desk and monitor in the office.
 - **Connecting Your Laptop:** There is a single black cable from the curved wide 34" monitor. Plug the USB-C cable from the Monitor directly into your laptop's USB-C port. Wait a few minutes, the screen should automatically display, and the mouse and keyboard should automatically work.
-- **Gaming** You are welcome to use our gaming accounts or log into your own.
+- **Gaming:** You are welcome to use our gaming accounts or log into your own.
 
 ## TV Operation
 **Fireplace TV**
@@ -256,6 +256,7 @@ The TV is on a different network so you will need to connect to a different Wi-F
 - Use filtered water to refill the water tank. Do not exceed the max line. Do not run the machine on empty water.
 - The red flag will appear when the tray is full of water. Bring the tray to the sink and tip water into the sink. Briefly rinse the sink afterwards to avoid coffee stains.
 - For Deb/Janik: please run a clean once a week using the grey silicone cleaning disc. I do 20 seconds x 5 times.
+- For Lawrence: for hot water, you can use either the coffee machine or the kettle found in the bottom drawer below the stove.
 
 ## Aircon/heater & Fireplace Operation
 - All bedrooms have aircon and heaters with their own remotes. Each white remote is kept on a table in their bedroom. If it's a hot day, you can leave them running on max with the doors open to cool the whole house. There is also a fan and air purifier in the music room.
