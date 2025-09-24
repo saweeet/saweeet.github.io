@@ -157,6 +157,8 @@ These quick signs indicate a higher risk of biting due to irritation or hunting/
 
 ## Cat safety
 
+The cats like to silently follow you around so be careful with unintentionally locking them into a room. For rooms without a cat door, check they're not in the room before closing the door or simply leave the door open.
+
 The following common items are toxic or fatal to cats:
 - garlic and onion
 - chives, leeks and shallots
@@ -214,7 +216,8 @@ Take bins out on Monday nights for a Tuesday collection.
 
 ## Vacuum
 - Vacuum is found in the laundry.
-- Use batteries in the laundry. These batteries can be charged if needed. Batteries and charger is found on top of the washing machine.
+- Use batteries in the laundry. These batteries can be charged if needed.
+- Batteries and charger are found on top of the washing machine but there should already be a charged battery in the vacuum.
 
 ## Bathroom
 
