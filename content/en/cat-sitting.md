@@ -184,8 +184,10 @@ Occasionally Laksa or Soba might vomit out a hairball. This is healthy and norma
 - If there are any messes outside of the box (rare), you can use disinfectant spray and wipes to clean.
 
 ## Water fountains
-- There are two water fountains, located in the living room and the office. If blinking or intermittently spurting out water, kindly add more water.
-- Make sure at least one is operating so that cats always have access to water.
+- There are two water fountains, located in the living room and the office.
+- Water should be freely flowing.
+- If blinking or intermittently spurting out water, kindly add more water.
+- Make sure at least one is running so that cats always have access to water.
 
 ---
 # Home
@@ -198,19 +200,21 @@ Take bins out on Monday nights for a Tuesday collection.
 - October 20 - red waste + green
 
 ## Kitchen maintenance
-- Wipe all spills immediately with a damp cloth. Simple water will do for cabinets and benchtops. There is also a stone friendly spray found under the sink if you wish, to use on the natural stone.
+- Wipe all spills immediately with a damp cloth. Simple water will do for cabinets and benchtops. If water doesn't clean it, you could also dab a wet cloth with gentle dishwashing liquid found under the sink. Or for the stone benchtops, use the stone friendly spray found under the sink.
 - Do not put hot objects directly onto the stone bench. Use corks or chopping boards, or place onto the induction stove instead.
 - Be careful to avoid cabinet damage - for example, close doors immediately to avoid banging or bumping.
-- Rinse staining liquids and foods off the sink as soon as possible to avoid staining (e.g. coffee, red sauces, wine, soy sauce). You may scrub the sink with the dishwashing stick (not the harsh metal scrub) for stubborn stains.
+- Rinse staining liquids and foods off the sink as soon as possible to avoid staining (e.g. coffee, red sauces, wine, soy sauce). For stubborn stains, you may scrub the sink with the dishwashing stick (not the harsh metal scrub).
 - Sit on bar stools properly to avoid toppling. 
 
 ## Couches
-- Our cats (mostly Laksa) love to scratch the sofa and velvet armchairs. To protect them from damage, please:
+- Laksa loves to scratch the sofa and velvet armchairs. To protect them from damage, please:
 	- Keep the blankets covering the tops of the sofa. 
 	- Keep the cat tree and cat scratchers next to the main exposed parts of the velvet armchairs (usually the back and side)
-- Recliners: tuck the leg recliners back in to its original position before getting on and off the chair. This is because focusing your bodyweight onto the extended leg area of the recliner causes toppling and can damage the joints.
+- Recliners: tuck the leg recliners back in to its original position before getting on and off the chair. This is because focusing your bodyweight onto the extended leg area of the recliner causes toppling and damages the hinges.
 
 ## Vacuum
+- Vacuum is found in the laundry.
+- Use batteries in the laundry. These batteries can be charged if needed. Batteries and charger is found on top of the washing machine.
 
 ## Bathroom
 
@@ -229,11 +233,12 @@ Kindly scan the following with your mobile phone:
 ## Desk and Monitor
 
 - **Desk & Monitor Use:** Feel free to use the desk and monitor in the office.
-- **Connecting Your Laptop:** There is a single black cable from the curved wide 34" monitor. Plug the USB-C cable from the Monitor directly into your laptop's USB-C port. Wait a few minutes, the screen should automatically display, and the mouse and keyboard should automatically work. 
+- **Connecting Your Laptop:** There is a single black cable from the curved wide 34" monitor. Plug the USB-C cable from the Monitor directly into your laptop's USB-C port. Wait a few minutes, the screen should automatically display, and the mouse and keyboard should automatically work.
+- **Gaming** You are welcome to use our gaming accounts or log into your own.
 
 ## TV Operation
 **Fireplace TV**
-Use the short white remote to navigate the TV menu. The TV will start at volume 0, so you will need to pull the volume toggle button upwards to hear sound.
+Use the small white remote to navigate the TV menu. The TV will start at volume 0, so you will need to pull the volume toggle button upwards to hear sound.
 
 **TV Apps:**
 Use the Stremio or Prime app for movies and TV shows. Feel free to use YouTube as well.
@@ -245,6 +250,7 @@ The TV is on a different network so you will need to connect to a different Wi-F
 - Shorts link: [https://www.youtube.com/shorts/BqlXmq-OdXk](https://www.youtube.com/shorts/BqlXmq-OdXk)
 - Use filtered water to refill the water tank. Do not exceed the max line. Do not run the machine on empty water.
 - The red flag will appear when the tray is full of water. Bring the tray to the sink and tip water into the sink. Briefly rinse the sink afterwards to avoid coffee stains.
+- For Deb/Janik: please run a clean once a week using the grey silicone cleaning disc. I do 20 seconds x 5 times.
 
 ## Aircon/heater & Fireplace Operation
 - All bedrooms have aircon and heaters with their own remotes. Each white remote is kept on a table in their bedroom. If it's a hot day, you can leave them running on max with the doors open to cool the whole house. There is also a fan and air purifier in the music room.
