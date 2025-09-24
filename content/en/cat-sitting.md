@@ -13,7 +13,7 @@ Hello,
 Thank you for agreeing to look after our cats Soba and Laksa. Kindly see their care instructions below. Should you have any questions, please feel free to reach out to us via Whatsapp.
 
 ---
-# Arrival & Departure 
+# Sitter Arrivals & Departures 
 
 **Deb and Janik**
 - Arrive Monday, 29 September for breakfast (arriving around 8am)
@@ -37,8 +37,10 @@ Ate Johanna/Raul meal times:
 - 	Saturday, 11 October dinner 5.30pm
 - 	Sunday, 12 October dinner 5.30pm
 
-**Front door entering/leaving**
-- When entering, lead with your foot as you open the door to block any cats from sneaking out. Once inside, close the door behind you and head straight to the kitchen to give them both a treat (Greenies). This teaches the cats to follow you to the kitchen instead of running out the front door. Say ‘Sit’ and when both are sitting, say ‘Good job’ and immediately place a treat on the floor in front of each cat.
+## Front Door Entering & Leaving
+- Soba and Laksa are indoor-only cats.
+- When entering, lead with your foot to prevent them from dashing outside.
+- If returning home after a while, close the door behind you and go to the kitchen first to give them a snack (Greenies). This teaches the cats to follow you to the kitchen instead of running out the front door. Say ‘Sit’ and when both are sitting, say ‘Good job’ and immediately place a treat on the floor in front of each cat.
 - Keep external doors closed to prevent cats from running outside. If having guests over, see our [Having Guests over](./cat-sitting/#having-guests-over) section below.
 - If you need to leave the front door open for long periods, place the cats in the kitchen area with both sliding doors closed. For example, until all guests have arrived or when you need to bring in lots of shopping/groceries. 
 - For the front screen door, you may leave it unlocked.
@@ -83,12 +85,6 @@ See a typical feeding time here: [Feeding Video](https://drive.google.com/file/d
 - If you see either cat on the benchtop or dining table, say "No" firmly. If they don't jump down, gently place them on the floor. Laksa is untrained and will need to be gently picked up and placed on the floor.
 - Make sure no uncovered food or dirty dishes are left out. Place dirty dishes face down in the sink or directly into the dishwasher to avoid tempting them.
 - If you're cooking or eating and either Soba or Laksa keeps repeatedly jumping up on the benchtop or dining table, you may move them out of the kitchen by closing both sliding doors.
-
-## Outdoor Safety
-- Soba and Laksa are indoor-only cats.
-- When entering, lead with your foot to prevent them from dashing outside.
-- If returning home after a while, go to the kitchen first to give them a snack. Tell them to sit first before giving a snack to both of them.
-- Keep both front and back doors closed at all times.
 
 ## Handling Tips
 
