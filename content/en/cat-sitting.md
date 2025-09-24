@@ -24,14 +24,16 @@ Thank you for agreeing to look after our cats Soba and Laksa. Kindly see their c
 - Leave any time after Tuesday, 21 October 5:30pm dinner. We return Wednesday, 22 October around 7am.
 
 **Ate Silvia/Kuya Homer & Ate Johanna/Raul**
-- Dropping by for meals on 10-12 October
+- Dropping by for meals on 10-12 October. 
 - It's ok to be about 1hr early or late to meals
 - If you have time, the cats would be so happy with play time with a wand toy before their meal
-- Ate Silvia/Kuya Homer meal times:
--	Friday, 10 October - breakfast 8.45am and dinner 4-7pm (special times for this day only)
-- 	Saturday, 11 October breakfast 7.30am
-- 	Sunday, 12 October breakfast 7.30am
-- Ate Johanna/Raul meal times:
+
+Ate Silvia/Kuya Homer meal times:
+- Friday, 10 October - breakfast 8.45am and dinner 4-7pm (special times for this day only)
+- Saturday, 11 October breakfast 7.30am
+- Sunday, 12 October breakfast 7.30am
+
+Ate Johanna/Raul meal times:
 - 	Saturday, 11 October dinner 5.30pm
 - 	Sunday, 12 October dinner 5.30pm
 
