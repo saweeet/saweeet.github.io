@@ -90,16 +90,21 @@ See a typical feeding time here: [Feeding Video](https://drive.google.com/file/d
 ## Handling Tips
 
 **Soba**
-- Soba enjoys face, forehead, neck, and under-chin scratches.
+- Soba enjoys forehead, cheek, chin, neck and ear scratches (basically his whole head and neck).
 - Soba loves being picked up and held.
-- He dislikes tummy scratches and scratches on his lower back near his tail.
+- He dislikes tummy scratches and scratches on his bottom half.
 - Pay attention to body language to avoid bites. See the [cat language cheatsheet](./cat-sitting/#cat-language-cheatsheet) section to help understand.
 
 **Laksa**
-- Laksa loves to play, especially with wand toys.
-- Laksa likes butt scratches (her lower back above her tail).
+- Laksa loves to play, especially with wand toys and tinsel balls.
+- Laksa loves cheek, forehead and chin scratches.
+- If she's standing, she adores butt scratches (her lower back above her tail).
+- She doesn't like her tummy or paws being touched.
 - Pay attention to Laksa's body language to avoid bites. See the [cat language cheatsheet](./cat-sitting/#cat-language-cheatsheet) section to help understand.
 - She can be a bit restless when being picked up. If she is wriggling to get out of your arms, slowly place her down. Avoid letting Laksa jump out of your arms by holding her firmly. This will teach Laksa to wait for you to place her down.
+- You can lure Laksa in with a cooing baby voice. Laksa loves to gallop towards you from across the house when you say hello.
+- Feel free to say hi to her while she's lying down, she loves getting head scratches.
+- Let Laksa come and go freely so she can trust you.
 
 ## Cat play/fights
 
