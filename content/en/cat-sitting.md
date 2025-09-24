@@ -13,7 +13,7 @@ Hello,
 Thank you for agreeing to look after our cats Soba and Laksa. Kindly see their care instructions below. Should you have any questions, please feel free to reach out to us via Whatsapp.
 
 ---
-# Arrivals & Departures 
+# Arrivals & departures 
 
 ## Cat sitters
 
@@ -39,7 +39,7 @@ Ate Johanna/Raul meal times:
 - 	Saturday, 11 October dinner 5.30pm
 - 	Sunday, 12 October dinner 5.30pm
 
-## Front Door Entering & Leaving
+## Front door: Entering & leaving
 - Soba and Laksa are indoor-only cats.
 - When entering, lead with your foot to prevent them from dashing outside.
 - If returning home after a while, close the door behind you and go to the kitchen first to give them a snack (Greenies). This teaches the cats to follow you to the kitchen instead of running out the front door. Say ‘Sit’ and when both are sitting, say ‘Good job’ and immediately place a treat on the floor in front of each cat.
@@ -53,7 +53,7 @@ Ate Johanna/Raul meal times:
 You may leave the screen door unlocked.
 
 ---
-# Housesitter Responsibilities: Quick Checklists
+# Housesitter responsibilities: Quick checklists
 
 **Daily responsibilities**
 - Feed breakfast and dinner
@@ -67,7 +67,7 @@ You may leave the screen door unlocked.
 - For Deb/Janik: run a cleaning cycle for the coffee machine with the silicone disc (20s x 5)
 
 ---
-# Soba and Laksa's Meal Routine
+# Soba and Laksa's meal routine
 
 - **Feeding Times:** 7:30am and 5:30pm each day. It’s ok to occasionally be off by about an hour depending on your schedule.
 - **Playtime** (optional): 5–10 minutes before each meal with a wand toy(s).
@@ -76,7 +76,7 @@ You may leave the screen door unlocked.
 
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeROeX4F4BKPBuKMjrh-BcXelch6M09yYAnBdJe17x2LIdOLnsL-Kd4cQTW4ngrH_txQjjc4tsW1CjjquRZNfZVdS_BVObXGsjKZhv1f5nYNzTpf1_VlpB-ESYQS_sbzMTUI_V_JWBKLdx9wPNWQacMY2I?key=_6lhS3vg6BtRTelOzHpsrbu0)**
 
-## Feeding Steps
+## Feeding steps
 1. Bring both bowls of food to the feeding area.
 2. Say "Sit" once. Avoid repeating the command.
 3. Once both are sitting, place bowls down. 
