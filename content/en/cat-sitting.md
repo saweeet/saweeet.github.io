@@ -146,6 +146,8 @@ These easy signs indicate a higher risk of biting due to irritation or hunting/p
 - airplane/flattened ears
 - whipping tail
 
+Soba is highly tolerant even during this state, but Laksa has a higher chance of gently biting.
+
 ## Don'ts
 - Don't play with your hands or fingers. Always use a wand or toy instead. This is so cats will not view human hands as toys, greatly reducing the chance of biting and scratching. 
 - Do not continue to give them attention (petting or playing with them) if they do something incorrect (going on top of a benchtop, any kind of bites, etc.).
