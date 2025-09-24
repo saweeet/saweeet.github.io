@@ -26,15 +26,13 @@ Thank you for agreeing to look after our cats Soba and Laksa. Kindly see their c
 **Ate Silvia/Kuya Homer & Ate Johanna/Raul**
 - Dropping by for meals on 10-12 October
 - If you have time, the cats would be so happy with play time with a wand toy before their meal
-
-Ate Silvia/Kuya Homer meal times
-- Friday 10 October - breakfast 8.45am and dinner 4-7pm (special times for this day only)
-- Saturday 11 October breakfast 7.30am
-- Sunday 12 October breakfast 7.30am
-
-Ate Johanna/Raul meal times
-- Saturday 11 October dinner 5.30pm
-- Sunday 12 October dinner 5.30pm
+- Ate Silvia/Kuya Homer meal times:
+-	Friday 10 October - breakfast 8.45am and dinner 4-7pm (special times for this day only)
+- 	Saturday 11 October breakfast 7.30am
+- 	Sunday 12 October breakfast 7.30am
+- Ate Johanna/Raul meal times:
+- 	Saturday 11 October dinner 5.30pm
+- 	Sunday 12 October dinner 5.30pm
 
 **Front door entering/leaving**
 - When entering, lead with your foot as you open the door to block any cats from sneaking out the front door. Once inside, close the door behind you and head straight to the kitchen area to give them both a treat (Greenies). This teaches the cats to follow you straight to the kitchen for a treat instead of running out the front door. Say ‘Sit’ and when both are sitting, say ‘Good job’ and immediately place a treat on the floor in front of each cat.
