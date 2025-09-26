@@ -1,8 +1,8 @@
 ---
 title: Cat Sitting Instructions for Soba and Laksa
 date: 2025-01-20
-tags: 
-series: 
+tags:
+series:
 draft: false
 ---
 
@@ -70,6 +70,7 @@ You may leave the screen door unlocked.
 # Soba and Laksa's meal routine
 
 {{< youtube D7hhVq6CGDo >}}
+
 
 - **Feeding Times:** 7:30am and 5:30pm each day. It’s ok to occasionally be off by about an hour depending on your schedule.
 - **Playtime** (optional): 5–10 minutes before each meal with a wand toy(s).
