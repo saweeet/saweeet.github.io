@@ -19,6 +19,9 @@
     <loc>http://localhost:1313/cat-sitting/</loc>
     <lastmod>2025-01-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/house-inspecting/</loc>
+    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/kitchen/smoking-steak/</loc>
     <lastmod>2025-01-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -78,8 +81,6 @@
   </url><url>
     <loc>http://localhost:1313/projects/bye-google-photos-hello-immich/</loc>
     <lastmod>2022-02-20T12:04:16-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/house-inspecting/</loc>
   </url><url>
     <loc>http://localhost:1313/prayers/glorious-mysteries-wednesday-_-sunday/</loc>
   </url><url>

@@ -36,8 +36,8 @@ Ate Silvia/Kuya Homer meal times:
 - Sunday, 12 October breakfast 7.30am
 
 Ate Johanna/Raul meal times:
-- 	Saturday, 11 October dinner 5.30pm
-- 	Sunday, 12 October dinner 5.30pm
+- Saturday, 11 October dinner 5.30pm
+- Sunday, 12 October dinner 5.30pm
 
 ## Front door: Entering & leaving
 - Soba and Laksa are indoor-only cats.
@@ -69,12 +69,12 @@ You may leave the screen door unlocked.
 ---
 # Soba and Laksa's meal routine
 
+{{< youtube D7hhVq6CGDo >}}
+
 - **Feeding Times:** 7:30am and 5:30pm each day. It’s ok to occasionally be off by about an hour depending on your schedule.
 - **Playtime** (optional): 5–10 minutes before each meal with a wand toy(s).
 - **Food:** Measure dry food (from the pantry) and wet food (from the fridge). Follow the measurements labeled on the dry container.
 - **Scale:** Turn off the scale by pressing **tare** (the button to make it zero) twice. If it runs out of battery, you'll find batteries in the bottom drawer (same drawer as cling wrap and foil).
-
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeROeX4F4BKPBuKMjrh-BcXelch6M09yYAnBdJe17x2LIdOLnsL-Kd4cQTW4ngrH_txQjjc4tsW1CjjquRZNfZVdS_BVObXGsjKZhv1f5nYNzTpf1_VlpB-ESYQS_sbzMTUI_V_JWBKLdx9wPNWQacMY2I?key=_6lhS3vg6BtRTelOzHpsrbu0)**
 
 ## Feeding steps
 1. Bring both bowls of food to the feeding area.
@@ -85,10 +85,6 @@ You may leave the screen door unlocked.
 6. Wait for Soba to sit and make eye contact with you. Then say "Good job" to signal that he and Laksa can start eating. **Hint:** I use my left hand to block Laksa while I look at Soba and wait for him to make eye contact.
 7. Laksa eats from the left bowl, Soba eats from the right bowl.
 8. Stop any attempts to eat from each other's bowl (Soba may do this when he’s finished his bowl). If all food is eaten, licking each other's empty bowls afterward is fine.
-   **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdRcqSugWpI32-xXZYTTfeyt_2KPJPIBmejhh_5ElK-ULSDIVzQ5Zs2-_vIBdAWnGB2Jkb2oRuVeZdBnGQuNLMMjH6e6rcWci0_ZvAuUo1dcragM5yIrK6TalvXpQ7vSGce_dkjk04NRSWD3iUqufJeQH7Z?key=_6lhS3vg6BtRTelOzHpsrbu0)**
-
-
-See a typical feeding time here: [Feeding Video](https://drive.google.com/file/d/1UHcSNu7qQpUvrl3b-K-Rem_-jjNW2gM2/view?usp=sharing)
 
 ---
 # Cat 101 & discipline guidelines
@@ -149,7 +145,6 @@ See https://www.youtube.com/shorts/N2oAwgx5mCg to see how this is done.
 
 ## Cat language cheatsheet
  
-
 ![1](https://images.theconversation.com/files/312083/original/file-20200127-81362-g6phtu.jpg)
 
 **Signs of irritation or bite-mode**
