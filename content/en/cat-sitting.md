@@ -94,7 +94,7 @@ You may leave the screen door unlocked.
 - If a cat bites you while on you, say "No" firmly, place them down, and ignore them.
 
 ## Kitchen counter
-- If you see either cat on the benchtop or dining table, say "No" firmly. If they don't jump down, gently place them on the floor. Laksa is untrained and will need to be gently picked up and placed on the floor.
+- If you see either cat on the **benchtop** or **dining table**, say "No" firmly. If they don't jump down, gently place them on the floor. Laksa is untrained and will need to be gently picked up and placed on the floor.
 - Make sure no uncovered food or dirty dishes are left out. Place dirty dishes face down in the sink or directly into the dishwasher to avoid them getting sick or tempted.
 - If you're cooking or eating and either Soba or Laksa keeps repeatedly jumping up on the benchtop or dining table, you may move them out of the kitchen by closing both sliding doors.
 - Soba might want to sit on your lap while you're eating at the dining table. This is fine, if you don't mind it. Ensure Soba does not place his paws on the table or eat your food - say 'No' firmly and remove his paws if he tries. If he keeps trying, place him back down.

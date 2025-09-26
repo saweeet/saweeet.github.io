@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "right": {
     "id": "3792ac676626e806",
@@ -180,21 +181,21 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "41d9cbf3fb87c0a7",
+  "active": "098f850eb9b3710d",
   "lastOpenFiles": [
+    "Untitled.md",
+    "content/en/cat-sitting.md",
     "resources/_gen/assets/sass/style.sass_e653852fe4feba18bb5b6c0cd70175ed.json",
     "resources/_gen/assets/sass/style.sass_e653852fe4feba18bb5b6c0cd70175ed.content",
     "resources/_gen/assets/sass",
     "resources/_gen/assets",
     "resources/_gen",
-    "content/en/cat-sitting.md",
     "content/en/House-Inspecting.md",
     "public/house-inspecting/index.html",
     "public/house-inspecting",
     "Untitled 2.md",
     "content/en/theology/Why you should believe.md",
     "Untitled 1.md",
-    "Untitled.md",
     "content/en/projects/3dPrints.md",
     "public/images/guestwifi.png",
     "content/en/images/guestwifi.png",
