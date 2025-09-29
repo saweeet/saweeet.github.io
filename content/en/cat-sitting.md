@@ -260,6 +260,15 @@ Use the Stremio or Prime app for movies and TV shows. Feel free to use YouTube a
 **Casting to the TV from your laptop**
 The TV is on a different network so you will need to connect to a different Wi-Fi network if you would like to cast anything. Ask Jeremy for details.
 
+## Alexa
+
+- Alexa can turn lights on/off with voice commands.  
+- Lights are configured by room:
+  - **Living room**: "Turn on lights" will switch on all lamps.  
+  - **Kitchen**: "Turn on lights" will switch on the bench light, splashback, and sink light.  
+- A common command we like to use a bedtime: "Alexa, turn off all the lights".  
+- If lamps are turned off manually, they disconnect from the internet, and Alexa cannot control them.  
+
 ## Coffee machine operation
 - Shorts link: [https://www.youtube.com/shorts/BqlXmq-OdXk](https://www.youtube.com/shorts/BqlXmq-OdXk)
 - Use filtered water to refill the water tank. Do not exceed the max line. Do not run the machine on empty water.

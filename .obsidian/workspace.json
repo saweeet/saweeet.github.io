@@ -11,14 +11,14 @@
             "id": "41d9cbf3fb87c0a7",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "content/en/Korean-Cheat-Sheet.md",
-                "bFile": "content/en/Korean-Cheat-Sheet.md",
-                "aRef": ""
+                "file": "content/en/cat-sitting.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Korean-Cheat-Sheet"
+              "icon": "lucide-file",
+              "title": "cat-sitting"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/House-Inspecting.md",
+                "file": "content/en/cat-sitting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of House-Inspecting"
+              "title": "Outline of cat-sitting"
             }
           },
           {
@@ -180,12 +180,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "41d9cbf3fb87c0a7",
+  "active": "098f850eb9b3710d",
   "lastOpenFiles": [
     "content/en/Korean-Cheatsheet.md",
+    "Untitled.md",
     "public/korean-cheatsheet/index.html",
     "public/korean-cheatsheet",
-    "Untitled.md",
     "content/en/House-Inspecting.md",
     "content/en/cat-sitting.md",
     "public/korean-cheat-sheet/index.html",
