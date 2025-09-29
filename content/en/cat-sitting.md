@@ -49,7 +49,7 @@ Ate Johanna/Raul meal times:
 ## Keys and security
 1. Wake the keypad by touching it.
 2. Enter your PIN: type the 4–12 digit PIN when all buttons are visible.
-3. Press the [*] button to complete—the door will unlock if the PIN is correct.
+3. Press the Tick button (bottom left) to complete—the door will unlock if the PIN is correct.
 You may leave the screen door unlocked.
 
 ---
@@ -61,8 +61,8 @@ You may leave the screen door unlocked.
 
 **Weekly responsibilities**
 - Roll out bins on Monday nights
-- Replace cat litter bin bags
-- Top up litter sand if needed
+- Replace cat litter bin bags (best on Monday)
+- Top up litter sand if needed 
 - Water plants
 - For Deb/Janik: run a cleaning cycle for the coffee machine with the silicone disc (20s x 5)
 
