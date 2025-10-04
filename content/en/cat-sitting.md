@@ -19,7 +19,7 @@ Thank you for agreeing to look after our cats Soba and Laksa. Kindly see their c
 
 **Deb and Janik**
 - Arrive Monday, 29 September for breakfast (arriving around 8am)
-- Leave Thursday, 9 October any time after 5:30pm dinner.
+- Leave Friday, 10 October any time after 7:30am breakfast.
 
 **Lawrence**
 - Arrive in time for Monday, 13 October breakfast at 7:30am.
@@ -31,7 +31,7 @@ Thank you for agreeing to look after our cats Soba and Laksa. Kindly see their c
 - If you have time, the cats would be so happy with play time with a wand toy before their meal
 
 Ate Silvia/Kuya Homer meal times:
-- Friday, 10 October - breakfast 8.45am and dinner 4-7pm (special times for this day only)
+- Friday, 10 October dinner 4-7pm (special times for this day only)
 - Saturday, 11 October breakfast 7.30am
 - Sunday, 12 October breakfast 7.30am
 
