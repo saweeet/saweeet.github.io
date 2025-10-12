@@ -53,6 +53,39 @@ Salve Regina - imjeremy
         
     </head>
     <body>
+        <div class="theme-toggle" onclick="toggleTheme()" title="Toggle theme">
+  <span id="theme-icon">●</span>
+</div>
+
+<script>
+function toggleTheme() {
+  const body = document.body;
+  const icon = document.getElementById('theme-icon');
+  
+  if (body.classList.contains('light-mode')) {
+    body.classList.remove('light-mode');
+    icon.textContent = '●';
+    localStorage.setItem('theme', 'dark');
+  } else {
+    body.classList.add('light-mode');
+    icon.textContent = '○';
+    localStorage.setItem('theme', 'light');
+  }
+}
+
+
+document.addEventListener('DOMContentLoaded', function() {
+  const savedTheme = localStorage.getItem('theme');
+  const icon = document.getElementById('theme-icon');
+  
+  if (savedTheme === 'light') {
+    document.body.classList.add('light-mode');
+    icon.textContent = '○';
+  } else {
+    icon.textContent = '●';
+  }
+});
+</script>
         <section id="top" class="section">
             
             <div class="container hero  fade-in one ">

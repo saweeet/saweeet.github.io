@@ -180,22 +180,24 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "41d9cbf3fb87c0a7",
+  "active": "098f850eb9b3710d",
   "lastOpenFiles": [
-    "content/en/cat-sitting.md",
-    "Untitled.md",
+    "layouts/_default/baseof.html",
+    "layouts/_default",
+    "layouts/partials/theme-toggle.html",
+    "layouts/partials",
+    "content/en/todays-mass.md",
+    "public/todays-mass/index.html",
+    "public/todays-mass",
     "content/en/Korean-Cheatsheet.md",
+    "content/en/House-Inspecting.md",
+    "Untitled.md",
+    "content/en/cat-sitting.md",
     "public/korean-cheatsheet/index.html",
     "public/korean-cheatsheet",
-    "content/en/House-Inspecting.md",
     "public/korean-cheat-sheet/index.html",
     "public/korean-cheat-sheet",
     "public/cat-sitting-1/index.html",
-    "public/cat-sitting-1",
-    "resources/_gen/assets/sass/style.sass_e653852fe4feba18bb5b6c0cd70175ed.json",
-    "resources/_gen/assets/sass/style.sass_e653852fe4feba18bb5b6c0cd70175ed.content",
-    "resources/_gen/assets/sass",
-    "resources/_gen/assets",
     "Untitled 2.md",
     "content/en/theology/Why you should believe.md",
     "Untitled 1.md",
@@ -225,7 +227,6 @@
     "content/en/theology/My favourite Catholic Resources.md",
     "content/en/projects/web scrapper.md",
     "content/en/projects/Capcut.md",
-    "content/en/projects/Inventory Searcher.md",
-    "content/en/projects/kristy.md"
+    "content/en/projects/Inventory Searcher.md"
   ]
 }

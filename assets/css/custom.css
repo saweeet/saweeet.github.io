@@ -16,8 +16,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
    /*  color: black !important; Ensure links are also black */
 }
 
-/* Floating TOC 
-background: rgba(255, 255, 255, 0.05);*/
+/* Floating TOC */
 .floating-toc {
   position: fixed;
   top: 0;
@@ -136,7 +135,7 @@ background: rgba(255, 255, 255, 0.05);*/
   opacity: 0.8;
 }
 
-/* Dark mode table styling */
+/* Table styling */
 table {
   border-collapse: collapse !important;
   width: 100% !important;
@@ -174,6 +173,54 @@ tr:hover {
 @media (min-width: 769px) {
   .mobile-toc {
     display: none !important;
+  }
+}
+
+/* Light mode styles */
+@media (prefers-color-scheme: light) {
+  .floating-toc {
+    background: rgba(255, 255, 255, 0.95) !important;
+    border-right: 1px solid rgba(0, 0, 0, 0.1) !important;
+  }
+  
+  .floating-toc nav a {
+    color: rgba(0, 0, 0, 0.8) !important;
+  }
+  
+  .floating-toc nav a:hover {
+    color: #000 !important;
+  }
+  
+  .floating-toc::before {
+    color: rgba(0, 0, 0, 0.8) !important;
+  }
+  
+  .mobile-toc {
+    background: rgba(0, 0, 0, 0.05) !important;
+    border: 1px solid rgba(0, 0, 0, 0.1) !important;
+  }
+  
+  table {
+    background: rgba(0, 0, 0, 0.05) !important;
+    border: 1px solid rgba(0, 0, 0, 0.1) !important;
+  }
+  
+  th, td {
+    border: 1px solid rgba(0, 0, 0, 0.2) !important;
+    color: rgba(0, 0, 0, 0.9) !important;
+  }
+  
+  th {
+    background: rgba(0, 0, 0, 0.1) !important;
+    color: rgba(0, 0, 0, 0.95) !important;
+  }
+  
+  tr:nth-child(even) {
+    background: rgba(0, 0, 0, 0.03) !important;
+  }
+  
+  tr:hover {
+    background: rgba(0, 0, 0, 0.08) !important;
   }
 }
 
