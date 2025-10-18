@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/cat-sitting.md",
+                "file": "content/en/todays-mass.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cat-sitting"
+              "title": "todays-mass"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/cat-sitting.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cat-sitting"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -180,8 +180,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "098f850eb9b3710d",
+  "active": "41d9cbf3fb87c0a7",
   "lastOpenFiles": [
+    "Untitled.md",
+    "content/en/cat-sitting.md",
     "layouts/_default/baseof.html",
     "layouts/_default",
     "layouts/partials/theme-toggle.html",
@@ -191,13 +193,10 @@
     "public/todays-mass",
     "content/en/Korean-Cheatsheet.md",
     "content/en/House-Inspecting.md",
-    "Untitled.md",
-    "content/en/cat-sitting.md",
     "public/korean-cheatsheet/index.html",
     "public/korean-cheatsheet",
     "public/korean-cheat-sheet/index.html",
     "public/korean-cheat-sheet",
-    "public/cat-sitting-1/index.html",
     "Untitled 2.md",
     "content/en/theology/Why you should believe.md",
     "Untitled 1.md",
