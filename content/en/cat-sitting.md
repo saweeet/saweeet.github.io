@@ -169,8 +169,8 @@ Occasionally Laksa or Soba might vomit out a bunch of fur (hairball). This is he
 ---
 # Automatic devices
 
-## Automatic litter box
-- Note for Abbey - no need to change or check the litter box since your stay is short. Our app will alert us there are any malfunctions.
+## Automatic litter box 
+- Note for Abbey - no need to change or check the litter box since your stay is short. Our app will alert us if there are any malfunctions.
 - The cat litter box bin needs replacing once a week. Monday (day before bin collection) is a great time to do this. Bin bags are found in cabinet to the left of the litter box, top shelf in the red bag. 
 - The litter sand sometimes needs topping up (about once a fortnight). Consider topping up if it's 2 inches below the guiding line. Add sand to how much you think would flatten to the line. Then click ‘cycle’. Litter sand is found in the left cabinet, at the bottom.
 - The litter box light meanings: blue = ready; red = cat detected/litter used (will cycle in 7 minutes to allow time for sand to clump); moving white dots = cycle in progress. Any other lights may indicate an issue. You can let us know, we should also get notification on our phones to find the issue.
@@ -186,12 +186,8 @@ Occasionally Laksa or Soba might vomit out a bunch of fur (hairball). This is he
 ---
 # Home
 
-## Bin collections
+## Bin collections (N/A for Abbey)
 Take bins out on Monday nights for a Tuesday collection.
-- September 29 - we will take the bins out, you just need to roll them back in after Tuesday collection.
-- October 6 - red waste + green 
-- October 13 - red waste + yellow recycling
-- October 20 - red waste + green
 
 ## Kitchen maintenance
 - Wipe all spills immediately with a damp cloth. Simple water will do for cabinets and benchtops. If water doesn't clean it, you could also dab a wet cloth with gentle dishwashing liquid found under the sink. Or for the stone benchtops, use the stone friendly spray found under the sink.
@@ -255,7 +251,6 @@ The TV is on a different network so you will need to connect to a different Wi-F
 - Use filtered water to refill the water tank. Do not exceed the max line. Do not run the machine on empty water.
 - The red flag will appear when the tray is full of water. Bring the tray to the sink and tip water into the sink. Briefly rinse the sink afterwards to avoid coffee stains.
 - For hot water, you can use either the coffee machine or the kettle found in the bottom drawer below the stove.
-- For Deb/Janik: please run a clean once a week using the grey silicone cleaning disc. I do 20 seconds x 5 times.
 
 ## Aircon/heater & fireplace operation
 - All bedrooms have aircon and heaters with their own remotes. Each white remote is kept on a table in their bedroom. If it's a hot day, you can leave them running on max with the doors open to cool the whole house. There is also a fan in the music room.
@@ -269,7 +264,7 @@ Some window winders hit the metal screen. Press the metal screen forward to use 
 - Kindly request guests to be mindful of the cats when entering and leaving the house. Remind them to avoid leaving the front door open for long periods of time. See *[Outdoor Safety](./cat-sitting/#outdoor-safety)* section.
 - Kindly educate guests if they are violating any of the points in the *[Don'ts](./cat-sitting/#donts)* section
 - Feel free to move furniture around to accommodate additional seating.
-- There are about 12 additional foldable black seats in the outside shed. 
+- There are about 12 additional foldable black seats in the outside shed behind the house.
 - There are also 2 foldable tables in the outside shed.
 
 ---
