@@ -144,7 +144,7 @@ Soba is highly tolerant even during this state, but Laksa has a higher chance of
 
 ## Do's
 - Please do send some videos of them each day, even if they're just lazying around.
-- You are free to give the cats treats to reward good behaviour like sitting or cuddling with you. It’s great for bonding. You can use Greenies found in their shelf in the pantry. We recommend the final treat for the day to be Greenies (e.g. just before you go to bed), it ‘brushes’ their teeth. If you give them a lot that day (e.g. >10 Greenies), consider reducing their dry dinner down from 20g to 15g.
+- You are free to give the cats treats to reward good behaviour like sitting or cuddling with you. It’s great for bonding. You can use Greenies found in their shelf in the pantry. We recommend the final treat for the day to be Greenies (e.g. just before you go to bed), it ‘brushes’ their teeth. If you give them a lot that day (e.g. >10 Greenies), consider reducing their dry dinner down from 16g to 13g.
 
 ## Cat safety
 
@@ -158,7 +158,7 @@ The following common items are toxic or fatal to cats:
 - coffee
 - ibuprofen (NSAIDs), panadol and other medicines
 - rubber bands and hairties
-- essential oils
+- essential oils (including sprays and diffusers)
 
 Always keep medicines out of reach - e.g. return tablets to their boxes immediately after use.
 
