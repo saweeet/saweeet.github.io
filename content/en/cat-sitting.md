@@ -15,29 +15,11 @@ Thank you for agreeing to look after our cats Soba and Laksa. Kindly see their c
 ---
 # Arrivals & departures 
 
-## Cat sitters
+## Timings
 
-**Deb and Janik**
-- Arrive Monday, 29 September for breakfast (arriving around 8am)
-- Leave Friday, 10 October any time after 7:30am breakfast.
-
-**Lawrence**
-- Arrive in time for Monday, 13 October breakfast at 7:30am.
-- Leave any time after Tuesday, 21 October 5:30pm dinner. We return Wednesday, 22 October around 7am.
-
-**Ate Silvia/Kuya Homer & Ate Johanna/Raul**
-- Dropping by for meals on 10-12 October. 
-- It's ok to be about 1hr early or late to meals
-- If you have time, the cats would be so happy with play time with a wand toy before their meal
-
-Ate Silvia/Kuya Homer meal times:
-- Friday, 10 October dinner 4-7pm (special times for this day only)
-- Saturday, 11 October breakfast 7.30am
-- Sunday, 12 October breakfast 7.30am
-
-Ate Johanna/Raul meal times:
-- Saturday, 11 October dinner 5.30pm
-- Sunday, 12 October dinner 5.30pm
+**Abbey**
+- Arrive Friday, 31 October Monday, 29 September, any time before dinner 5.30pm. We will be leaving home at around 8-9am.
+- Leave Monday, 3 November any time after 7:30am breakfast - if you need to leave earlier on this last day then an early breakfast is fine. We will return around early afternoon.
 
 ## Front door: Entering & leaving
 - Soba and Laksa are indoor-only cats.
