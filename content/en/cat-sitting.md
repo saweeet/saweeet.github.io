@@ -50,7 +50,7 @@ Please watch:
 {{< youtube D7hhVq6CGDo >}}
 
 
-- **Feeding Times:** 7:30am and 5:30pm each day. It’s ok to occasionally be off by about an hour depending on your schedule.
+- **Feeding Times:** 7:30am and 5:30pm each day. It’s ok to occasionally be up to an hour early or late. But it's best to avoid this if possible, to reduce Soba's food aggression towards Laksa.
 - **Playtime** (optional): 5–10 minutes before each meal with a wand toy(s).
 - **Food:** Measure dry food (from the pantry) and wet food (from the fridge). Follow the measurements labeled on the dry container.
 - **Scale:** Turn off the scale by pressing **tare** (the button to make it zero) twice. If it runs out of battery, you'll find batteries in the bottom drawer (same drawer as cling wrap and foil).
