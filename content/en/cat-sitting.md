@@ -42,13 +42,6 @@ You may leave the screen door unlocked.
 - Check water fountains are working
 - Send cat photos/videos via Whatsapp - if possible we'd really appreciate daily pics/vids of our cats ❤️
 
-**Weekly responsibilities**
-- Roll out bins on Monday nights
-- Replace cat litter bin bags (best on Monday)
-- Top up litter sand if needed 
-- Water plants
-- For Deb/Janik: run a cleaning cycle for the coffee machine with the silicone disc (20s x 5)
-
 ---
 # Soba and Laksa's meal routine
 
