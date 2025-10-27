@@ -26,7 +26,7 @@ Thank you for agreeing to look after our cats Soba and Laksa. Kindly see their c
 - When entering, lead with your foot to prevent them from dashing outside.
 - If returning home after a while, close the door behind you and go to the kitchen first to give them a snack (Greenies). This teaches the cats to follow you to the kitchen instead of running out the front door. Say ‘Sit’ and when both are sitting, say ‘Good job’ and immediately place a treat on the floor in front of each cat.
 - Keep external doors closed to prevent cats from running outside. If having guests over, see our [Having Guests over](./cat-sitting/#having-guests-over) section below.
-- If you need to leave the front door open for long periods, place the cats in the kitchen area with both sliding doors closed. For example, until all guests have arrived or when you need to bring in lots of shopping/groceries. 
+- If you need to leave the front door open for long periods, place the cats in the kitchen area with both glass sliding doors closed. For example, until all guests have arrived or when you need to bring in lots of shopping/groceries. 
 
 ## Keys and security
 1. Wake the keypad by touching it.
