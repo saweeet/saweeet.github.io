@@ -59,7 +59,7 @@ Please watch:
 1. Bring both bowls of food to the feeding area.
 2. Say "Sit" once. Avoid repeating the command.
 3. Once both are sitting, place bowls down. 
-4. Hold Laksa back (she doesn’t know ‘stay’ yet) using one or both of your arms to block her from her bowl.
+4. Hold Laksa back (she doesn’t know ‘stay’ yet) using your arm to block her from her bowl.
 5. If Soba tries to eat before your signal, say "No" firmly and block him with your arm or pull/push him away from his bowl.
 6. Wait for Soba to sit and make eye contact with you. Then say "Good job" to signal that he and Laksa can start eating. **Hint:** I use my left hand to block Laksa while I look at Soba and wait for him to make eye contact.
 7. Laksa eats from the left bowl, Soba eats from the right bowl.
