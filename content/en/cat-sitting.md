@@ -18,8 +18,8 @@ Thank you for agreeing to look after our cats Soba and Laksa. Kindly see their c
 ## Timings
 
 **Abbey**
-- Arrive Friday, 31 October Monday, 29 September, any time before dinner 5.30pm. We will be leaving home at around 8-9am.
-- Leave Monday, 3 November any time after 7:30am breakfast - if you need to leave earlier on this last day then an early breakfast is fine. We will return around early afternoon.
+- Arrive Friday, 31 October before dinner 5.30pm. We will be leaving home at around 8-9am.
+- Leave Monday, 3 November after 7:30am breakfast - if you need to leave earlier on this last day then an early breakfast is fine. We will return around early afternoon.
 
 ## Front door: Entering & leaving
 - Soba and Laksa are indoor-only cats.
