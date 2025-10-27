@@ -40,6 +40,7 @@ You may leave the screen door unlocked.
 **Daily responsibilities**
 - Feed breakfast and dinner
 - Check water fountains are working
+- Send cat photos/videos via Whatsapp - if possible we'd really appreciate daily pics/vids of our cats ❤️
 
 **Weekly responsibilities**
 - Roll out bins on Monday nights
