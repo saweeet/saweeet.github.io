@@ -178,7 +178,7 @@ Occasionally Laksa or Soba might vomit out a bunch of fur (hairball). This is he
 - If there are any messes outside of the box (rare), you can use disinfectant spray and wipes to clean.
 
 ## Water fountains
-- There are two water fountains, located in the living room and the office.
+- There are two water fountains, located in the living room and the dining room.
 - Water should be freely flowing.
 - If blinking or intermittently spurting out water, kindly add more water.
 - Make sure at least one is running so that cats always have access to water.
