@@ -81,9 +81,9 @@ Please watch:
 ## Handling tips
 
 **Soba**
-- Soba enjoys forehead, cheek, chin, neck and ear scratches (basically his whole head and neck).
+- Soba enjoys forehead, cheek, chin, neck and ear scratches.
 - Soba loves being picked up and held.
-- Soba is very tolerant to long cuddles.
+- Soba is very tolerant to cuddles.
 - He dislikes tummy scratches and scratches on his bottom half.
 - Pay attention to body language to avoid bites. See the [cat language cheatsheet](./cat-sitting/#cat-language-cheatsheet) section to help understand.
 
@@ -96,19 +96,19 @@ Please watch:
 - She can be a bit restless when being picked up. If she is wriggling to get out of your arms, slowly place her down. Avoid letting Laksa jump out of your arms by holding her firmly. This will teach Laksa to wait for you to place her down.
 - You can lure Laksa in with a cooing baby voice. Laksa loves to gallop towards you from across the house when you say hello.
 - Feel free to say hi to her while she's lying down, she loves getting head scratches.
-- Let Laksa come and go freely so she can trust you. She doesn't mind being picked up for short periods but will let you know she's done by wriggling and pushing away from you.
+- Let Laksa come and go freely so she can trust you. She doesn't mind being picked up for short periods but will let you know she's done by pushing away from you.
 
 ## Cat play/fights
 
 Soba and Laksa like to play fight each day - this is healthy. Sometimes they annoy each other while play fighting and that's ok. Most fights are self-resolving and you don't need to do anything. 
 
-Occasionally, Soba won’t leave Laksa alone after she’s had enough and he tends to play rough. If you hear Laksa screeching for more than about 15s because Soba is pinning her down and she can’t escape, a loud clap or a stern ‘No’ will snap Soba out of it and give Laksa a chance to escape. We hardly have to do this since they’re getting along better but they might act differently in our absence. If you find they are doing this often, play time can help release their energy and get them tired. For example, if this tends to happen after you go to bed then play time before bed can help.
+Occasionally, Soba won’t leave Laksa alone after she’s had enough and he tends to play rough. If you hear Laksa screeching for more than about 10s because Soba is pinning her down and she can’t escape, a loud clap or a stern ‘No’ will snap Soba out of it and give Laksa a chance to escape. We hardly have to do this since they’re getting along better. If you find they are doing this often, play time can help release their energy and get them tired. For example, if this tends to happen after you go to bed then play time before bed can help.
 
 Feel free to take a video and send it to us on WhatsApp if you’re unsure.
 
 ## Picking up a cat
 
-There are two ways to pick up a cat. Whichever way, key is that the cat feels supported. Support the chest and back legs. 
+There are different ways to pick up a cat. Whichever way, key is that the cat feels supported. Support the chest and back legs. 
 
 **Method 1:**
 1. Scoop from under the chest
@@ -121,6 +121,8 @@ See https://www.youtube.com/shorts/N2oAwgx5mCg to see how this is done.
 1. One hand under armpit
 2. Other hand under belly
 3. Lift cat and put their front legs over your shoulder/upper arm
+
+Soba is also used to being cradled like a baby.
 
 ## Cat language cheatsheet
  
@@ -168,6 +170,7 @@ Occasionally Laksa or Soba might vomit out a bunch of fur (hairball). This is he
 # Automatic devices
 
 ## Automatic litter box
+- Note for Abbey - no need to change or check the litter box since your stay is short. Our app will alert us there are any malfunctions.
 - The cat litter box bin needs replacing once a week. Monday (day before bin collection) is a great time to do this. Bin bags are found in cabinet to the left of the litter box, top shelf in the red bag. 
 - The litter sand sometimes needs topping up (about once a fortnight). Consider topping up if it's 2 inches below the guiding line. Add sand to how much you think would flatten to the line. Then click ‘cycle’. Litter sand is found in the left cabinet, at the bottom.
 - The litter box light meanings: blue = ready; red = cat detected/litter used (will cycle in 7 minutes to allow time for sand to clump); moving white dots = cycle in progress. Any other lights may indicate an issue. You can let us know, we should also get notification on our phones to find the issue.
