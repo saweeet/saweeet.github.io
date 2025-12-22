@@ -16,17 +16,19 @@
             background: #000;
             color: #fff;
             overflow: hidden;
-            overflow-x: hidden;
             position: fixed;
             width: 100%;
             height: 100%;
         }
 
         .slides-container {
-            width: 100vw;
+            margin-left: 200px;
+            width: calc(100vw - 200px);
             height: 100vh;
             display: flex;
             flex-direction: column;
+            overflow: hidden;
+            position: relative;
         }
 
         .slide {
@@ -72,7 +74,7 @@
         }
 
         .step-number {
-            font-size: 28px;
+            font-size: 24px;
             font-weight: 300;
             color: #888;
             margin-bottom: 15px;
@@ -81,11 +83,12 @@
         }
 
         .step-content {
-            font-size: 36px;
+            font-size: 32px;
             font-weight: 400;
-            line-height: 1.6;
+            line-height: 1.5;
             color: #fff;
             max-width: 1000px;
+            margin-bottom: 10px;
         }
 
         .controls {
@@ -117,8 +120,8 @@
             border-radius: 50%;
         }
 
-        /* Circular Start Button */
-        .start-button {
+        .start-button,
+        .reset-button {
             width: 140px;
             height: 140px;
             border-radius: 50%;
@@ -139,25 +142,22 @@
         }
 
         @keyframes slowBlink {
-            0%, 100% {
-                opacity: 1;
-            }
-            50% {
-                opacity: 0.4;
-            }
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.4; }
         }
 
-        .start-button:hover {
+        .start-button:hover,
+        .reset-button:hover {
             background: #fff;
             color: #000;
             animation: none;
         }
 
-        .start-button:active {
+        .start-button:active,
+        .reset-button:active {
             transform: scale(0.95);
         }
 
-        /* Media/Image Placeholder */
         .media-placeholder {
             width: 400px;
             height: 300px;
@@ -189,11 +189,6 @@
             pointer-events: none;
         }
 
-        button.hidden:hover {
-            background: transparent;
-            color: #fff;
-        }
-
         .slide-counter {
             position: fixed;
             top: 60px;
@@ -207,24 +202,11 @@
             z-index: 10;
         }
 
-        /* Slide-specific styles */
-        .title-slide {
-            background: #000;
-        }
-
+        .title-slide,
         .complete-slide {
             background: #000;
         }
 
-        .step-icon {
-            width: 120px;
-            height: 120px;
-            margin: 0 auto 40px;
-            background: none;
-            border-radius: 0;
-        }
-
-        /* Sidebar Navigation */
         .sidebar {
             position: fixed;
             left: 0;
@@ -277,90 +259,6 @@
             border-left-color: #fff;
             background: #2a2a2a;
         }
-
-        /* Adjust main content to account for sidebar */
-        .slides-container {
-            margin-left: 200px;
-            width: calc(100vw - 200px);
-            overflow: hidden;
-            position: relative;
-        }
-
-        /* Circular Start Button */
-        .start-button {
-            width: 140px;
-            height: 140px;
-            border-radius: 50%;
-            border: 3px solid #fff;
-            background: transparent;
-            color: #fff;
-            font-size: 18px;
-            font-weight: 700;
-            cursor: pointer;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            transition: all 0.3s ease;
-            margin-top: 60px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            animation: slowBlink 2.5s ease-in-out infinite;
-        }
-
-        @keyframes slowBlink {
-            0%, 100% {
-                opacity: 1;
-            }
-            50% {
-                opacity: 0.4;
-            }
-        }
-
-        .start-button:hover {
-            background: #fff;
-            color: #000;
-            animation: none;
-        }
-
-        .start-button:active {
-            transform: scale(0.95);
-        }
-
-        /* Reset Button */
-        .reset-button {
-            width: 140px;
-            height: 140px;
-            border-radius: 50%;
-            border: 3px solid #fff;
-            background: transparent;
-            color: #fff;
-            font-size: 18px;
-            font-weight: 700;
-            cursor: pointer;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            transition: all 0.3s ease;
-            margin-top: 60px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            animation: slowBlink 2.5s ease-in-out infinite;
-            pointer-events: all;
-        }
-
-        .reset-button:hover {
-            background: #fff;
-            color: #000;
-            animation: none;
-        }
-
-        .reset-button:active {
-            transform: scale(0.95);
-        }
-
-        /* Hide next button on title slide */
-            display: none;
-        }
     </style>
 </head>
 <body>
@@ -369,78 +267,116 @@
         <div class="sidebar-title">Guide</div>
         <ul class="step-list">
             <li class="step-item active" data-step="0">Introduction</li>
-            <li class="step-item" data-step="1">Step 1: Prepare</li>
-            <li class="step-item" data-step="2">Step 2: Select Milk</li>
-            <li class="step-item" data-step="3">Step 3: Steam Milk</li>
-            <li class="step-item" data-step="4">Step 4: Insert Portafilter</li>
-            <li class="step-item" data-step="5">Step 5: Brew Espresso</li>
-            <li class="step-item" data-step="6">Step 6: Pour & Enjoy</li>
-            <li class="step-item" data-step="7">Finished</li>
+            <li class="step-item" data-step="1">Step 1: Equipment list</li>
+            <li class="step-item" data-step="2">Step 2: Preparation</li>
+            <li class="step-item" data-step="3">Step 3: Grind coffee</li>
+            <li class="step-item" data-step="4">Step 4: Brewing</li>
+            <li class="step-item" data-step="5">Step 5: Milk</li>
+            <li class="step-item" data-step="6">Step 6: Pour milk</li>
+            <li class="step-item" data-step="7">Step 7: Cleanup</li>
         </ul>
     </div>
 
     <div class="slides-container">
-        <!-- Slide 1: Title -->
+        <!-- Slide 1: Introduction -->
         <div class="slide active title-slide">
-            <h1>How to Make a Latte</h1>
-            <p class="subtitle">Breville Oracle Jet Touch</p>
-            <div style="margin-top: 40px; font-size: 24px; color: #888; letter-spacing: 1px; text-transform: uppercase;">Press Start to Begin</div>
+            <h1>How to Make a Coffee</h1>
+            <p class="subtitle">Follow the steps on the Oracle Jet Touch</p>
             <button class="start-button" id="start-btn">Start</button>
         </div>
 
-        <!-- Slide 2: Step 1 -->
+        <!-- Slide 2: Equipment list -->
         <div class="slide">
-            <div class="step-number">Step 1 of 6</div>
-            <h2>Prepare</h2>
-            <p class="step-content">Fill milk jug with fresh cold milk to just below the spout mark. Place jug under steam wand.</p>
-            <div class="media-placeholder">Image / Video</div>
+            <div class="step-number">Step 1 of 7</div>
+            <h2>Equipment list</h2>
+            <p class="step-content">
+                You will use: mug, portafilter, filter basket, milk jug, knock box and the Oracle Jet Touch screen.
+            </p>
+            <p class="step-content">
+                Make sure all items are within easy reach before you begin.
+            </p>
+            <div class="media-placeholder">All equipment layout</div>
         </div>
 
-        <!-- Slide 3: Step 2 -->
+        <!-- Slide 3: Preparation -->
         <div class="slide">
-            <div class="step-number">Step 2 of 6</div>
-            <h2>Select Milk Type</h2>
-            <p class="step-content">Tap the milk icon on screen. Choose your milk type: Dairy, Almond, Soy, or Oat.</p>
-            <div class="media-placeholder">Image / Video</div>
+            <div class="step-number">Step 2 of 7</div>
+            <h2>Preparation</h2>
+            <p class="step-content">
+                Check the bench is clear and dry and the machine is on and warmed up.
+            </p>
+            <p class="step-content">
+                Place a clean mug under the group head, then <strong>touch the drink icon on the screen</strong> to choose your coffee.
+            </p>
+            <div class="media-placeholder">Machine ready / drink selection</div>
         </div>
 
-        <!-- Slide 4: Step 3 -->
+        <!-- Slide 4: Grind coffee -->
         <div class="slide">
-            <div class="step-number">Step 3 of 6</div>
-            <h2>Steam the Milk</h2>
-            <p class="step-content">Press down the steam lever. The screen displays temperature in real time. Machine stops automatically at your set temperature.</p>
-            <div class="media-placeholder">Image / Video</div>
+            <div class="step-number">Step 3 of 7</div>
+            <h2>Grind coffee</h2>
+            <p class="step-content">
+                Insert the empty portafilter into the left grind position and lock it in place.
+            </p>
+            <p class="step-content">
+                When it is seated, <strong>touch the portafilter icon on the left</strong> to grind, dose and tamp automatically.
+            </p>
+            <div class="media-placeholder">Left icon / Portafilter</div>
         </div>
 
-        <!-- Slide 5: Step 4 -->
+        <!-- Slide 5: Brewing -->
         <div class="slide">
-            <div class="step-number">Step 4 of 6</div>
-            <h2>Insert Portafilter</h2>
-            <p class="step-content">Insert the portafilter into the group head. Press to lock. The machine will automatically grind, dose, and tamp.</p>
-            <div class="media-placeholder">Image / Video</div>
+            <div class="step-number">Step 4 of 7</div>
+            <h2>Brewing</h2>
+            <p class="step-content">
+                Move the prepared portafilter to the middle group head and lock it firmly.
+            </p>
+            <p class="step-content">
+                Check the mug is centred, then <strong>touch the middle brew icon</strong> to start extraction.
+            </p>
+            <div class="media-placeholder">Middle icon / Brew</div>
         </div>
 
-        <!-- Slide 6: Step 5 -->
+        <!-- Slide 6: Milk -->
         <div class="slide">
-            <div class="step-number">Step 5 of 6</div>
-            <h2>Brew Espresso</h2>
-            <p class="step-content">Tap the espresso icon. Machine extracts a double shot of espresso directly into your cup below the portafilter.</p>
-            <div class="media-placeholder">Image / Video</div>
+            <div class="step-number">Step 5 of 7</div>
+            <h2>Milk</h2>
+            <p class="step-content">
+                Fill the milk jug with cold milk to just below the spout line.
+            </p>
+            <p class="step-content">
+                Place the jug under the steam wand, then <strong>touch the milk icon on the right</strong> to steam automatically.
+            </p>
+            <div class="media-placeholder">Right icon / Milk</div>
         </div>
 
-        <!-- Slide 7: Step 6 -->
+        <!-- Slide 7: Pour milk -->
         <div class="slide">
-            <div class="step-number">Step 6 of 6</div>
-            <h2>Pour & Enjoy</h2>
-            <p class="step-content">Pour the steamed milk into the espresso cup. Top with a small layer of microfoam. Your latte is ready!</p>
-            <div class="media-placeholder">Image / Video</div>
+            <div class="step-number">Step 6 of 7</div>
+            <h2>Pour milk</h2>
+            <p class="step-content">
+                Slowly pour the steamed milk into the espresso in your mug.
+            </p>
+            <p class="step-content">
+                When the cup is full, set the jug down and enjoy your coffee.
+            </p>
+            <div class="media-placeholder">Pouring milk into espresso</div>
         </div>
 
-        <!-- Slide 8: Complete -->
+        <!-- Slide 8: Cleanup -->
         <div class="slide complete-slide">
-            <h1>Enjoy Your Latte</h1>
-            <p class="subtitle">Well Done!</p>
-            <div style="margin-top: 40px; font-size: 24px; color: #888; letter-spacing: 1px; text-transform: uppercase;">Press Restart to Start Over</div>
+            <div class="step-number">Step 7 of 7</div>
+            <h2>Cleanup</h2>
+            <p class="step-content">
+                Remove the portafilter and <strong>knock the used puck into the knock box</strong>.
+            </p>
+            <p class="step-content">
+                Rinse the portafilter, basket and milk jug, wipe them dry, and place everything back ready for the next person.
+            </p>
+            <div class="media-placeholder">Knock box / Rinse & ready</div>
+            <div style="margin-top: 40px; font-size: 24px; color: #888; letter-spacing: 1px; text-transform: uppercase;">
+                Press Restart to Start Over
+            </div>
             <button class="reset-button" id="reset-btn">Restart</button>
         </div>
     </div>
@@ -451,7 +387,7 @@
 
     <div class="controls">
         <button id="back-btn" class="back-button hidden">←</button>
-        <button id="next-btn" class="next-button">→</button>
+        <button id="next-btn" class="next-button hidden">→</button>
     </div>
 
     <script>
@@ -461,114 +397,85 @@
         const backBtn = document.getElementById('back-btn');
         const nextBtn = document.getElementById('next-btn');
         const currentSlideSpan = document.getElementById('current-slide');
+        const totalSlidesSpan = document.getElementById('total-slides');
+
+        totalSlidesSpan.textContent = totalSlides;
 
         function showSlide(n) {
-            // Hide all slides
+            if (n < 0) n = 0;
+            if (n > totalSlides - 1) n = totalSlides - 1;
+            currentSlide = n;
+
             slides.forEach(slide => slide.classList.remove('active'));
+            slides[currentSlide].classList.add('active');
+            currentSlideSpan.textContent = currentSlide + 1;
 
-            // Show current slide
-            slides[n].classList.add('active');
-
-            // Update counter
-            currentSlideSpan.textContent = n + 1;
-
-            // Update button states
-            // Hide back button on first slide, show on all others
-            if (n === 0) {
+            if (currentSlide === 0) {
                 backBtn.classList.add('hidden');
                 nextBtn.classList.add('hidden');
             } else {
                 backBtn.classList.remove('hidden');
             }
 
-            // Hide next button on last slide
-            if (n === totalSlides - 1) {
+            if (currentSlide === totalSlides - 1) {
                 nextBtn.classList.add('hidden');
-            } else if (n > 0) {
+            } else if (currentSlide > 0) {
                 nextBtn.classList.remove('hidden');
             }
 
-            // Change button text based on slide
-            if (n === 0) {
-                nextBtn.textContent = '→';
-            } else if (n === totalSlides - 1) {
-                nextBtn.textContent = '';
-            } else {
-                nextBtn.textContent = '→';
-            }
+            updateSidebarHighlight();
         }
 
-        // Update sidebar step highlighting
         function updateSidebarHighlight() {
             const stepItems = document.querySelectorAll('.step-item');
             stepItems.forEach(item => item.classList.remove('active'));
-            
             const activeStep = document.querySelector(`.step-item[data-step="${currentSlide}"]`);
-            if (activeStep) {
-                activeStep.classList.add('active');
-            }
+            if (activeStep) activeStep.classList.add('active');
         }
 
-        // Sidebar step item click navigation
         const stepItems = document.querySelectorAll('.step-item');
         stepItems.forEach(item => {
             item.addEventListener('click', () => {
-                const step = parseInt(item.getAttribute('data-step'));
-                currentSlide = step;
-                showSlide(currentSlide);
-                updateSidebarHighlight();
+                const step = parseInt(item.getAttribute('data-step'), 10);
+                showSlide(step);
             });
         });
 
-        // Event listeners
         nextBtn.addEventListener('click', () => {
             if (currentSlide < totalSlides - 1) {
-                currentSlide++;
-                showSlide(currentSlide);
-                updateSidebarHighlight();
+                showSlide(currentSlide + 1);
             }
         });
 
         backBtn.addEventListener('click', () => {
             if (currentSlide > 0) {
-                currentSlide--;
-                showSlide(currentSlide);
-                updateSidebarHighlight();
+                showSlide(currentSlide - 1);
             }
         });
 
-        // Start button on title slide
         const startBtn = document.getElementById('start-btn');
         if (startBtn) {
             startBtn.addEventListener('click', () => {
-                currentSlide = 1;
-                showSlide(currentSlide);
-                updateSidebarHighlight();
+                showSlide(1);
             });
         }
 
-        // Reset button on completion slide
         const resetBtn = document.getElementById('reset-btn');
         if (resetBtn) {
             resetBtn.addEventListener('click', () => {
-                currentSlide = 0;
-                showSlide(currentSlide);
-                updateSidebarHighlight();
+                showSlide(0);
             });
         }
 
-        // Keyboard navigation
         document.addEventListener('keydown', (e) => {
             if (e.key === 'ArrowRight' || e.key === ' ') {
-                nextBtn.click();
+                if (!nextBtn.classList.contains('hidden')) nextBtn.click();
             } else if (e.key === 'ArrowLeft') {
-                backBtn.click();
+                if (!backBtn.classList.contains('hidden')) backBtn.click();
             }
         });
 
-        // Initialize
         showSlide(0);
-        updateSidebarHighlight();
     </script>
 </body>
 </html>
