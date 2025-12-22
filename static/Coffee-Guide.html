@@ -16,6 +16,10 @@
             background: #000;
             color: #fff;
             overflow: hidden;
+            overflow-x: hidden;
+            position: fixed;
+            width: 100%;
+            height: 100%;
         }
 
         .slides-container {
@@ -233,6 +237,7 @@
             overflow-y: auto;
             display: flex;
             flex-direction: column;
+            z-index: 100;
         }
 
         .sidebar-title {
@@ -276,6 +281,9 @@
         /* Adjust main content to account for sidebar */
         .slides-container {
             margin-left: 200px;
+            width: calc(100vw - 200px);
+            overflow: hidden;
+            position: relative;
         }
 
         /* Circular Start Button */
