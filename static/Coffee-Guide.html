@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How to Make a Latte - Breville Oracle Jet Touch</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+            background: #000;
+            color: #fff;
+            overflow: hidden;
+        }
+
+        .slides-container {
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .slide {
+            width: 100%;
+            height: 100%;
+            display: none;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 60px;
+            text-align: center;
+            position: relative;
+            background: #000;
+            color: #fff;
+        }
+
+        .slide.active {
+            display: flex;
+        }
+
+        h1 {
+            font-size: 72px;
+            font-weight: 700;
+            margin-bottom: 30px;
+            text-transform: uppercase;
+            letter-spacing: -1px;
+        }
+
+        h2 {
+            font-size: 56px;
+            font-weight: 700;
+            margin-bottom: 40px;
+            text-transform: uppercase;
+            letter-spacing: -1px;
+        }
+
+        .subtitle {
+            font-size: 32px;
+            font-weight: 300;
+            color: #ccc;
+            margin-bottom: 20px;
+            letter-spacing: 0.5px;
+        }
+
+        .step-number {
+            font-size: 28px;
+            font-weight: 300;
+            color: #888;
+            margin-bottom: 15px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .step-content {
+            font-size: 36px;
+            font-weight: 400;
+            line-height: 1.6;
+            color: #fff;
+            max-width: 1000px;
+        }
+
+        .controls {
+            position: fixed;
+            bottom: 60px;
+            left: 200px;
+            right: 0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0 60px;
+            pointer-events: none;
+            z-index: 20;
+        }
+
+        button {
+            pointer-events: all;
+            width: 80px;
+            height: 80px;
+            border: 2px solid #fff;
+            background: transparent;
+            color: #fff;
+            font-size: 20px;
+            font-weight: 700;
+            cursor: pointer;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            transition: all 0.3s ease;
+            border-radius: 50%;
+        }
+
+        /* Circular Start Button */
+        .start-button {
+            width: 140px;
+            height: 140px;
+            border-radius: 50%;
+            border: 3px solid #fff;
+            background: transparent;
+            color: #fff;
+            font-size: 18px;
+            font-weight: 700;
+            cursor: pointer;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            transition: all 0.3s ease;
+            margin-top: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            animation: slowBlink 2.5s ease-in-out infinite;
+        }
+
+        @keyframes slowBlink {
+            0%, 100% {
+                opacity: 1;
+            }
+            50% {
+                opacity: 0.4;
+            }
+        }
+
+        .start-button:hover {
+            background: #fff;
+            color: #000;
+            animation: none;
+        }
+
+        .start-button:active {
+            transform: scale(0.95);
+        }
+
+        /* Media/Image Placeholder */
+        .media-placeholder {
+            width: 400px;
+            height: 300px;
+            background: #222;
+            border: 2px solid #444;
+            border-radius: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 40px auto 0;
+            font-size: 18px;
+            color: #666;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        button:hover {
+            background: #fff;
+            color: #000;
+        }
+
+        button:active {
+            transform: scale(0.95);
+        }
+
+        button.hidden {
+            opacity: 0;
+            cursor: default;
+            pointer-events: none;
+        }
+
+        button.hidden:hover {
+            background: transparent;
+            color: #fff;
+        }
+
+        .slide-counter {
+            position: fixed;
+            top: 60px;
+            left: 60px;
+            font-size: 14px;
+            font-weight: 300;
+            color: #666;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            margin-left: 200px;
+            z-index: 10;
+        }
+
+        /* Slide-specific styles */
+        .title-slide {
+            background: #000;
+        }
+
+        .complete-slide {
+            background: #000;
+        }
+
+        .step-icon {
+            width: 120px;
+            height: 120px;
+            margin: 0 auto 40px;
+            background: none;
+            border-radius: 0;
+        }
+
+        /* Sidebar Navigation */
+        .sidebar {
+            position: fixed;
+            left: 0;
+            top: 0;
+            width: 200px;
+            height: 100vh;
+            background: #1a1a1a;
+            padding: 60px 20px 60px 20px;
+            border-right: 1px solid #333;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .sidebar-title {
+            font-size: 12px;
+            font-weight: 700;
+            color: #888;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 30px;
+        }
+
+        .step-list {
+            list-style: none;
+            flex: 1;
+        }
+
+        .step-item {
+            font-size: 12px;
+            font-weight: 400;
+            color: #666;
+            padding: 10px 12px;
+            margin-bottom: 6px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border-left: 3px solid transparent;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            line-height: 1.4;
+        }
+
+        .step-item:hover {
+            color: #999;
+        }
+
+        .step-item.active {
+            color: #fff;
+            border-left-color: #fff;
+            background: #2a2a2a;
+        }
+
+        /* Adjust main content to account for sidebar */
+        .slides-container {
+            margin-left: 200px;
+        }
+
+        /* Circular Start Button */
+        .start-button {
+            width: 140px;
+            height: 140px;
+            border-radius: 50%;
+            border: 3px solid #fff;
+            background: transparent;
+            color: #fff;
+            font-size: 18px;
+            font-weight: 700;
+            cursor: pointer;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            transition: all 0.3s ease;
+            margin-top: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            animation: slowBlink 2.5s ease-in-out infinite;
+        }
+
+        @keyframes slowBlink {
+            0%, 100% {
+                opacity: 1;
+            }
+            50% {
+                opacity: 0.4;
+            }
+        }
+
+        .start-button:hover {
+            background: #fff;
+            color: #000;
+            animation: none;
+        }
+
+        .start-button:active {
+            transform: scale(0.95);
+        }
+
+        /* Reset Button */
+        .reset-button {
+            width: 140px;
+            height: 140px;
+            border-radius: 50%;
+            border: 3px solid #fff;
+            background: transparent;
+            color: #fff;
+            font-size: 18px;
+            font-weight: 700;
+            cursor: pointer;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            transition: all 0.3s ease;
+            margin-top: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            animation: slowBlink 2.5s ease-in-out infinite;
+            pointer-events: all;
+        }
+
+        .reset-button:hover {
+            background: #fff;
+            color: #000;
+            animation: none;
+        }
+
+        .reset-button:active {
+            transform: scale(0.95);
+        }
+
+        /* Hide next button on title slide */
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <!-- Left Sidebar Navigation -->
+    <div class="sidebar">
+        <div class="sidebar-title">Guide</div>
+        <ul class="step-list">
+            <li class="step-item active" data-step="0">Introduction</li>
+            <li class="step-item" data-step="1">Step 1: Prepare</li>
+            <li class="step-item" data-step="2">Step 2: Select Milk</li>
+            <li class="step-item" data-step="3">Step 3: Steam Milk</li>
+            <li class="step-item" data-step="4">Step 4: Insert Portafilter</li>
+            <li class="step-item" data-step="5">Step 5: Brew Espresso</li>
+            <li class="step-item" data-step="6">Step 6: Pour & Enjoy</li>
+            <li class="step-item" data-step="7">Finished</li>
+        </ul>
+    </div>
+
+    <div class="slides-container">
+        <!-- Slide 1: Title -->
+        <div class="slide active title-slide">
+            <h1>How to Make a Latte</h1>
+            <p class="subtitle">Breville Oracle Jet Touch</p>
+            <div style="margin-top: 40px; font-size: 24px; color: #888; letter-spacing: 1px; text-transform: uppercase;">Press Start to Begin</div>
+            <button class="start-button" id="start-btn">Start</button>
+        </div>
+
+        <!-- Slide 2: Step 1 -->
+        <div class="slide">
+            <div class="step-number">Step 1 of 6</div>
+            <h2>Prepare</h2>
+            <p class="step-content">Fill milk jug with fresh cold milk to just below the spout mark. Place jug under steam wand.</p>
+            <div class="media-placeholder">Image / Video</div>
+        </div>
+
+        <!-- Slide 3: Step 2 -->
+        <div class="slide">
+            <div class="step-number">Step 2 of 6</div>
+            <h2>Select Milk Type</h2>
+            <p class="step-content">Tap the milk icon on screen. Choose your milk type: Dairy, Almond, Soy, or Oat.</p>
+            <div class="media-placeholder">Image / Video</div>
+        </div>
+
+        <!-- Slide 4: Step 3 -->
+        <div class="slide">
+            <div class="step-number">Step 3 of 6</div>
+            <h2>Steam the Milk</h2>
+            <p class="step-content">Press down the steam lever. The screen displays temperature in real time. Machine stops automatically at your set temperature.</p>
+            <div class="media-placeholder">Image / Video</div>
+        </div>
+
+        <!-- Slide 5: Step 4 -->
+        <div class="slide">
+            <div class="step-number">Step 4 of 6</div>
+            <h2>Insert Portafilter</h2>
+            <p class="step-content">Insert the portafilter into the group head. Press to lock. The machine will automatically grind, dose, and tamp.</p>
+            <div class="media-placeholder">Image / Video</div>
+        </div>
+
+        <!-- Slide 6: Step 5 -->
+        <div class="slide">
+            <div class="step-number">Step 5 of 6</div>
+            <h2>Brew Espresso</h2>
+            <p class="step-content">Tap the espresso icon. Machine extracts a double shot of espresso directly into your cup below the portafilter.</p>
+            <div class="media-placeholder">Image / Video</div>
+        </div>
+
+        <!-- Slide 7: Step 6 -->
+        <div class="slide">
+            <div class="step-number">Step 6 of 6</div>
+            <h2>Pour & Enjoy</h2>
+            <p class="step-content">Pour the steamed milk into the espresso cup. Top with a small layer of microfoam. Your latte is ready!</p>
+            <div class="media-placeholder">Image / Video</div>
+        </div>
+
+        <!-- Slide 8: Complete -->
+        <div class="slide complete-slide">
+            <h1>Enjoy Your Latte</h1>
+            <p class="subtitle">Well Done!</p>
+            <div style="margin-top: 40px; font-size: 24px; color: #888; letter-spacing: 1px; text-transform: uppercase;">Press Restart to Start Over</div>
+            <button class="reset-button" id="reset-btn">Restart</button>
+        </div>
+    </div>
+
+    <div class="slide-counter">
+        <span id="current-slide">1</span> / <span id="total-slides">8</span>
+    </div>
+
+    <div class="controls">
+        <button id="back-btn" class="back-button hidden">←</button>
+        <button id="next-btn" class="next-button">→</button>
+    </div>
+
+    <script>
+        let currentSlide = 0;
+        const slides = document.querySelectorAll('.slide');
+        const totalSlides = slides.length;
+        const backBtn = document.getElementById('back-btn');
+        const nextBtn = document.getElementById('next-btn');
+        const currentSlideSpan = document.getElementById('current-slide');
+
+        function showSlide(n) {
+            // Hide all slides
+            slides.forEach(slide => slide.classList.remove('active'));
+
+            // Show current slide
+            slides[n].classList.add('active');
+
+            // Update counter
+            currentSlideSpan.textContent = n + 1;
+
+            // Update button states
+            // Hide back button on first slide, show on all others
+            if (n === 0) {
+                backBtn.classList.add('hidden');
+                nextBtn.classList.add('hidden');
+            } else {
+                backBtn.classList.remove('hidden');
+            }
+
+            // Hide next button on last slide
+            if (n === totalSlides - 1) {
+                nextBtn.classList.add('hidden');
+            } else if (n > 0) {
+                nextBtn.classList.remove('hidden');
+            }
+
+            // Change button text based on slide
+            if (n === 0) {
+                nextBtn.textContent = '→';
+            } else if (n === totalSlides - 1) {
+                nextBtn.textContent = '';
+            } else {
+                nextBtn.textContent = '→';
+            }
+        }
+
+        // Update sidebar step highlighting
+        function updateSidebarHighlight() {
+            const stepItems = document.querySelectorAll('.step-item');
+            stepItems.forEach(item => item.classList.remove('active'));
+            
+            const activeStep = document.querySelector(`.step-item[data-step="${currentSlide}"]`);
+            if (activeStep) {
+                activeStep.classList.add('active');
+            }
+        }
+
+        // Sidebar step item click navigation
+        const stepItems = document.querySelectorAll('.step-item');
+        stepItems.forEach(item => {
+            item.addEventListener('click', () => {
+                const step = parseInt(item.getAttribute('data-step'));
+                currentSlide = step;
+                showSlide(currentSlide);
+                updateSidebarHighlight();
+            });
+        });
+
+        // Event listeners
+        nextBtn.addEventListener('click', () => {
+            if (currentSlide < totalSlides - 1) {
+                currentSlide++;
+                showSlide(currentSlide);
+                updateSidebarHighlight();
+            }
+        });
+
+        backBtn.addEventListener('click', () => {
+            if (currentSlide > 0) {
+                currentSlide--;
+                showSlide(currentSlide);
+                updateSidebarHighlight();
+            }
+        });
+
+        // Start button on title slide
+        const startBtn = document.getElementById('start-btn');
+        if (startBtn) {
+            startBtn.addEventListener('click', () => {
+                currentSlide = 1;
+                showSlide(currentSlide);
+                updateSidebarHighlight();
+            });
+        }
+
+        // Reset button on completion slide
+        const resetBtn = document.getElementById('reset-btn');
+        if (resetBtn) {
+            resetBtn.addEventListener('click', () => {
+                currentSlide = 0;
+                showSlide(currentSlide);
+                updateSidebarHighlight();
+            });
+        }
+
+        // Keyboard navigation
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowRight' || e.key === ' ') {
+                nextBtn.click();
+            } else if (e.key === 'ArrowLeft') {
+                backBtn.click();
+            }
+        });
+
+        // Initialize
+        showSlide(0);
+        updateSidebarHighlight();
+    </script>
+</body>
+</html>
