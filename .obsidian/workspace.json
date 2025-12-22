@@ -165,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.5
+    "width": 705.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,7 +180,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "90debfb2f16174c1",
+  "active": "098f850eb9b3710d",
   "lastOpenFiles": [
     "static/Coffee-Guide.html",
     "Untitled.md",
