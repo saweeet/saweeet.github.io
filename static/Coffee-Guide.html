@@ -91,6 +91,21 @@
             margin-bottom: 10px;
         }
 
+        .equipment-list {
+            font-size: 32px;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #fff;
+            max-width: 1000px;
+            margin-bottom: 20px;
+            text-align: left;
+            padding-left: 40px;
+        }
+
+        .equipment-list li {
+            margin-bottom: 8px;
+        }
+
         .controls {
             position: fixed;
             bottom: 60px;
@@ -272,7 +287,7 @@
             <li class="step-item" data-step="3">Step 3: Grind coffee</li>
             <li class="step-item" data-step="4">Step 4: Brewing</li>
             <li class="step-item" data-step="5">Step 5: Milk</li>
-            <li class="step-item" data-step="6">Step 6: Pour milk</li>
+            <li class="step-item" data-step="6">Step 6: Finishing your coffee</li>
             <li class="step-item" data-step="7">Step 7: Cleanup</li>
         </ul>
     </div>
@@ -281,7 +296,7 @@
         <!-- Slide 1: Introduction -->
         <div class="slide active title-slide">
             <h1>How to Make a Coffee</h1>
-            <p class="subtitle">Follow the steps on the Oracle Jet Touch</p>
+            <p class="subtitle">Press the start button to begin</p>
             <button class="start-button" id="start-btn">Start</button>
         </div>
 
@@ -289,9 +304,13 @@
         <div class="slide">
             <div class="step-number">Step 1 of 7</div>
             <h2>Equipment list</h2>
-            <p class="step-content">
-                You will use: mug, portafilter, filter basket, milk jug, knock box and the Oracle Jet Touch screen.
-            </p>
+            <ol class="equipment-list">
+                <li>Mug</li>
+                <li>Portafilter (with filter basket)</li>
+                <li>Milk jug</li>
+                <li>Knock box</li>
+                <li>Oracle Jet Touch screen</li>
+            </ol>
             <p class="step-content">
                 Make sure all items are within easy reach before you begin.
             </p>
@@ -353,7 +372,7 @@
         <!-- Slide 7: Pour milk -->
         <div class="slide">
             <div class="step-number">Step 6 of 7</div>
-            <h2>Pour milk</h2>
+            <h2>Finishing your coffee</h2>
             <p class="step-content">
                 Slowly pour the steamed milk into the espresso in your mug.
             </p>
