@@ -18,8 +18,8 @@ Thank you for agreeing to look after our cats Soba and Laksa. Kindly see their c
 ## Timings
 
 **Abbey**
-- Arrive Friday, 31 October before 5.30pm dinner. We will be leaving home at around 8-9am.
-- Leave Monday, 3 November after 7:30am breakfast - if you need to leave earlier on this last day then an early breakfast is fine. We will return around early afternoon.
+- Arrive Friday, March 6 before 5.30pm dinner. We will be leaving home at around 3-4PM
+- Leave Sunday, March 8 after 7:30am breakfast. 
 
 ## Front door: Entering & leaving
 - Soba and Laksa are indoor-only cats.
@@ -31,7 +31,7 @@ Thank you for agreeing to look after our cats Soba and Laksa. Kindly see their c
 ## Keys and security
 1. Wake the keypad by touching it.
 2. Enter your PIN: type the 4–12 digit PIN when all buttons are visible.
-3. Press the Tick button (bottom left) to complete—the door will unlock if the PIN is correct.
+3. Press the Tick button (bottom left) to complete. The door will unlock if the PIN is correct.
 You may leave the screen door unlocked.
 
 ---
@@ -51,7 +51,6 @@ Please watch:
 
 
 - **Feeding Times:** 7:30am and 5:30pm each day. It’s ok to occasionally be up to an hour early or late. But it's best to avoid this if possible, to reduce Soba's food aggression towards Laksa.
-- **Playtime** (optional): 5–10 minutes before each meal with a wand toy(s).
 - **Food:** Measure dry food (from the pantry) and wet food (from the fridge). Follow the measurements labeled on the dry container.
 - **Scale:** Turn off the scale by pressing **tare** (the button to make it zero) twice. If it runs out of battery, you'll find batteries in the bottom drawer (same drawer as cling wrap and foil).
 
@@ -66,7 +65,7 @@ Please watch:
 8. Stop any attempts to eat from each other's bowl (Soba tends do this when he’s finished his bowl and he's unsupervised). If all food is eaten, licking each other's empty bowls afterward is fine.
 
 ---
-# Cat 101 & discipline guidelines
+# Behaviour & discipline guidelines
 
 ## No biting policy
 - If either cat bites (even gently), say "No" firmly, then leave them alone and ignore them for a few minutes.
@@ -74,7 +73,7 @@ Please watch:
 
 ## Kitchen counter
 - If you see either cat on the **benchtop** or **dining table**, say "No" firmly. If they don't jump down, gently place them on the floor. Laksa is untrained and will need to be gently picked up and placed on the floor.
-- Make sure no uncovered food or dirty dishes are left out. Place dirty dishes face down in the sink or directly into the dishwasher to avoid them getting sick or tempted.
+- Make sure no uncovered food or dirty dishes are left out. Place dirty dishes face down in the sink or directly into the dishwasher to avoid them getting sick or tempted. We like to use sieves to temparily cover food we leave on the bench.
 - If you're cooking or eating and either Soba or Laksa keeps repeatedly jumping up on the benchtop or dining table, you may move them out of the kitchen by closing both sliding doors.
 - Soba might want to sit on your lap while you're eating at the dining table. This is fine, if you don't mind it. Ensure Soba does not place his paws on the table or eat your food - say 'No' firmly and remove his paws if he tries. If he keeps trying, place him back down.
 
@@ -102,10 +101,9 @@ Please watch:
 
 Soba and Laksa like to play fight each day - this is healthy. Sometimes they annoy each other while play fighting and that's ok. Most fights are self-resolving and you don't need to do anything. 
 
-Occasionally, Soba won’t leave Laksa alone after she’s had enough and he tends to play rough. If you hear Laksa screeching for more than about 10s because Soba is pinning her down and she can’t escape, a loud clap or a stern ‘No’ will snap Soba out of it and give Laksa a chance to escape. We hardly have to do this since they’re getting along better. If you find they are doing this often, play time can help release their energy and get them tired. For example, if this tends to happen after you go to bed then play time before bed can help.
+Occasionally, Soba won’t leave Laksa alone after she’s had enough and he tends to play rough. If you hear Laksa screeching for more than about 10s, its likely because Soba is pinning her down and she can’t escape. What to do: Stand up and start walking towards them will often cause Soba to immediately stop and allow Laksa to leave. Otherwise a stern ‘No’ will snap Soba out of it and give Laksa a chance to escape.
 
 Feel free to take a video and send it to us on WhatsApp if you’re unsure.
-
 ## Picking up a cat
 
 There are different ways to pick up a cat. Whichever way, key is that the cat feels supported. Support the chest and back legs. 
@@ -186,7 +184,7 @@ Occasionally Laksa or Soba might vomit out a bunch of fur (hairball). This is he
 ---
 # Home
 
-## Bin collections (N/A for Abbey)
+## Bin collections 
 Take bins out on Monday nights for a Tuesday collection.
 
 ## Kitchen maintenance

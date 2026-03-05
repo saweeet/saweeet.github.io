@@ -25,14 +25,14 @@
             "id": "44c5a15bb071339b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "content/en/theology/lgbt-discussions.md",
-                "bFile": "content/en/theology/lgbt-discussions.md",
-                "aRef": ""
+                "file": "content/en/cat-sitting.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: lgbt-discussions"
+              "icon": "lucide-file",
+              "title": "cat-sitting"
             }
           }
         ],
