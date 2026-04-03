@@ -39,11 +39,6 @@ You may leave the screen door unlocked.
 ---
 # Soba and Laksa's meal routine
 
-Please watch:
-
-{{< youtube D7hhVq6CGDo >}}
-
-
 - **Feeding Times:** 7:30am and 5:30pm each day. It’s ok to occasionally be up to an hour early or late. 
 - **Food:** Measure dry food (from the pantry) and wet food (from the fridge). Follow the measurements labeled on the dry container.
 - **Scale:** Turn off the scale by pressing **tare** (the button to make it zero) twice. If it runs out of battery, you'll find batteries in the bottom drawer (same drawer as cling wrap and foil).
@@ -144,6 +139,7 @@ The cats like to silently follow you around so be careful with unintentionally l
 The following common items are toxic or fatal to cats:
 - garlic and onion
 - chives, leeks and shallots
+- grapes
 - lillies and tulips
 - chocolate
 - coffee
@@ -151,7 +147,7 @@ The following common items are toxic or fatal to cats:
 - rubber bands and hairties
 - essential oils (including sprays and diffusers)
 
-Always keep medicines out of reach - e.g. return tablets to their boxes immediately after use.
+Always keep medicines out of reach - e.g. return tablets to their boxes immediately after use. This is vital as **medicines can cause death very quickly**.
 
 Avoid giving cats human food. This also prevents them from begging or stealing our food.
 
@@ -161,12 +157,12 @@ Occasionally Laksa or Soba might vomit out a bunch of fur (hairball). This is he
 # Automatic devices
 
 ## Automatic litter box 
-- Note for Abbey - no need to do anything for the litter box since your stay is short. Our app will alert us if there are any malfunctions.
+- If your stay is short (7 days or less) then you don't need to do anything with the litter box. Our app will alert us if there are any malfunctions.
 - The cat litter box bin needs replacing once a week. Monday (day before bin collection) is a great time to do this. Bin bags are found in cabinet to the left of the litter box, top shelf in the red bag. See this video on how to replace the cat litter bag: https://youtube.com/shorts/6aFe1E8Kzjw?si=xHLaapjB_zLpf9RT
-- The litter sand sometimes needs topping up (about once a fortnight). Consider topping up if it's 2 inches below the guiding line. Add sand to how much you think would flatten to the line. Then click ‘cycle’. Litter sand is found in the left cabinet, at the bottom.
+- The litter sand sometimes needs topping up (about once a fortnight). Consider topping up if it's about 2 inches below the guiding line. Add cat sand to how much you think would flatten to the line. Then click ‘cycle’. Litter sand is found in the left cabinet, at the bottom.
 - The litter box light meanings: blue = ready; red = cat detected/litter used (will cycle in 7 minutes to allow time for sand to clump); moving white dots = cycle in progress. Any other lights may indicate an issue. You can let us know, we should also get notification on our phones to find the issue.
-- You may leave the air purifier on top of the washing machine on speed 1
-- If there are any messes outside of the box (rare), you can use disinfectant spray and wipes to clean.
+- You may leave on the air purifier on speed 1, found on top of the washing machine.
+- If there are any messes outside of the box (rare), you can use disinfectant spray (spray is under the kitchen sink) and wipes or papertowel to clean.
 
 ## Water fountains
 - There are two water fountains, located in the living room and the dining room.
@@ -178,7 +174,7 @@ Occasionally Laksa or Soba might vomit out a bunch of fur (hairball). This is he
 # Home
 
 ## Bin collections 
-Take bins out on Monday nights for a Tuesday collection.
+Take bins out on Monday nights for a Tuesday collection. To find out which bins need collection, input our address to: https://www.casey.vic.gov.au/find-your-bin-collection-day 
 
 ## Kitchen maintenance
 - Wipe all spills immediately with a damp cloth. Simple water will do for cabinets and benchtops. If water doesn't clean it, you could also dab a wet cloth with gentle dishwashing liquid found under the sink. Or for the stone benchtops, use the stone friendly spray found under the sink.
@@ -239,13 +235,13 @@ The TV is on a different network so you will need to connect to a different Wi-F
 
 ## Coffee machine operation
 - Shorts link: [https://www.youtube.com/shorts/BqlXmq-OdXk](https://www.youtube.com/shorts/BqlXmq-OdXk)
-- Use filtered water to refill the water tank. Do not exceed the max line. Do not run the machine on empty water.
-- The red flag will appear when the tray is full of water. Bring the tray to the sink and tip water into the sink. Briefly rinse the sink afterwards to avoid coffee stains.
+- Use filtered water to refill the water tank (kitchen tap, left lever). Do not exceed the max line. Do not run the machine on empty water.
+- The red flag will be visible when the tray is full of water. Bring the tray to the sink and tip water into the sink. Briefly rinse the sink afterwards to avoid coffee stains.
 - For hot water, you can use either the coffee machine or the kettle found in the bottom drawer below the stove.
 
 ## Aircon/heater & fireplace operation
-- All bedrooms have aircon and heaters with their own remotes. Each white remote is kept on a table in their bedroom. If it's a hot day, you can leave them running on max with the doors open to cool the whole house. There is also a fan in the music room.
-- If you want to use the fireplace, there's an On/Off switch located on the right-hand side of the facade.
+- All bedrooms have aircon and heaters with their own remotes. Each white remote is found above the room's light switch. The living and kitchen areas have their own aircon/heater - use the switch on the wall near the dining table. 
+- If you want to use the fireplace, there's an On/Off switch located on the bottom right-hand side of the fireplace.
 
 ## Windows
 
@@ -255,8 +251,8 @@ Some window winders hit the metal screen. Press the metal screen forward to use 
 - Kindly request guests to be mindful of the cats when entering and leaving the house. Remind them to avoid leaving the front door open for long periods of time. See *[Outdoor Safety](./cat-sitting/#outdoor-safety)* section.
 - Kindly educate guests if they are violating any of the points in the *[Don'ts](./cat-sitting/#donts)* section
 - Feel free to move furniture around to accommodate additional seating.
-- There are about 12 additional foldable black seats in the outside shed behind the house.
-- There are also 2 foldable tables in the outside shed.
+- There are about additional foldable black seats in the outside shed behind the house.
+- There are also foldable tables in the outside shed.
 
 ---
 # Vet details
