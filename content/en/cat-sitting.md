@@ -50,9 +50,9 @@ Please watch:
 
 ## Feeding steps
 1. Bring both bowls of food to the feeding area.
-2. Say "Sit" once. Avoid repeating the command.
-3. Once both are sitting, place bowls down. They might stand up and approach the bowl when you do this. Wait until they are both sitting and giving you eye contact (be patient - sometimes this takes a while)
-4. If either cat approaches their bowl, you can put your hand between them and their bowl and say firmly 'No'. You can block the bowl or gently push a cat away from the bowl if needed. They should sit back if you do this. 
+2. Say "Sit" once. 
+3. Once both are sitting, place bowls down. 
+4. Once you place the bowls, we want them to stay sitting but they might stand and approach their bowl. If they do this, firmly say 'No' and block the bowl with your hand or gently push them away from their bowl. They should sit back easily. 
 5. Wait for both cats to sit and make eye contact with you. Then say "Good job" to signal that they can now eat.
 6. Laksa eats from the left bowl, Soba eats from the right bowl.
 7. Stop any attempts to eat from each other's bowl (Soba tends do this when he’s finished his bowl and he's unsupervised). If all food is eaten, licking each other's empty bowls afterward is fine.
