@@ -44,19 +44,18 @@ Please watch:
 {{< youtube D7hhVq6CGDo >}}
 
 
-- **Feeding Times:** 7:30am and 5:30pm each day. It’s ok to occasionally be up to an hour early or late. But it's best to avoid this if possible, to reduce Soba's food aggression towards Laksa.
+- **Feeding Times:** 7:30am and 5:30pm each day. It’s ok to occasionally be up to an hour early or late. 
 - **Food:** Measure dry food (from the pantry) and wet food (from the fridge). Follow the measurements labeled on the dry container.
 - **Scale:** Turn off the scale by pressing **tare** (the button to make it zero) twice. If it runs out of battery, you'll find batteries in the bottom drawer (same drawer as cling wrap and foil).
 
 ## Feeding steps
 1. Bring both bowls of food to the feeding area.
 2. Say "Sit" once. Avoid repeating the command.
-3. Once both are sitting, place bowls down. 
-4. Hold Laksa back (she doesn’t know ‘stay’ yet) using your arm to block her from her bowl.
-5. If Soba tries to eat before your signal, say "No" firmly and block/push him away from his bowl. He will sit back easily.
-6. Wait for Soba to sit and make eye contact with you. Then say "Good job" to signal that he and Laksa can start eating. **Hint:** I use my left hand to block Laksa while I look at Soba and wait for him to make eye contact.
-7. Laksa eats from the left bowl, Soba eats from the right bowl.
-8. Stop any attempts to eat from each other's bowl (Soba tends do this when he’s finished his bowl and he's unsupervised). If all food is eaten, licking each other's empty bowls afterward is fine.
+3. Once both are sitting, place bowls down. They might stand up and approach the bowl when you do this. Wait until they are both sitting and giving you eye contact (be patient - sometimes this takes a while)
+4. If either cat approaches their bowl, you can put your hand between them and their bowl and say firmly 'No'. You can block the bowl or gently push a cat away from the bowl if needed. They should sit back if you do this. 
+5. Wait for both cats to sit and make eye contact with you. Then say "Good job" to signal that they can now eat.
+6. Laksa eats from the left bowl, Soba eats from the right bowl.
+7. Stop any attempts to eat from each other's bowl (Soba tends do this when he’s finished his bowl and he's unsupervised). If all food is eaten, licking each other's empty bowls afterward is fine.
 
 ---
 # Behaviour & discipline guidelines
