@@ -11,7 +11,7 @@ draft: false
 
 # Prior to visiting a property
 
-Optional: Have a seperate list of items that are essential and are a priority to you. Start off seperate to avoid being persuaded, the combine into a single list.
+Optional: Have a separate list of items that are essential and are a priority to you. Start off separate to avoid being persuaded, the combine into a single list.
 
 # Quick hints and checklist
 
