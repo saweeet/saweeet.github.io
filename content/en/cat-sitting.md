@@ -15,12 +15,6 @@ Thank you for agreeing to look after our cats Soba and Laksa. Kindly see their c
 ---
 # Arrivals & departures 
 
-## Timings
-
-**Lawrence**
-- Arrive Tuesday, April 7 before 5.30pm dinner
-- Leave Friday, April 10 after 7:30am breakfast
-
 ## Front door: Entering & leaving
 - Soba and Laksa are indoor-only cats.
 - When entering, lead with your foot to prevent them from dashing outside.
@@ -39,7 +33,7 @@ You may leave the screen door unlocked.
 
 **Daily responsibilities**
 - Feed breakfast and dinner
-- Check water fountains are working
+- Check water fountains are working - top up with water if not
 - Send cat photos/videos via Whatsapp - if possible we'd really appreciate daily pics/vids of our cats ❤️
 
 ---
