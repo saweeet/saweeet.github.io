@@ -262,3 +262,11 @@ Some window winders hit the metal screen. Press the metal screen forward to use 
 Hallam Park Animal Hospital - 03 8786 3900
 https://maps.app.goo.gl/ZtvDbQaDBLorer2N9
  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3144.0596270351143!2d145.27169881294614!3d-37.99906964453671!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad6172691bbc86f%3A0x2fce07660c349ab6!2sHallam%20Park%20Animal%20Hospital!5e0!3m2!1sen!2sau!4v1737350628677!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+**Emergency 24/7 vet hospital**
+Casey Pet Emergency - (03) 8790 1625
+https://maps.app.goo.gl/UUvLcGTUpBBAQrWD6 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3854.870318163115!2d145.29485024506872!3d-38.018919952396224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad6117069c6e815%3A0xc19bd3838d1afaab!2sCasey%20Pet%20Emergency!5e0!3m2!1sen!2sau!4v1775178701586!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+
