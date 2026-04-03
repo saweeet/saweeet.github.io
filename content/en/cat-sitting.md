@@ -17,7 +17,7 @@ Thank you for agreeing to look after our cats Soba and Laksa. Kindly see their c
 
 ## Timings
 
-**Abbey**
+**Lawrence**
 - Arrive Friday, March 6 before 5.30pm dinner. We will be leaving home at around 3-4PM
 - Leave Sunday, March 8 after 7:30am breakfast. 
 
